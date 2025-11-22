@@ -1,0 +1,2001 @@
+transaction,tag
+TRX Walmart DEL,grocery
+SWIPE Best Buy INDIA,electronics
+IMPS Reliance Fresh,grocery
+Carnival Cinemas,entertainment
+SQ *Dominos BLR,restaurant
+SQ *MedPlus,pharmacy
+SWIPE BigBasket 001,grocery
+IMPS Indigo HYD,airline
+SQ *GoFirst,airline
+Air India,airline
+TRX Croma 123,electronics
+IMPS Meru HYD,transport
+TRX Myntra INDIA,ecommerce
+IMPS Third Wave Coffee DEL,coffee_shop
+SQ *Amazon 001,ecommerce
+IMPS Ola 001,transport
+UPI BigBasket BLR,grocery
+SQ *Blue Tokai 001,coffee_shop
+SWIPE CCD,coffee_shop
+BigBasket DEL,grocery
+UPI Snapdeal HYD,ecommerce
+SWIPE Barista DEL,coffee_shop
+TRX Snapdeal 001,ecommerce
+TRX Starbucks,coffee_shop
+Air India,airline
+TRX INOX,entertainment
+Barista INDIA,coffee_shop
+SWIPE BigBasket DEL,grocery
+PAY Best Buy,electronics
+SQ *Indigo,airline
+SQ *HPCL,fuel
+SQ *PVR Cinemas,entertainment
+IMPS Shell,fuel
+DMart BLR,grocery
+GoFirst INDIA,airline
+TRX Barista DEL,coffee_shop
+UPI Best Buy HYD,electronics
+SQ *Spencers INDIA,grocery
+IMPS Indigo,airline
+IMPS Apple Store,electronics
+IMPS Air India HYD,airline
+PAY INOX 001,entertainment
+IMPS Ajio INDIA,ecommerce
+SWIPE Air India HYD,airline
+PAY PVR Cinemas 001,entertainment
+BPCL HYD,fuel
+UPI BigBasket 001,grocery
+UPI Myntra INDIA,ecommerce
+IMPS Croma,electronics
+PAY Myntra,ecommerce
+SQ *Shell HYD,fuel
+Dominos DEL,restaurant
+TRX BPCL HYD,fuel
+SWIPE Reliance Fresh INDIA,grocery
+UPI Walmart DEL,grocery
+IMPS NetMeds DEL,pharmacy
+SWIPE Croma 123,electronics
+UPI Ajio DEL,ecommerce
+IMPS RedBus BLR,transport
+IMPS IndianOil 123,fuel
+SWIPE GoFirst INDIA,airline
+IMPS SpiceJet DEL,airline
+DMart 001,grocery
+SQ *Blue Tokai BLR,coffee_shop
+SQ *GoFirst 123,airline
+SWIPE Apollo Pharmacy,pharmacy
+PAY Reliance Digital HYD,electronics
+UPI BookMyShow,entertainment
+SQ *Barista 123,coffee_shop
+IMPS INOX 001,entertainment
+UPI Carnival Cinemas,entertainment
+SQ *Ola INDIA,transport
+UPI BookMyShow DEL,entertainment
+Uber 123,transport
+TRX 1MG,pharmacy
+PAY Dominos 123,restaurant
+IMPS Croma,electronics
+TRX Dominos,restaurant
+IMPS McDonalds DEL,restaurant
+SQ *PizzaHut 001,restaurant
+SWIPE Myntra BLR,ecommerce
+IMPS Barista DEL,coffee_shop
+SWIPE Croma,electronics
+SQ *Blue Tokai,coffee_shop
+SWIPE Amazon,ecommerce
+Flipkart,ecommerce
+SQ *Uber 123,transport
+Indigo INDIA,airline
+SQ *KFC INDIA,restaurant
+IMPS Vijay Sales INDIA,electronics
+Dominos 123,restaurant
+SQ *Reliance Fresh,grocery
+IMPS Myntra DEL,ecommerce
+IMPS Vistara,airline
+SWIPE BookMyShow INDIA,entertainment
+TRX Walmart HYD,grocery
+PAY RedBus 123,transport
+TRX BigBasket 001,grocery
+UPI HPCL,fuel
+SWIPE Indigo HYD,airline
+UPI Walmart,grocery
+McDonalds,restaurant
+SQ *DMart,grocery
+Carnival Cinemas DEL,entertainment
+DMart 001,grocery
+TRX Apple Store INDIA,electronics
+PAY Ajio BLR,ecommerce
+SQ *PharmEasy DEL,pharmacy
+IMPS Apple Store INDIA,electronics
+TRX Starbucks INDIA,coffee_shop
+SQ *Apollo Pharmacy,pharmacy
+UPI Apollo Pharmacy,pharmacy
+SQ *Blue Tokai 123,coffee_shop
+TRX GoFirst 123,airline
+UPI Air India,airline
+TRX Spencers 001,grocery
+SWIPE Spencers INDIA,grocery
+IMPS Fun Cinemas DEL,entertainment
+SWIPE HPCL,fuel
+PAY HPCL,fuel
+PAY Myntra INDIA,ecommerce
+MedPlus 001,pharmacy
+SWIPE Nayara 001,fuel
+SQ *Rapido 123,transport
+PAY Ola BLR,transport
+SWIPE GoFirst BLR,airline
+Subway HYD,restaurant
+UPI Ajio BLR,ecommerce
+TRX BookMyShow DEL,entertainment
+PAY Uber 123,transport
+CCD,coffee_shop
+UPI BookMyShow INDIA,entertainment
+IMPS Reliance Fresh 001,grocery
+UPI Rapido DEL,transport
+TRX BPCL 123,fuel
+SQ *Indigo 001,airline
+IMPS Reliance Digital,electronics
+SWIPE MedPlus INDIA,pharmacy
+TRX Barista DEL,coffee_shop
+SWIPE Walmart,grocery
+PAY Air India DEL,airline
+TRX PVR Cinemas,entertainment
+SQ *CCD INDIA,coffee_shop
+SQ *Carnival Cinemas INDIA,entertainment
+TRX BPCL BLR,fuel
+SWIPE SpiceJet,airline
+IMPS Shell BLR,fuel
+UPI Reliance Fresh BLR,grocery
+IMPS PharmEasy DEL,pharmacy
+UPI McDonalds 123,restaurant
+UPI 1MG HYD,pharmacy
+SWIPE Croma 001,electronics
+Reliance Fresh,grocery
+IMPS PizzaHut,restaurant
+IMPS 1MG INDIA,pharmacy
+SWIPE Uber INDIA,transport
+TRX Ola,transport
+IMPS Subway DEL,restaurant
+Reliance Digital,electronics
+SWIPE PizzaHut,restaurant
+SQ *Ola,transport
+SQ *MedPlus,pharmacy
+UPI SpiceJet HYD,airline
+PAY PizzaHut,restaurant
+PAY Ola 123,transport
+DMart HYD,grocery
+IMPS Spencers INDIA,grocery
+TRX HPCL DEL,fuel
+SQ *Spencers 123,grocery
+Dominos,restaurant
+SQ *PVR Cinemas BLR,entertainment
+UPI McDonalds 001,restaurant
+UPI SpiceJet DEL,airline
+SQ *Barista,coffee_shop
+SQ *DMart,grocery
+SQ *Blue Tokai HYD,coffee_shop
+SQ *RedBus,transport
+PAY Flipkart,ecommerce
+UPI 1MG INDIA,pharmacy
+TRX Ajio HYD,ecommerce
+Myntra,ecommerce
+UPI Spencers,grocery
+IMPS Indigo,airline
+IMPS PVR Cinemas,entertainment
+UPI Vistara HYD,airline
+SQ *INOX,entertainment
+UPI Croma,electronics
+TRX Vijay Sales,electronics
+SWIPE Vijay Sales 001,electronics
+SQ *BPCL,fuel
+IMPS CCD,coffee_shop
+PAY MedPlus BLR,pharmacy
+IMPS Meru,transport
+IMPS Amazon,ecommerce
+TRX McDonalds,restaurant
+IMPS Starbucks,coffee_shop
+SWIPE PharmEasy,pharmacy
+UPI Rapido 001,transport
+SQ *Snapdeal BLR,ecommerce
+IMPS Spencers INDIA,grocery
+Best Buy 123,electronics
+INOX,entertainment
+SWIPE Spencers DEL,grocery
+SWIPE SpiceJet 001,airline
+SWIPE BookMyShow,entertainment
+SQ *Vistara,airline
+IMPS BigBasket HYD,grocery
+Vistara INDIA,airline
+PAY Indigo 123,airline
+IMPS Air India BLR,airline
+IMPS Air India 001,airline
+UPI IndianOil INDIA,fuel
+Indigo DEL,airline
+Ola HYD,transport
+Snapdeal DEL,ecommerce
+SQ *Reliance Digital,electronics
+SWIPE NetMeds HYD,pharmacy
+UPI Barista HYD,coffee_shop
+HPCL INDIA,fuel
+SWIPE Uber,transport
+UPI Starbucks 123,coffee_shop
+PAY Fun Cinemas,entertainment
+SWIPE BookMyShow,entertainment
+Apple Store 001,electronics
+Snapdeal INDIA,ecommerce
+SQ *Air India,airline
+PAY Apple Store DEL,electronics
+SQ *Flipkart 123,ecommerce
+TRX Uber,transport
+PAY Croma,electronics
+IMPS Reliance Fresh BLR,grocery
+UPI Best Buy HYD,electronics
+TRX Croma DEL,electronics
+UPI Vistara 001,airline
+Nayara,fuel
+IMPS Apollo Pharmacy DEL,pharmacy
+SQ *Myntra 123,ecommerce
+Subway BLR,restaurant
+SQ *Meru,transport
+1MG DEL,pharmacy
+SQ *NetMeds DEL,pharmacy
+UPI Ajio HYD,ecommerce
+PAY Reliance Digital HYD,electronics
+SQ *Vijay Sales,electronics
+TRX Uber INDIA,transport
+SWIPE NetMeds DEL,pharmacy
+UPI HPCL 001,fuel
+IMPS Best Buy,electronics
+SWIPE HPCL,fuel
+UPI PharmEasy 001,pharmacy
+IMPS Reliance Digital 123,electronics
+UPI Snapdeal,ecommerce
+UPI Vistara,airline
+IMPS Spencers,grocery
+PAY KFC 001,restaurant
+UPI Myntra,ecommerce
+SWIPE Blue Tokai,coffee_shop
+IMPS BPCL 001,fuel
+PAY Croma BLR,electronics
+UPI RedBus,transport
+TRX Reliance Digital HYD,electronics
+UPI Spencers HYD,grocery
+IMPS Croma,electronics
+TRX Third Wave Coffee,coffee_shop
+SWIPE Vijay Sales DEL,electronics
+SQ *Vistara,airline
+SQ *Vijay Sales 001,electronics
+UPI Apple Store 123,electronics
+TRX Shell,fuel
+SWIPE GoFirst,airline
+SQ *Amazon HYD,ecommerce
+SWIPE Nayara BLR,fuel
+HPCL HYD,fuel
+UPI Barista INDIA,coffee_shop
+IMPS Rapido DEL,transport
+SQ *INOX HYD,entertainment
+SQ *Indigo HYD,airline
+INOX 123,entertainment
+UPI Reliance Digital DEL,electronics
+Subway,restaurant
+Fun Cinemas,entertainment
+TRX DMart INDIA,grocery
+Ola,transport
+BigBasket 001,grocery
+IMPS RedBus,transport
+TRX Vistara DEL,airline
+UPI Uber INDIA,transport
+SQ *Spencers,grocery
+PAY Rapido 123,transport
+PAY Nayara INDIA,fuel
+IMPS RedBus INDIA,transport
+PAY SpiceJet,airline
+UPI IndianOil 001,fuel
+IMPS HPCL DEL,fuel
+UPI IndianOil,fuel
+UPI Myntra HYD,ecommerce
+PAY Dominos INDIA,restaurant
+TRX Blue Tokai,coffee_shop
+UPI Indigo DEL,airline
+SQ *Third Wave Coffee BLR,coffee_shop
+SQ *Amazon 123,ecommerce
+SWIPE Vijay Sales 001,electronics
+PAY 1MG,pharmacy
+SWIPE Nayara HYD,fuel
+PAY INOX,entertainment
+SWIPE KFC 001,restaurant
+Croma BLR,electronics
+PAY McDonalds DEL,restaurant
+PAY Myntra BLR,ecommerce
+TRX 1MG,pharmacy
+SQ *Apple Store BLR,electronics
+SQ *GoFirst,airline
+PAY Spencers INDIA,grocery
+IMPS Meru HYD,transport
+SQ *Vistara 123,airline
+SWIPE Air India,airline
+NetMeds DEL,pharmacy
+UPI 1MG 001,pharmacy
+IMPS Ajio BLR,ecommerce
+SQ *PharmEasy,pharmacy
+SQ *Meru DEL,transport
+TRX Blue Tokai,coffee_shop
+IMPS 1MG,pharmacy
+IMPS BigBasket BLR,grocery
+IMPS CCD INDIA,coffee_shop
+UPI Subway,restaurant
+TRX Shell,fuel
+PAY HPCL INDIA,fuel
+SQ *Vijay Sales HYD,electronics
+IMPS Third Wave Coffee BLR,coffee_shop
+UPI Third Wave Coffee HYD,coffee_shop
+UPI SpiceJet,airline
+Flipkart INDIA,ecommerce
+SWIPE Vistara INDIA,airline
+TRX DMart 123,grocery
+IndianOil DEL,fuel
+SQ *McDonalds,restaurant
+UPI 1MG INDIA,pharmacy
+TRX INOX,entertainment
+SQ *Third Wave Coffee HYD,coffee_shop
+BookMyShow,entertainment
+PAY Uber,transport
+IMPS McDonalds BLR,restaurant
+IMPS Rapido INDIA,transport
+IMPS MedPlus,pharmacy
+UPI SpiceJet 001,airline
+SWIPE PharmEasy INDIA,pharmacy
+SQ *Starbucks DEL,coffee_shop
+SQ *HPCL INDIA,fuel
+UPI NetMeds INDIA,pharmacy
+SWIPE Vijay Sales 123,electronics
+IMPS PVR Cinemas HYD,entertainment
+Air India INDIA,airline
+IMPS Croma,electronics
+SQ *Air India DEL,airline
+IMPS BookMyShow BLR,entertainment
+TRX Air India 123,airline
+PAY Walmart DEL,grocery
+SQ *Shell,fuel
+UPI HPCL 123,fuel
+IMPS Ajio INDIA,ecommerce
+Barista INDIA,coffee_shop
+BPCL 123,fuel
+IMPS Indigo,airline
+Nayara HYD,fuel
+TRX McDonalds BLR,restaurant
+UPI KFC BLR,restaurant
+SQ *Ola BLR,transport
+IMPS Amazon INDIA,ecommerce
+SQ *Barista DEL,coffee_shop
+IMPS Walmart DEL,grocery
+SQ *PVR Cinemas DEL,entertainment
+Subway 123,restaurant
+TRX Carnival Cinemas 001,entertainment
+IMPS Meru,transport
+SWIPE Apollo Pharmacy BLR,pharmacy
+TRX Shell DEL,fuel
+SQ *Indigo BLR,airline
+SWIPE DMart INDIA,grocery
+HPCL 001,fuel
+TRX Walmart,grocery
+IMPS DMart,grocery
+PAY BPCL HYD,fuel
+TRX DMart,grocery
+PAY DMart 001,grocery
+Dominos 123,restaurant
+UPI Barista,coffee_shop
+SWIPE Shell 001,fuel
+Snapdeal 001,ecommerce
+SWIPE PizzaHut 123,restaurant
+UPI Third Wave Coffee,coffee_shop
+IMPS NetMeds,pharmacy
+UPI Dominos,restaurant
+IMPS Air India HYD,airline
+SQ *Croma INDIA,electronics
+PAY Blue Tokai BLR,coffee_shop
+UPI Barista,coffee_shop
+UPI BPCL,fuel
+UPI Flipkart BLR,ecommerce
+SWIPE GoFirst 123,airline
+PAY Fun Cinemas,entertainment
+PAY Third Wave Coffee HYD,coffee_shop
+SWIPE Shell 123,fuel
+SWIPE IndianOil 123,fuel
+SWIPE Subway 001,restaurant
+TRX Third Wave Coffee INDIA,coffee_shop
+PAY Barista,coffee_shop
+Apple Store,electronics
+UPI Ajio 123,ecommerce
+DMart 123,grocery
+SQ *Carnival Cinemas HYD,entertainment
+Flipkart,ecommerce
+SWIPE Apollo Pharmacy,pharmacy
+TRX BookMyShow,entertainment
+SWIPE Carnival Cinemas DEL,entertainment
+SQ *Blue Tokai,coffee_shop
+UPI Fun Cinemas,entertainment
+UPI Uber INDIA,transport
+IMPS GoFirst INDIA,airline
+SQ *BPCL HYD,fuel
+IMPS Nayara DEL,fuel
+SWIPE Spencers,grocery
+IMPS Nayara,fuel
+Reliance Digital,electronics
+SQ *Third Wave Coffee,coffee_shop
+UPI Starbucks,coffee_shop
+SWIPE Fun Cinemas 001,entertainment
+IMPS Nayara 001,fuel
+KFC BLR,restaurant
+Nayara INDIA,fuel
+TRX PharmEasy DEL,pharmacy
+UPI Dominos,restaurant
+IMPS INOX,entertainment
+HPCL 123,fuel
+SWIPE Carnival Cinemas,entertainment
+SWIPE Meru 001,transport
+PAY PizzaHut,restaurant
+Ajio,ecommerce
+SQ *Reliance Fresh INDIA,grocery
+UPI IndianOil,fuel
+IMPS KFC,restaurant
+TRX GoFirst,airline
+Uber 123,transport
+IMPS Rapido,transport
+TRX MedPlus BLR,pharmacy
+HPCL HYD,fuel
+IMPS HPCL,fuel
+SWIPE Vijay Sales DEL,electronics
+SWIPE KFC,restaurant
+Reliance Digital HYD,electronics
+SQ *Ajio 001,ecommerce
+SQ *Third Wave Coffee DEL,coffee_shop
+TRX Apple Store,electronics
+PharmEasy 123,pharmacy
+IMPS CCD HYD,coffee_shop
+PAY Uber,transport
+PAY Myntra,ecommerce
+UPI Ajio 001,ecommerce
+Reliance Fresh DEL,grocery
+IMPS BigBasket HYD,grocery
+RedBus,transport
+TRX Best Buy 123,electronics
+IMPS BookMyShow DEL,entertainment
+SQ *Snapdeal 001,ecommerce
+SQ *Rapido INDIA,transport
+RedBus HYD,transport
+TRX Flipkart,ecommerce
+UPI Best Buy BLR,electronics
+UPI CCD,coffee_shop
+Flipkart HYD,ecommerce
+IMPS Best Buy INDIA,electronics
+SWIPE Croma 001,electronics
+TRX Vistara DEL,airline
+IMPS Ola DEL,transport
+PAY Rapido 123,transport
+SQ *MedPlus INDIA,pharmacy
+Fun Cinemas DEL,entertainment
+UPI Air India,airline
+TRX KFC,restaurant
+UPI CCD HYD,coffee_shop
+Myntra,ecommerce
+TRX Croma DEL,electronics
+PAY GoFirst 123,airline
+IMPS GoFirst DEL,airline
+UPI Indigo 123,airline
+IMPS PizzaHut BLR,restaurant
+SWIPE Flipkart,ecommerce
+IMPS KFC INDIA,restaurant
+TRX Indigo 123,airline
+IMPS Ola 123,transport
+Starbucks DEL,coffee_shop
+TRX Amazon BLR,ecommerce
+MedPlus 123,pharmacy
+TRX Fun Cinemas 001,entertainment
+SQ *PVR Cinemas,entertainment
+SQ *Ola INDIA,transport
+SQ *Reliance Fresh,grocery
+IMPS Ajio INDIA,ecommerce
+UPI Carnival Cinemas BLR,entertainment
+UPI Dominos DEL,restaurant
+PAY Nayara 001,fuel
+PAY Starbucks DEL,coffee_shop
+PAY Vistara,airline
+SWIPE PVR Cinemas,entertainment
+SWIPE Shell 001,fuel
+SWIPE Nayara,fuel
+PAY 1MG,pharmacy
+SWIPE CCD BLR,coffee_shop
+UPI Subway,restaurant
+UPI PizzaHut,restaurant
+TRX PharmEasy DEL,pharmacy
+SWIPE IndianOil DEL,fuel
+PAY Vijay Sales,electronics
+SWIPE Starbucks,coffee_shop
+IMPS Walmart INDIA,grocery
+SWIPE Uber INDIA,transport
+SQ *Blue Tokai BLR,coffee_shop
+UPI Meru,transport
+SWIPE IndianOil BLR,fuel
+IMPS 1MG 123,pharmacy
+HPCL DEL,fuel
+TRX INOX INDIA,entertainment
+IMPS Spencers,grocery
+PAY BPCL INDIA,fuel
+IMPS IndianOil 123,fuel
+IMPS Apollo Pharmacy 001,pharmacy
+Blue Tokai BLR,coffee_shop
+PAY KFC,restaurant
+TRX MedPlus 123,pharmacy
+TRX IndianOil HYD,fuel
+PAY RedBus DEL,transport
+IMPS Reliance Digital,electronics
+IMPS McDonalds,restaurant
+SWIPE Apollo Pharmacy DEL,pharmacy
+PAY Snapdeal,ecommerce
+SQ *PharmEasy,pharmacy
+IMPS Apollo Pharmacy 001,pharmacy
+SWIPE KFC DEL,restaurant
+PAY Subway INDIA,restaurant
+UPI NetMeds INDIA,pharmacy
+PAY Croma INDIA,electronics
+UPI Fun Cinemas INDIA,entertainment
+PAY Flipkart 123,ecommerce
+INOX HYD,entertainment
+SWIPE Nayara,fuel
+SQ *Air India DEL,airline
+SQ *Meru 123,transport
+SWIPE Walmart 123,grocery
+IMPS Walmart,grocery
+PAY Starbucks 001,coffee_shop
+IMPS Vistara HYD,airline
+SQ *Ola 123,transport
+SQ *BigBasket 123,grocery
+PAY Subway,restaurant
+IMPS Ola 001,transport
+IMPS Walmart INDIA,grocery
+IMPS Croma,electronics
+SQ *BPCL 123,fuel
+Ajio HYD,ecommerce
+IMPS 1MG DEL,pharmacy
+IMPS Shell HYD,fuel
+PAY Shell DEL,fuel
+TRX 1MG 123,pharmacy
+UPI Dominos BLR,restaurant
+IMPS Fun Cinemas,entertainment
+TRX Third Wave Coffee INDIA,coffee_shop
+SQ *Barista HYD,coffee_shop
+IMPS Snapdeal,ecommerce
+IMPS Blue Tokai,coffee_shop
+IMPS KFC BLR,restaurant
+IMPS Uber,transport
+SWIPE Apollo Pharmacy INDIA,pharmacy
+PAY MedPlus HYD,pharmacy
+NetMeds INDIA,pharmacy
+SWIPE Apollo Pharmacy BLR,pharmacy
+UPI Vistara BLR,airline
+IMPS PharmEasy,pharmacy
+UPI MedPlus 001,pharmacy
+TRX RedBus,transport
+PAY PizzaHut,restaurant
+IMPS Reliance Fresh BLR,grocery
+PAY DMart HYD,grocery
+UPI Vijay Sales 001,electronics
+SWIPE Flipkart,ecommerce
+Reliance Fresh 123,grocery
+TRX PVR Cinemas,entertainment
+PAY PharmEasy 123,pharmacy
+SQ *Ola,transport
+Apollo Pharmacy,pharmacy
+TRX Walmart,grocery
+UPI Dominos 001,restaurant
+PAY Vijay Sales DEL,electronics
+PAY Reliance Fresh,grocery
+TRX Barista,coffee_shop
+PAY Best Buy 001,electronics
+PAY Myntra HYD,ecommerce
+TRX McDonalds,restaurant
+IMPS Vijay Sales 001,electronics
+SWIPE Apollo Pharmacy HYD,pharmacy
+PAY PVR Cinemas 001,entertainment
+McDonalds BLR,restaurant
+SQ *Rapido 123,transport
+SWIPE Third Wave Coffee 001,coffee_shop
+SWIPE CCD,coffee_shop
+SWIPE KFC HYD,restaurant
+IMPS KFC,restaurant
+IMPS BigBasket,grocery
+TRX BookMyShow,entertainment
+INOX 123,entertainment
+TRX CCD HYD,coffee_shop
+HPCL INDIA,fuel
+TRX Croma 001,electronics
+IMPS Apple Store,electronics
+PAY Rapido 123,transport
+TRX Vistara HYD,airline
+Vistara,airline
+TRX BigBasket,grocery
+PizzaHut BLR,restaurant
+UPI GoFirst BLR,airline
+TRX IndianOil BLR,fuel
+SQ *Apple Store INDIA,electronics
+SQ *Apple Store 001,electronics
+Carnival Cinemas,entertainment
+PAY INOX 123,entertainment
+SQ *NetMeds BLR,pharmacy
+PAY Reliance Fresh 123,grocery
+TRX Uber INDIA,transport
+SQ *Third Wave Coffee DEL,coffee_shop
+SWIPE PharmEasy 001,pharmacy
+IMPS Meru HYD,transport
+UPI Amazon BLR,ecommerce
+TRX Vistara DEL,airline
+TRX KFC,restaurant
+PAY DMart,grocery
+SQ *Indigo HYD,airline
+UPI Uber INDIA,transport
+UPI Reliance Fresh DEL,grocery
+TRX BookMyShow INDIA,entertainment
+TRX MedPlus,pharmacy
+PAY NetMeds,pharmacy
+TRX Subway BLR,restaurant
+SWIPE Reliance Fresh HYD,grocery
+SQ *Shell,fuel
+PAY Fun Cinemas BLR,entertainment
+TRX Snapdeal,ecommerce
+UPI IndianOil DEL,fuel
+SWIPE SpiceJet 123,airline
+TRX Apple Store DEL,electronics
+TRX Vistara INDIA,airline
+IMPS Air India 001,airline
+PAY DMart 123,grocery
+PAY PharmEasy HYD,pharmacy
+SQ *Snapdeal,ecommerce
+SWIPE BookMyShow 123,entertainment
+TRX Best Buy 123,electronics
+IMPS Third Wave Coffee HYD,coffee_shop
+IMPS Reliance Digital 123,electronics
+PAY 1MG,pharmacy
+SQ *BPCL 001,fuel
+TRX Apollo Pharmacy,pharmacy
+PVR Cinemas DEL,entertainment
+Reliance Digital DEL,electronics
+SQ *Rapido HYD,transport
+IMPS Third Wave Coffee,coffee_shop
+UPI PharmEasy 123,pharmacy
+SQ *Air India DEL,airline
+UPI CCD,coffee_shop
+RedBus DEL,transport
+IMPS BigBasket,grocery
+UPI Dominos HYD,restaurant
+TRX Best Buy,electronics
+SQ *Shell 123,fuel
+SQ *Ajio,ecommerce
+UPI SpiceJet BLR,airline
+SQ *Uber BLR,transport
+IMPS Spencers 001,grocery
+PAY Carnival Cinemas,entertainment
+IMPS Subway INDIA,restaurant
+IMPS Vistara DEL,airline
+1MG DEL,pharmacy
+PAY Nayara,fuel
+SWIPE HPCL BLR,fuel
+UPI Ola 123,transport
+PAY Dominos,restaurant
+SWIPE Reliance Fresh HYD,grocery
+SWIPE Apple Store,electronics
+IMPS Ajio,ecommerce
+UPI McDonalds 001,restaurant
+UPI PVR Cinemas BLR,entertainment
+SQ *HPCL,fuel
+TRX Shell BLR,fuel
+TRX Ola INDIA,transport
+SWIPE Ajio HYD,ecommerce
+TRX Carnival Cinemas BLR,entertainment
+SQ *CCD,coffee_shop
+Uber,transport
+IMPS Ola 001,transport
+SQ *Apple Store BLR,electronics
+SWIPE BigBasket,grocery
+TRX Croma,electronics
+IMPS Subway,restaurant
+IMPS KFC BLR,restaurant
+UPI Uber INDIA,transport
+SWIPE INOX INDIA,entertainment
+TRX Shell 001,fuel
+PAY Ola HYD,transport
+IMPS SpiceJet 001,airline
+IMPS Nayara HYD,fuel
+UPI Starbucks 123,coffee_shop
+IMPS Spencers,grocery
+TRX Subway,restaurant
+SQ *PharmEasy DEL,pharmacy
+UPI Nayara,fuel
+Shell BLR,fuel
+IMPS Snapdeal,ecommerce
+IMPS Meru 123,transport
+SQ *PharmEasy HYD,pharmacy
+SQ *PharmEasy 001,pharmacy
+SQ *BPCL,fuel
+SQ *NetMeds,pharmacy
+TRX DMart,grocery
+PAY Ajio BLR,ecommerce
+TRX Flipkart 123,ecommerce
+PAY Shell,fuel
+PAY NetMeds 123,pharmacy
+PVR Cinemas 123,entertainment
+UPI Reliance Digital 123,electronics
+IMPS Myntra,ecommerce
+SWIPE Walmart 123,grocery
+SWIPE Vijay Sales 001,electronics
+TRX Apple Store,electronics
+SWIPE Indigo 123,airline
+SQ *IndianOil HYD,fuel
+SQ *Third Wave Coffee BLR,coffee_shop
+UPI Rapido DEL,transport
+TRX HPCL 123,fuel
+SWIPE McDonalds HYD,restaurant
+SWIPE Barista,coffee_shop
+SQ *IndianOil DEL,fuel
+SQ *GoFirst 001,airline
+SQ *DMart 123,grocery
+UPI Blue Tokai INDIA,coffee_shop
+SWIPE BPCL,fuel
+SQ *Ajio BLR,ecommerce
+SWIPE 1MG 001,pharmacy
+SQ *Reliance Digital INDIA,electronics
+TRX Carnival Cinemas DEL,entertainment
+SQ *IndianOil HYD,fuel
+SQ *PharmEasy BLR,pharmacy
+SWIPE Fun Cinemas DEL,entertainment
+SQ *Apple Store HYD,electronics
+TRX GoFirst,airline
+TRX Ajio INDIA,ecommerce
+UPI Amazon,ecommerce
+PAY IndianOil,fuel
+UPI 1MG DEL,pharmacy
+SWIPE HPCL 123,fuel
+SWIPE PVR Cinemas 001,entertainment
+Vistara 123,airline
+UPI PVR Cinemas,entertainment
+IMPS Rapido 001,transport
+SWIPE KFC INDIA,restaurant
+SQ *HPCL BLR,fuel
+PAY SpiceJet,airline
+TRX GoFirst DEL,airline
+UPI McDonalds 001,restaurant
+TRX McDonalds 001,restaurant
+Amazon INDIA,ecommerce
+UPI Fun Cinemas,entertainment
+McDonalds,restaurant
+UPI Snapdeal INDIA,ecommerce
+Vistara BLR,airline
+IMPS Air India,airline
+UPI Amazon 001,ecommerce
+UPI Spencers,grocery
+UPI IndianOil BLR,fuel
+SQ *MedPlus BLR,pharmacy
+IMPS BigBasket,grocery
+SWIPE GoFirst HYD,airline
+PAY Fun Cinemas 001,entertainment
+PAY BigBasket 001,grocery
+PAY Starbucks,coffee_shop
+TRX GoFirst INDIA,airline
+SQ *Ajio 001,ecommerce
+UPI BPCL HYD,fuel
+IMPS Dominos,restaurant
+UPI Myntra HYD,ecommerce
+SQ *DMart DEL,grocery
+UPI IndianOil BLR,fuel
+IMPS CCD,coffee_shop
+UPI Snapdeal 123,ecommerce
+IMPS Subway,restaurant
+PAY Apple Store HYD,electronics
+IMPS Vijay Sales HYD,electronics
+Air India DEL,airline
+IMPS Walmart DEL,grocery
+PAY 1MG,pharmacy
+Starbucks DEL,coffee_shop
+IMPS Snapdeal HYD,ecommerce
+Starbucks,coffee_shop
+PAY Fun Cinemas HYD,entertainment
+1MG 123,pharmacy
+UPI INOX DEL,entertainment
+IMPS Apollo Pharmacy,pharmacy
+PAY INOX,entertainment
+SWIPE Myntra DEL,ecommerce
+PAY Nayara,fuel
+UPI Blue Tokai,coffee_shop
+UPI Fun Cinemas BLR,entertainment
+SWIPE HPCL DEL,fuel
+PAY Reliance Digital 123,electronics
+PAY Third Wave Coffee HYD,coffee_shop
+SWIPE Vijay Sales INDIA,electronics
+PizzaHut 123,restaurant
+IndianOil DEL,fuel
+SQ *Carnival Cinemas,entertainment
+TRX PharmEasy,pharmacy
+IMPS Snapdeal 001,ecommerce
+UPI Apollo Pharmacy 001,pharmacy
+PAY GoFirst INDIA,airline
+Reliance Fresh INDIA,grocery
+PAY BPCL BLR,fuel
+SWIPE GoFirst HYD,airline
+PAY Barista 123,coffee_shop
+PAY RedBus,transport
+SQ *HPCL 123,fuel
+IMPS BPCL 001,fuel
+RedBus 001,transport
+PAY Starbucks BLR,coffee_shop
+SQ *Shell INDIA,fuel
+TRX Third Wave Coffee,coffee_shop
+TRX 1MG DEL,pharmacy
+SQ *KFC,restaurant
+IMPS PharmEasy,pharmacy
+TRX Ola BLR,transport
+UPI DMart 001,grocery
+TRX Snapdeal 001,ecommerce
+TRX PizzaHut BLR,restaurant
+UPI KFC,restaurant
+PAY PharmEasy,pharmacy
+INOX DEL,entertainment
+UPI DMart HYD,grocery
+Starbucks HYD,coffee_shop
+PAY BigBasket DEL,grocery
+SQ *Subway HYD,restaurant
+SWIPE Air India,airline
+TRX PharmEasy HYD,pharmacy
+PAY Apple Store BLR,electronics
+PAY 1MG DEL,pharmacy
+Vistara 123,airline
+SQ *PVR Cinemas BLR,entertainment
+SWIPE Shell DEL,fuel
+Snapdeal DEL,ecommerce
+SQ *SpiceJet BLR,airline
+UPI CCD,coffee_shop
+UPI RedBus 123,transport
+Shell,fuel
+TRX Subway,restaurant
+IMPS Nayara,fuel
+TRX PharmEasy BLR,pharmacy
+SQ *PizzaHut,restaurant
+UPI PizzaHut 001,restaurant
+SWIPE Vijay Sales,electronics
+SWIPE Barista BLR,coffee_shop
+IMPS RedBus BLR,transport
+PAY Meru,transport
+PAY INOX DEL,entertainment
+PAY Starbucks DEL,coffee_shop
+Reliance Digital DEL,electronics
+UPI GoFirst BLR,airline
+SWIPE BigBasket 001,grocery
+UPI Subway BLR,restaurant
+TRX MedPlus DEL,pharmacy
+UPI Spencers,grocery
+SQ *Apple Store DEL,electronics
+HPCL,fuel
+IMPS Third Wave Coffee DEL,coffee_shop
+IMPS PharmEasy BLR,pharmacy
+SWIPE Dominos 001,restaurant
+SQ *Ola INDIA,transport
+SQ *BookMyShow DEL,entertainment
+PAY Uber,transport
+PAY BookMyShow,entertainment
+PAY Reliance Digital,electronics
+SWIPE Ola,transport
+Third Wave Coffee 001,coffee_shop
+PAY RedBus 001,transport
+PAY Subway HYD,restaurant
+PAY GoFirst INDIA,airline
+IMPS Best Buy BLR,electronics
+Third Wave Coffee DEL,coffee_shop
+TRX HPCL,fuel
+UPI BigBasket,grocery
+SQ *GoFirst BLR,airline
+SWIPE Shell,fuel
+TRX Nayara DEL,fuel
+UPI Blue Tokai BLR,coffee_shop
+SWIPE PVR Cinemas,entertainment
+SWIPE Reliance Fresh,grocery
+SQ *Meru INDIA,transport
+BookMyShow HYD,entertainment
+IMPS Carnival Cinemas,entertainment
+TRX Apple Store,electronics
+BPCL,fuel
+IMPS Starbucks INDIA,coffee_shop
+IMPS PVR Cinemas INDIA,entertainment
+PAY Indigo,airline
+SQ *Reliance Fresh,grocery
+SWIPE Ola HYD,transport
+SWIPE Flipkart,ecommerce
+IMPS Air India 123,airline
+1MG,pharmacy
+Shell,fuel
+IMPS Apollo Pharmacy,pharmacy
+PAY Walmart 001,grocery
+SWIPE Apple Store BLR,electronics
+UPI Apple Store,electronics
+IMPS PVR Cinemas HYD,entertainment
+SQ *Air India INDIA,airline
+TRX Reliance Digital 001,electronics
+IMPS Reliance Digital,electronics
+Walmart HYD,grocery
+IMPS Best Buy,electronics
+TRX Shell 123,fuel
+TRX Fun Cinemas DEL,entertainment
+Rapido,transport
+IMPS Ola HYD,transport
+TRX KFC,restaurant
+SWIPE Uber DEL,transport
+SQ *DMart DEL,grocery
+UPI Third Wave Coffee BLR,coffee_shop
+UPI Flipkart BLR,ecommerce
+McDonalds,restaurant
+IMPS Air India DEL,airline
+UPI CCD,coffee_shop
+UPI PharmEasy HYD,pharmacy
+SWIPE BigBasket INDIA,grocery
+PAY Fun Cinemas 001,entertainment
+INOX HYD,entertainment
+IMPS PizzaHut DEL,restaurant
+Best Buy BLR,electronics
+IMPS Walmart INDIA,grocery
+PAY Starbucks 123,coffee_shop
+IMPS Croma HYD,electronics
+TRX GoFirst BLR,airline
+SQ *Rapido,transport
+PAY PharmEasy INDIA,pharmacy
+PAY MedPlus 001,pharmacy
+TRX Ajio BLR,ecommerce
+UPI Spencers,grocery
+TRX Subway HYD,restaurant
+SQ *Indigo BLR,airline
+PAY Vistara,airline
+SWIPE Carnival Cinemas 123,entertainment
+SWIPE BigBasket BLR,grocery
+SWIPE Snapdeal INDIA,ecommerce
+TRX Shell 001,fuel
+TRX Vijay Sales 123,electronics
+TRX Walmart DEL,grocery
+SWIPE Uber,transport
+TRX Indigo 001,airline
+UPI MedPlus 123,pharmacy
+UPI Best Buy,electronics
+SWIPE PizzaHut,restaurant
+SWIPE Starbucks HYD,coffee_shop
+PAY PVR Cinemas,entertainment
+SWIPE Indigo,airline
+SWIPE Indigo,airline
+TRX Air India INDIA,airline
+SQ *Shell,fuel
+PAY BookMyShow HYD,entertainment
+TRX Reliance Fresh 001,grocery
+PAY Walmart 001,grocery
+UPI Vijay Sales 001,electronics
+TRX Ajio DEL,ecommerce
+PAY RedBus,transport
+PAY Walmart,grocery
+TRX Apollo Pharmacy HYD,pharmacy
+SQ *MedPlus,pharmacy
+SWIPE Dominos,restaurant
+SWIPE KFC,restaurant
+PizzaHut INDIA,restaurant
+PAY Apple Store 123,electronics
+TRX Apollo Pharmacy BLR,pharmacy
+SpiceJet 001,airline
+IMPS Nayara 123,fuel
+IMPS Rapido,transport
+PAY GoFirst,airline
+BigBasket 001,grocery
+IMPS Flipkart INDIA,ecommerce
+PAY 1MG HYD,pharmacy
+SQ *KFC,restaurant
+SWIPE BookMyShow BLR,entertainment
+UPI Indigo,airline
+SWIPE PVR Cinemas 001,entertainment
+KFC BLR,restaurant
+PAY Apollo Pharmacy DEL,pharmacy
+SQ *Third Wave Coffee 123,coffee_shop
+PAY NetMeds INDIA,pharmacy
+TRX Subway BLR,restaurant
+IMPS Starbucks,coffee_shop
+Rapido 001,transport
+Rapido DEL,transport
+TRX Barista 001,coffee_shop
+Vistara HYD,airline
+SQ *Third Wave Coffee HYD,coffee_shop
+IMPS IndianOil 123,fuel
+IndianOil DEL,fuel
+IMPS Apollo Pharmacy DEL,pharmacy
+SWIPE Meru HYD,transport
+PAY Rapido INDIA,transport
+UPI Subway INDIA,restaurant
+SQ *Reliance Digital 001,electronics
+SWIPE RedBus BLR,transport
+UPI Shell,fuel
+IMPS Myntra 001,ecommerce
+SQ *Starbucks BLR,coffee_shop
+SWIPE Subway DEL,restaurant
+IMPS BigBasket 123,grocery
+Dominos HYD,restaurant
+PAY DMart BLR,grocery
+NetMeds,pharmacy
+UPI Walmart HYD,grocery
+IMPS Shell,fuel
+PAY Blue Tokai 123,coffee_shop
+Croma 001,electronics
+NetMeds BLR,pharmacy
+IMPS Reliance Fresh BLR,grocery
+TRX Shell INDIA,fuel
+Air India,airline
+TRX MedPlus,pharmacy
+TRX Shell HYD,fuel
+TRX SpiceJet 123,airline
+Indigo,airline
+PAY Apple Store DEL,electronics
+UPI CCD 001,coffee_shop
+SWIPE Walmart INDIA,grocery
+TRX Vijay Sales,electronics
+PharmEasy HYD,pharmacy
+SQ *BigBasket,grocery
+SQ *Indigo DEL,airline
+PAY HPCL 123,fuel
+UPI Subway INDIA,restaurant
+SWIPE IndianOil 001,fuel
+SWIPE RedBus 001,transport
+IMPS Starbucks,coffee_shop
+IMPS PVR Cinemas,entertainment
+SWIPE Air India DEL,airline
+UPI BPCL HYD,fuel
+IMPS Ajio 123,ecommerce
+PAY Starbucks BLR,coffee_shop
+IMPS Snapdeal,ecommerce
+IMPS NetMeds,pharmacy
+TRX Snapdeal DEL,ecommerce
+IMPS Apollo Pharmacy 123,pharmacy
+SWIPE DMart,grocery
+PAY Nayara,fuel
+TRX Shell 123,fuel
+Reliance Fresh 001,grocery
+IMPS CCD INDIA,coffee_shop
+SWIPE Amazon,ecommerce
+TRX HPCL 123,fuel
+TRX IndianOil,fuel
+SQ *Rapido DEL,transport
+PAY SpiceJet INDIA,airline
+PAY IndianOil 001,fuel
+UPI Fun Cinemas,entertainment
+PAY Spencers HYD,grocery
+IMPS Carnival Cinemas,entertainment
+SQ *McDonalds,restaurant
+PAY SpiceJet,airline
+IMPS INOX 001,entertainment
+SWIPE Snapdeal DEL,ecommerce
+IMPS 1MG,pharmacy
+IMPS NetMeds BLR,pharmacy
+PAY Flipkart INDIA,ecommerce
+UPI RedBus,transport
+UPI McDonalds 001,restaurant
+SQ *RedBus 123,transport
+TRX INOX INDIA,entertainment
+PAY Indigo 001,airline
+PAY McDonalds 001,restaurant
+PAY Vistara,airline
+PAY Blue Tokai,coffee_shop
+Uber BLR,transport
+PAY Nayara HYD,fuel
+SQ *PharmEasy,pharmacy
+IMPS Ola,transport
+CCD HYD,coffee_shop
+SWIPE HPCL,fuel
+SWIPE Ajio,ecommerce
+UPI BigBasket,grocery
+UPI McDonalds,restaurant
+UPI Ajio,ecommerce
+SQ *DMart DEL,grocery
+PAY Third Wave Coffee INDIA,coffee_shop
+UPI Barista,coffee_shop
+UPI Subway 123,restaurant
+UPI NetMeds DEL,pharmacy
+UPI Best Buy,electronics
+IMPS DMart,grocery
+PAY Reliance Digital 123,electronics
+PAY Croma BLR,electronics
+IMPS McDonalds,restaurant
+IMPS Walmart,grocery
+UPI BookMyShow 001,entertainment
+Flipkart,ecommerce
+McDonalds INDIA,restaurant
+PAY Rapido DEL,transport
+IMPS Carnival Cinemas INDIA,entertainment
+Reliance Fresh 123,grocery
+TRX Vijay Sales,electronics
+SWIPE DMart 123,grocery
+TRX IndianOil 001,fuel
+IMPS Walmart,grocery
+Myntra BLR,ecommerce
+SQ *Reliance Fresh,grocery
+PAY Dominos INDIA,restaurant
+SWIPE Meru,transport
+UPI NetMeds,pharmacy
+DMart,grocery
+UPI Fun Cinemas 001,entertainment
+SWIPE Apple Store BLR,electronics
+UPI Flipkart DEL,ecommerce
+IMPS IndianOil,fuel
+UPI Spencers DEL,grocery
+INOX HYD,entertainment
+SQ *Uber HYD,transport
+SWIPE Spencers BLR,grocery
+Vistara INDIA,airline
+DMart 001,grocery
+PAY KFC,restaurant
+UPI BigBasket 123,grocery
+UPI Fun Cinemas INDIA,entertainment
+UPI Snapdeal,ecommerce
+UPI Flipkart,ecommerce
+SWIPE Subway BLR,restaurant
+TRX Reliance Fresh 123,grocery
+SpiceJet,airline
+PAY Fun Cinemas 123,entertainment
+PAY Spencers HYD,grocery
+PAY Meru HYD,transport
+SQ *Nayara 123,fuel
+TRX PizzaHut,restaurant
+PAY PVR Cinemas 001,entertainment
+SWIPE DMart HYD,grocery
+PAY Myntra BLR,ecommerce
+TRX Fun Cinemas,entertainment
+SQ *Barista 001,coffee_shop
+Blue Tokai,coffee_shop
+SWIPE MedPlus,pharmacy
+PAY Starbucks,coffee_shop
+SQ *NetMeds BLR,pharmacy
+IMPS Blue Tokai 001,coffee_shop
+TRX 1MG BLR,pharmacy
+SQ *Carnival Cinemas,entertainment
+SWIPE KFC,restaurant
+Snapdeal INDIA,ecommerce
+SQ *Flipkart DEL,ecommerce
+SQ *Nayara,fuel
+PAY Walmart,grocery
+TRX MedPlus INDIA,pharmacy
+SQ *Subway HYD,restaurant
+SWIPE PizzaHut 123,restaurant
+PAY Best Buy 001,electronics
+PAY Croma BLR,electronics
+UPI BigBasket 001,grocery
+TRX INOX 001,entertainment
+SWIPE Reliance Digital,electronics
+SQ *Indigo,airline
+TRX Ajio INDIA,ecommerce
+IMPS McDonalds,restaurant
+UPI Spencers BLR,grocery
+SWIPE Croma DEL,electronics
+TRX CCD DEL,coffee_shop
+SQ *McDonalds INDIA,restaurant
+UPI PharmEasy 123,pharmacy
+SQ *MedPlus,pharmacy
+PAY IndianOil,fuel
+UPI PVR Cinemas BLR,entertainment
+PAY Blue Tokai 123,coffee_shop
+SQ *Vistara DEL,airline
+Carnival Cinemas INDIA,entertainment
+Amazon,ecommerce
+SQ *Air India,airline
+IMPS Apple Store,electronics
+SQ *Ola INDIA,transport
+CCD,coffee_shop
+SQ *PizzaHut,restaurant
+UPI Air India,airline
+IMPS Myntra DEL,ecommerce
+IMPS BigBasket 001,grocery
+UPI Ola INDIA,transport
+IMPS PizzaHut 001,restaurant
+Reliance Digital,electronics
+SQ *PizzaHut BLR,restaurant
+PAY Indigo,airline
+TRX Apple Store 123,electronics
+Ajio,ecommerce
+UPI Spencers BLR,grocery
+GoFirst DEL,airline
+TRX Myntra,ecommerce
+UPI Third Wave Coffee,coffee_shop
+UPI Barista,coffee_shop
+SQ *Ola INDIA,transport
+TRX IndianOil INDIA,fuel
+Flipkart,ecommerce
+IMPS Croma 001,electronics
+PAY Myntra,ecommerce
+IMPS Carnival Cinemas,entertainment
+PAY Reliance Fresh INDIA,grocery
+TRX BigBasket 001,grocery
+SQ *McDonalds BLR,restaurant
+Snapdeal INDIA,ecommerce
+SWIPE Apollo Pharmacy,pharmacy
+IMPS Shell INDIA,fuel
+IMPS Apollo Pharmacy 123,pharmacy
+IMPS McDonalds 123,restaurant
+TRX Apollo Pharmacy,pharmacy
+PAY BPCL 123,fuel
+SWIPE Ajio DEL,ecommerce
+PAY BigBasket,grocery
+IMPS Reliance Digital 123,electronics
+SWIPE BPCL INDIA,fuel
+UPI Snapdeal 123,ecommerce
+SWIPE Fun Cinemas HYD,entertainment
+TRX Vistara 123,airline
+IMPS Walmart HYD,grocery
+SQ *CCD BLR,coffee_shop
+UPI Blue Tokai,coffee_shop
+IMPS PizzaHut,restaurant
+Carnival Cinemas,entertainment
+UPI KFC,restaurant
+PAY GoFirst,airline
+TRX Uber 001,transport
+SWIPE Reliance Digital BLR,electronics
+SQ *Third Wave Coffee,coffee_shop
+PAY Spencers 001,grocery
+Blue Tokai 001,coffee_shop
+IMPS RedBus,transport
+UPI DMart,grocery
+PAY Best Buy DEL,electronics
+SWIPE Fun Cinemas,entertainment
+TRX Ola BLR,transport
+UPI Blue Tokai INDIA,coffee_shop
+UPI PharmEasy 123,pharmacy
+UPI DMart HYD,grocery
+TRX Best Buy 123,electronics
+SQ *Vijay Sales,electronics
+IMPS MedPlus DEL,pharmacy
+BPCL,fuel
+SQ *Uber INDIA,transport
+UPI Meru 123,transport
+IMPS BookMyShow,entertainment
+IMPS Barista INDIA,coffee_shop
+IMPS Carnival Cinemas 123,entertainment
+INOX INDIA,entertainment
+IMPS SpiceJet 123,airline
+SWIPE McDonalds BLR,restaurant
+SWIPE Reliance Digital INDIA,electronics
+IMPS Indigo,airline
+TRX PharmEasy DEL,pharmacy
+SQ *Rapido,transport
+TRX Myntra 001,ecommerce
+TRX Third Wave Coffee HYD,coffee_shop
+SQ *MedPlus HYD,pharmacy
+PAY Vijay Sales INDIA,electronics
+SWIPE Fun Cinemas BLR,entertainment
+TRX Flipkart 001,ecommerce
+PAY Apollo Pharmacy BLR,pharmacy
+SQ *1MG HYD,pharmacy
+TRX Ajio,ecommerce
+SWIPE Amazon INDIA,ecommerce
+IMPS PizzaHut,restaurant
+SWIPE Flipkart,ecommerce
+TRX Starbucks 001,coffee_shop
+UPI BigBasket,grocery
+TRX Walmart HYD,grocery
+PAY Shell,fuel
+SQ *Blue Tokai 001,coffee_shop
+TRX BigBasket DEL,grocery
+IMPS Rapido 001,transport
+IMPS Meru 123,transport
+PAY Snapdeal,ecommerce
+TRX Snapdeal 123,ecommerce
+SQ *Carnival Cinemas INDIA,entertainment
+UPI RedBus INDIA,transport
+UPI Amazon,ecommerce
+UPI BigBasket,grocery
+SQ *Vistara DEL,airline
+SWIPE Rapido,transport
+SQ *PizzaHut INDIA,restaurant
+IMPS Indigo BLR,airline
+TRX Best Buy DEL,electronics
+UPI PVR Cinemas INDIA,entertainment
+SQ *Carnival Cinemas HYD,entertainment
+UPI Vistara DEL,airline
+NetMeds HYD,pharmacy
+UPI Blue Tokai DEL,coffee_shop
+SWIPE Snapdeal BLR,ecommerce
+IMPS RedBus 123,transport
+IMPS Reliance Fresh 001,grocery
+IMPS Starbucks 001,coffee_shop
+McDonalds,restaurant
+UPI RedBus INDIA,transport
+UPI 1MG 123,pharmacy
+TRX Barista 123,coffee_shop
+TRX PVR Cinemas BLR,entertainment
+IMPS Croma,electronics
+UPI NetMeds 123,pharmacy
+UPI 1MG,pharmacy
+SWIPE Carnival Cinemas,entertainment
+TRX Croma 001,electronics
+TRX Uber 001,transport
+IMPS Subway INDIA,restaurant
+PAY 1MG 123,pharmacy
+TRX IndianOil,fuel
+SWIPE Barista HYD,coffee_shop
+IMPS PVR Cinemas,entertainment
+IndianOil DEL,fuel
+SWIPE Rapido,transport
+TRX Reliance Fresh INDIA,grocery
+PAY NetMeds,pharmacy
+TRX Vistara 001,airline
+UPI Ola 001,transport
+Fun Cinemas 001,entertainment
+SQ *RedBus HYD,transport
+SQ *Spencers INDIA,grocery
+PAY SpiceJet,airline
+Spencers,grocery
+SWIPE Fun Cinemas,entertainment
+PAY MedPlus,pharmacy
+SQ *Apollo Pharmacy INDIA,pharmacy
+TRX McDonalds DEL,restaurant
+UPI Meru INDIA,transport
+SWIPE KFC 123,restaurant
+SQ *PharmEasy INDIA,pharmacy
+SWIPE Amazon HYD,ecommerce
+SWIPE PizzaHut,restaurant
+IMPS PizzaHut,restaurant
+IMPS Best Buy BLR,electronics
+UPI Starbucks INDIA,coffee_shop
+SWIPE Vijay Sales BLR,electronics
+SWIPE Ola 001,transport
+IMPS Croma DEL,electronics
+PAY Rapido,transport
+Fun Cinemas HYD,entertainment
+SWIPE NetMeds INDIA,pharmacy
+PAY Starbucks 123,coffee_shop
+IMPS SpiceJet BLR,airline
+PAY Starbucks 123,coffee_shop
+SQ *Nayara,fuel
+SQ *PVR Cinemas,entertainment
+PizzaHut BLR,restaurant
+IMPS HPCL BLR,fuel
+SWIPE Third Wave Coffee BLR,coffee_shop
+TRX Reliance Digital BLR,electronics
+UPI Shell DEL,fuel
+IMPS Subway BLR,restaurant
+UPI Amazon BLR,ecommerce
+PAY Meru,transport
+IMPS BPCL HYD,fuel
+TRX Carnival Cinemas,entertainment
+Best Buy,electronics
+SQ *Flipkart DEL,ecommerce
+PAY Ola INDIA,transport
+TRX 1MG,pharmacy
+TRX Carnival Cinemas BLR,entertainment
+UPI Barista,coffee_shop
+MedPlus DEL,pharmacy
+IMPS Apple Store INDIA,electronics
+SQ *BookMyShow 001,entertainment
+PAY Reliance Digital 001,electronics
+UPI Nayara 123,fuel
+UPI MedPlus,pharmacy
+TRX IndianOil,fuel
+TRX CCD INDIA,coffee_shop
+PAY BookMyShow 123,entertainment
+SWIPE Amazon,ecommerce
+PAY SpiceJet,airline
+RedBus HYD,transport
+SQ *Barista 001,coffee_shop
+SWIPE Carnival Cinemas BLR,entertainment
+SQ *Blue Tokai 001,coffee_shop
+TRX PVR Cinemas HYD,entertainment
+TRX Best Buy,electronics
+IMPS Meru BLR,transport
+IMPS DMart 123,grocery
+IMPS Amazon HYD,ecommerce
+UPI INOX INDIA,entertainment
+Ola,transport
+TRX Spencers,grocery
+Dominos,restaurant
+PizzaHut DEL,restaurant
+TRX Amazon 123,ecommerce
+UPI Carnival Cinemas HYD,entertainment
+TRX Myntra,ecommerce
+TRX IndianOil,fuel
+TRX Amazon 001,ecommerce
+SQ *Meru 123,transport
+UPI Spencers DEL,grocery
+SQ *MedPlus HYD,pharmacy
+SQ *Ajio,ecommerce
+SWIPE SpiceJet INDIA,airline
+UPI CCD 123,coffee_shop
+Snapdeal BLR,ecommerce
+PAY Reliance Digital,electronics
+SQ *Blue Tokai 001,coffee_shop
+Croma 123,electronics
+PAY Apollo Pharmacy INDIA,pharmacy
+IMPS CCD 001,coffee_shop
+SWIPE Apple Store HYD,electronics
+IMPS Best Buy DEL,electronics
+PAY Best Buy INDIA,electronics
+SWIPE KFC DEL,restaurant
+TRX IndianOil 001,fuel
+RedBus,transport
+SWIPE McDonalds BLR,restaurant
+Walmart 123,grocery
+PAY SpiceJet 001,airline
+PAY Ajio,ecommerce
+PAY PVR Cinemas,entertainment
+UPI Nayara INDIA,fuel
+PAY SpiceJet INDIA,airline
+UPI Apple Store 123,electronics
+PAY Nayara,fuel
+SWIPE McDonalds,restaurant
+SQ *Apple Store,electronics
+SQ *Apple Store DEL,electronics
+Best Buy,electronics
+IMPS Rapido INDIA,transport
+IMPS PizzaHut 123,restaurant
+SQ *Uber,transport
+SWIPE Third Wave Coffee 123,coffee_shop
+Blue Tokai BLR,coffee_shop
+UPI BookMyShow DEL,entertainment
+UPI BPCL 123,fuel
+UPI Starbucks HYD,coffee_shop
+UPI Meru,transport
+TRX Myntra BLR,ecommerce
+PAY Uber,transport
+PAY Blue Tokai INDIA,coffee_shop
+IMPS Indigo INDIA,airline
+TRX Fun Cinemas BLR,entertainment
+SQ *Snapdeal 123,ecommerce
+TRX Barista DEL,coffee_shop
+SWIPE Best Buy,electronics
+TRX Amazon 001,ecommerce
+SQ *DMart HYD,grocery
+IMPS Blue Tokai 123,coffee_shop
+SWIPE Myntra DEL,ecommerce
+SQ *HPCL INDIA,fuel
+Vijay Sales 123,electronics
+Flipkart DEL,ecommerce
+TRX BPCL 123,fuel
+TRX Air India,airline
+TRX PharmEasy,pharmacy
+Dominos,restaurant
+KFC 123,restaurant
+IMPS HPCL HYD,fuel
+UPI Indigo 001,airline
+SQ *Apollo Pharmacy INDIA,pharmacy
+TRX BookMyShow DEL,entertainment
+UPI Best Buy BLR,electronics
+SQ *Rapido,transport
+UPI PVR Cinemas 001,entertainment
+Ajio 001,ecommerce
+SQ *Indigo HYD,airline
+SWIPE Myntra HYD,ecommerce
+Meru,transport
+PAY Fun Cinemas INDIA,entertainment
+Indigo 001,airline
+TRX DMart,grocery
+UPI Ajio INDIA,ecommerce
+Ajio DEL,ecommerce
+SWIPE Blue Tokai,coffee_shop
+UPI PizzaHut DEL,restaurant
+SQ *PizzaHut DEL,restaurant
+UPI Barista INDIA,coffee_shop
+HPCL BLR,fuel
+SQ *Flipkart,ecommerce
+PAY BookMyShow BLR,entertainment
+Uber DEL,transport
+PAY Spencers,grocery
+TRX PharmEasy DEL,pharmacy
+UPI RedBus,transport
+IMPS Myntra 123,ecommerce
+CCD 123,coffee_shop
+TRX PVR Cinemas 001,entertainment
+UPI Third Wave Coffee HYD,coffee_shop
+UPI Barista,coffee_shop
+SWIPE BookMyShow DEL,entertainment
+SQ *Shell 001,fuel
+PAY Shell,fuel
+UPI Meru,transport
+PAY Dominos 123,restaurant
+IMPS SpiceJet 001,airline
+NetMeds 001,pharmacy
+SWIPE SpiceJet,airline
+IMPS Fun Cinemas,entertainment
+PAY Flipkart DEL,ecommerce
+UPI 1MG,pharmacy
+SQ *Vistara DEL,airline
+SWIPE Carnival Cinemas,entertainment
+SWIPE 1MG BLR,pharmacy
+SWIPE HPCL,fuel
+SQ *Walmart DEL,grocery
+SQ *RedBus BLR,transport
+MedPlus INDIA,pharmacy
+TRX Best Buy,electronics
+IMPS Dominos,restaurant
+PAY Apple Store,electronics
+PAY SpiceJet,airline
+TRX Apollo Pharmacy 123,pharmacy
+IMPS INOX DEL,entertainment
+CCD HYD,coffee_shop
+IMPS Flipkart DEL,ecommerce
+TRX Uber,transport
+UPI PVR Cinemas HYD,entertainment
+PAY Snapdeal 123,ecommerce
+SQ *CCD DEL,coffee_shop
+PAY 1MG 123,pharmacy
+IMPS NetMeds,pharmacy
+IMPS BookMyShow,entertainment
+TRX Croma DEL,electronics
+SWIPE Starbucks,coffee_shop
+IMPS PharmEasy BLR,pharmacy
+UPI Indigo 001,airline
+IMPS Carnival Cinemas HYD,entertainment
+TRX Meru,transport
+TRX DMart DEL,grocery
+UPI Subway DEL,restaurant
+UPI Vijay Sales,electronics
+TRX Carnival Cinemas,entertainment
+PharmEasy,pharmacy
+SWIPE BookMyShow 123,entertainment
+SQ *Croma BLR,electronics
+SQ *Amazon 001,ecommerce
+SQ *KFC 001,restaurant
+TRX Dominos BLR,restaurant
+TRX Walmart,grocery
+PizzaHut BLR,restaurant
+PAY Reliance Fresh,grocery
+SWIPE Fun Cinemas 001,entertainment
+SWIPE Vijay Sales 123,electronics
+PAY DMart 123,grocery
+UPI Best Buy DEL,electronics
+Croma BLR,electronics
+UPI Fun Cinemas,entertainment
+SWIPE HPCL 123,fuel
+Reliance Fresh 001,grocery
+SQ *Reliance Digital DEL,electronics
+IMPS Apple Store,electronics
+SQ *PharmEasy BLR,pharmacy
+SQ *Starbucks HYD,coffee_shop
+UPI Blue Tokai,coffee_shop
+PAY Best Buy BLR,electronics
+TRX Nayara HYD,fuel
+Fun Cinemas DEL,entertainment
+PAY SpiceJet,airline
+SQ *DMart 001,grocery
+PAY RedBus 001,transport
+PAY Fun Cinemas,entertainment
+TRX Reliance Fresh 123,grocery
+SQ *Myntra DEL,ecommerce
+IMPS NetMeds 001,pharmacy
+SWIPE Croma HYD,electronics
+PAY Uber DEL,transport
+PAY Vijay Sales 001,electronics
+UPI Third Wave Coffee HYD,coffee_shop
+PVR Cinemas,entertainment
+Indigo INDIA,airline
+UPI Ola,transport
+UPI KFC,restaurant
+TRX Ola 123,transport
+UPI BookMyShow BLR,entertainment
+TRX NetMeds 001,pharmacy
+TRX Dominos 123,restaurant
+SpiceJet,airline
+IMPS GoFirst HYD,airline
+UPI Dominos,restaurant
+SQ *Vistara INDIA,airline
+MedPlus 001,pharmacy
+Ola 123,transport
+SQ *Nayara DEL,fuel
+UPI Vijay Sales 123,electronics
+Ola 123,transport
+UPI GoFirst,airline
+UPI Amazon INDIA,ecommerce
+UPI Indigo,airline
+IMPS Shell INDIA,fuel
+UPI IndianOil,fuel
+PAY Carnival Cinemas DEL,entertainment
+SQ *BigBasket BLR,grocery
+TRX Apollo Pharmacy DEL,pharmacy
+SWIPE Ajio 001,ecommerce
+TRX Reliance Digital,electronics
+PAY IndianOil,fuel
+UPI Carnival Cinemas 001,entertainment
+UPI IndianOil HYD,fuel
+PAY Amazon BLR,ecommerce
+IMPS Uber,transport
+UPI Rapido 123,transport
+IMPS PizzaHut DEL,restaurant
+Walmart 123,grocery
+TRX Best Buy,electronics
+TRX Amazon,ecommerce
+KFC,restaurant
+SQ *Fun Cinemas,entertainment
+PVR Cinemas,entertainment
+BPCL 123,fuel
+BookMyShow HYD,entertainment
+PAY Walmart HYD,grocery
+UPI Myntra INDIA,ecommerce
+SQ *HPCL BLR,fuel
+IndianOil 123,fuel
+SQ *Meru BLR,transport
+Amazon DEL,ecommerce
+Starbucks DEL,coffee_shop
+SWIPE Spencers,grocery
+TRX Carnival Cinemas 123,entertainment
+PAY GoFirst BLR,airline
+IMPS Walmart 123,grocery
+UPI SpiceJet 123,airline
+TRX RedBus DEL,transport
+SQ *GoFirst,airline
+Dominos,restaurant
+IMPS Best Buy,electronics
+UPI BookMyShow BLR,entertainment
+UPI KFC HYD,restaurant
+PAY HPCL 123,fuel
+SWIPE Dominos,restaurant
+PAY Third Wave Coffee 001,coffee_shop
+PharmEasy,pharmacy
+PAY Myntra 001,ecommerce
+UPI Ola INDIA,transport
+IMPS Flipkart INDIA,ecommerce
+TRX Amazon 001,ecommerce
+IMPS HPCL 123,fuel
+McDonalds,restaurant
+SWIPE PizzaHut INDIA,restaurant
+SQ *BookMyShow DEL,entertainment
+UPI Nayara BLR,fuel
+UPI GoFirst 001,airline
+IMPS INOX 123,entertainment
+SQ *SpiceJet HYD,airline
+UPI Barista 001,coffee_shop
+Uber BLR,transport
+TRX INOX INDIA,entertainment
+TRX Fun Cinemas HYD,entertainment
+IMPS Apollo Pharmacy BLR,pharmacy
+PAY Shell 001,fuel
+SWIPE Barista,coffee_shop
+TRX HPCL INDIA,fuel
+TRX Ajio 123,ecommerce
+Dominos DEL,restaurant
+UPI IndianOil HYD,fuel
+PAY 1MG,pharmacy
+PAY Uber 123,transport
+Vistara 123,airline
+UPI Croma 001,electronics
+Nayara INDIA,fuel
+UPI Meru 001,transport
+PAY BPCL 001,fuel
+IMPS Shell BLR,fuel
+Snapdeal 123,ecommerce
+BPCL 123,fuel
+PAY MedPlus DEL,pharmacy
+IMPS MedPlus,pharmacy
+SQ *1MG,pharmacy
+PizzaHut 001,restaurant
+SQ *IndianOil,fuel
+PAY Barista 001,coffee_shop
+IMPS IndianOil 123,fuel
+SWIPE Flipkart 123,ecommerce
+Blue Tokai BLR,coffee_shop
+Vijay Sales INDIA,electronics
+UPI Blue Tokai DEL,coffee_shop
+PAY Subway BLR,restaurant
+PAY Fun Cinemas DEL,entertainment
+Ajio BLR,ecommerce
+PAY Apollo Pharmacy BLR,pharmacy
+RedBus 123,transport
+GoFirst HYD,airline
+TRX BookMyShow 001,entertainment
+TRX BPCL,fuel
+IMPS PVR Cinemas 123,entertainment
+Third Wave Coffee,coffee_shop
+SWIPE McDonalds,restaurant
+IMPS PharmEasy,pharmacy
+UPI Rapido HYD,transport
+SQ *Myntra BLR,ecommerce
+IMPS Ola,transport
+UPI INOX HYD,entertainment
+DMart BLR,grocery
+IMPS Meru,transport
+PAY BPCL BLR,fuel
+PAY RedBus DEL,transport
+PAY Dominos,restaurant
+Ola INDIA,transport
+IMPS Uber,transport
+IMPS Dominos,restaurant
+TRX KFC DEL,restaurant
+DMart 001,grocery
+UPI Barista 001,coffee_shop
+SQ *Indigo,airline
+SWIPE Nayara 123,fuel
+PAY Spencers HYD,grocery
+BPCL,fuel
+SQ *Walmart 123,grocery
+PAY Spencers BLR,grocery
+TRX SpiceJet,airline
+HPCL,fuel
+UPI Myntra,ecommerce
+SQ *Vistara DEL,airline
+SpiceJet HYD,airline
+PAY McDonalds BLR,restaurant
+UPI Meru 001,transport
+Amazon 123,ecommerce
+PAY Vijay Sales 123,electronics
+IMPS BigBasket,grocery
+UPI Snapdeal 001,ecommerce
+SWIPE Subway,restaurant
+TRX Blue Tokai,coffee_shop
+PAY Snapdeal HYD,ecommerce
+SWIPE IndianOil,fuel
+TRX Vistara,airline
+IMPS MedPlus 001,pharmacy
+PAY NetMeds DEL,pharmacy
+PAY PizzaHut HYD,restaurant
+MedPlus INDIA,pharmacy
+TRX Third Wave Coffee BLR,coffee_shop
+TRX Ola 001,transport
+PAY Rapido INDIA,transport
+SWIPE RedBus,transport
+SQ *Amazon BLR,ecommerce
+TRX Dominos BLR,restaurant
+SWIPE NetMeds,pharmacy
+SWIPE Fun Cinemas DEL,entertainment
+PAY Amazon HYD,ecommerce
+SWIPE Walmart,grocery
+PAY Starbucks BLR,coffee_shop
+TRX Best Buy,electronics
+SQ *RedBus 123,transport
+IMPS CCD,coffee_shop
+SWIPE Barista 001,coffee_shop
+SWIPE Starbucks 001,coffee_shop
+SQ *Croma BLR,electronics
+UPI Apple Store BLR,electronics
+IMPS Barista,coffee_shop
+SQ *Spencers HYD,grocery
+UPI Starbucks DEL,coffee_shop
+KFC DEL,restaurant
+SWIPE Meru HYD,transport
+UPI BPCL 001,fuel
+SWIPE MedPlus 123,pharmacy
+TRX Ola,transport
+UPI PharmEasy BLR,pharmacy
+SQ *Carnival Cinemas DEL,entertainment
+UPI Walmart HYD,grocery
+IMPS Croma,electronics
+TRX Meru,transport
+SpiceJet 001,airline
+SQ *Dominos 123,restaurant
+TRX Walmart,grocery
+SQ *MedPlus BLR,pharmacy
+PAY SpiceJet 123,airline
+TRX Carnival Cinemas BLR,entertainment
+SQ *SpiceJet,airline
+TRX Croma 001,electronics
+PAY Meru,transport
+SQ *Rapido BLR,transport
+UPI Shell DEL,fuel
+PAY Dominos BLR,restaurant
+IMPS Myntra BLR,ecommerce
+SQ *Vijay Sales INDIA,electronics
+UPI Dominos,restaurant
+TRX INOX,entertainment
+SWIPE Meru,transport
+TRX INOX 123,entertainment
+PAY Flipkart,ecommerce
+TRX PizzaHut DEL,restaurant
+PAY Uber 001,transport
+SQ *MedPlus HYD,pharmacy
+UPI Fun Cinemas,entertainment
+SQ *Barista HYD,coffee_shop
+IMPS Apple Store BLR,electronics
+TRX Snapdeal,ecommerce
+PAY Myntra DEL,ecommerce
+PAY BigBasket INDIA,grocery
+PAY Fun Cinemas,entertainment
+IMPS KFC,restaurant
+PAY DMart,grocery
+SWIPE CCD HYD,coffee_shop
+SWIPE Air India,airline
+IMPS Uber DEL,transport
+SWIPE Reliance Digital,electronics
+CCD,coffee_shop
+SWIPE Apple Store 123,electronics
+UPI NetMeds 123,pharmacy
+IMPS Vijay Sales INDIA,electronics
+SQ *McDonalds BLR,restaurant
+PAY Air India,airline
+SWIPE RedBus,transport
+SQ *Starbucks,coffee_shop
+SQ *Vijay Sales,electronics
+PAY Indigo DEL,airline
+SQ *Indigo INDIA,airline
+SQ *CCD BLR,coffee_shop
+SQ *CCD DEL,coffee_shop
+UPI SpiceJet HYD,airline
+PizzaHut 123,restaurant
+PAY McDonalds HYD,restaurant
+INOX,entertainment
+SQ *NetMeds,pharmacy
+PAY NetMeds INDIA,pharmacy
+TRX Carnival Cinemas HYD,entertainment
+UPI INOX,entertainment
+PAY Snapdeal,ecommerce
+SWIPE BookMyShow HYD,entertainment
+Barista HYD,coffee_shop
+PAY PVR Cinemas 001,entertainment
+TRX CCD HYD,coffee_shop
+UPI Uber BLR,transport
+TRX KFC 123,restaurant
+IMPS DMart,grocery
+SQ *Reliance Fresh 123,grocery
+PAY Spencers DEL,grocery
+IMPS Barista BLR,coffee_shop
+TRX BookMyShow,entertainment
+SQ *McDonalds 123,restaurant
+IMPS NetMeds INDIA,pharmacy
+SQ *Indigo,airline
+SQ *Reliance Fresh,grocery
+UPI Flipkart INDIA,ecommerce
+PAY DMart INDIA,grocery
+IMPS Starbucks BLR,coffee_shop
+PAY Vijay Sales,electronics
+SWIPE DMart,grocery
+SWIPE Snapdeal DEL,ecommerce
+PAY NetMeds 123,pharmacy
+SWIPE Flipkart DEL,ecommerce
+UPI Myntra BLR,ecommerce
+Amazon BLR,ecommerce
+Apollo Pharmacy DEL,pharmacy
+SWIPE BigBasket BLR,grocery
+SQ *Blue Tokai INDIA,coffee_shop
+SQ *Myntra BLR,ecommerce
+Dominos INDIA,restaurant
+SQ *BigBasket INDIA,grocery
+PAY Starbucks BLR,coffee_shop
+SQ *RedBus,transport
+PAY Rapido 001,transport
+SWIPE Barista,coffee_shop
+UPI GoFirst,airline
+IMPS Meru 001,transport
+TRX Nayara,fuel
+SQ *Croma 123,electronics
+PAY NetMeds 001,pharmacy
+IMPS Snapdeal DEL,ecommerce
+1MG DEL,pharmacy
+SWIPE Subway HYD,restaurant
+1MG BLR,pharmacy
+Vistara,airline
+RedBus HYD,transport
+NetMeds 123,pharmacy
+UPI Spencers,grocery
+BookMyShow BLR,entertainment
+Shell,fuel
+PAY Uber,transport
+TRX Vistara HYD,airline
+SWIPE Snapdeal,ecommerce
+SWIPE BookMyShow HYD,entertainment
+Apollo Pharmacy,pharmacy
+TRX Snapdeal DEL,ecommerce
+TRX Amazon BLR,ecommerce
+SWIPE Shell BLR,fuel
+PAY PVR Cinemas DEL,entertainment
+TRX Rapido INDIA,transport
+UPI INOX,entertainment
+SWIPE Air India DEL,airline
+SQ *Fun Cinemas 001,entertainment
+SQ *GoFirst,airline
+SWIPE Vijay Sales BLR,electronics
+PAY Best Buy HYD,electronics
+IMPS BookMyShow INDIA,entertainment
+SQ *Apple Store BLR,electronics
+Vijay Sales 001,electronics
+SWIPE Reliance Fresh 123,grocery
+PAY Reliance Digital HYD,electronics
+SQ *Barista 123,coffee_shop
+IMPS RedBus,transport
+SQ *Meru BLR,transport
+UPI BPCL 001,fuel
+TRX Nayara 123,fuel
+Indigo,airline
+PAY Apollo Pharmacy 001,pharmacy
+TRX Amazon,ecommerce
+UPI BPCL 123,fuel
+SQ *Indigo,airline
+UPI Myntra HYD,ecommerce
+UPI CCD,coffee_shop
+UPI HPCL,fuel
+SpiceJet INDIA,airline
+SQ *Air India 001,airline
+Air India 123,airline
+IMPS Best Buy BLR,electronics
+Third Wave Coffee,coffee_shop
+SWIPE Rapido 123,transport
+IMPS GoFirst INDIA,airline
+UPI Myntra BLR,ecommerce
+SWIPE PharmEasy INDIA,pharmacy
+SWIPE MedPlus,pharmacy
+TRX McDonalds,restaurant
+Dominos BLR,restaurant
+SQ *Reliance Fresh HYD,grocery
+IMPS Reliance Digital BLR,electronics
+IMPS Flipkart BLR,ecommerce
+IMPS Dominos,restaurant
+IMPS Best Buy 001,electronics
+UPI Apollo Pharmacy,pharmacy
+TRX Flipkart,ecommerce
+UPI McDonalds 123,restaurant
+TRX Ola INDIA,transport
+IMPS Rapido BLR,transport
+PAY Best Buy 123,electronics
+TRX SpiceJet HYD,airline
+SWIPE Subway,restaurant
+UPI Starbucks,coffee_shop
+SQ *Vijay Sales 123,electronics
+TRX CCD BLR,coffee_shop
+PAY Croma 001,electronics
+Flipkart INDIA,ecommerce
+SQ *INOX DEL,entertainment
+SQ *Flipkart BLR,ecommerce
+UPI Air India,airline
+SQ *Reliance Digital BLR,electronics
+TRX Vistara DEL,airline
+SQ *Starbucks,coffee_shop
+TRX Subway BLR,restaurant
+UPI Walmart 123,grocery
+IMPS Amazon 001,ecommerce
+PAY CCD,coffee_shop
+TRX Blue Tokai,coffee_shop
+Nayara,fuel
+IMPS Vistara 001,airline
+SQ *Carnival Cinemas,entertainment
+PAY 1MG,pharmacy
+PAY Meru BLR,transport
+UPI Meru BLR,transport
+SWIPE MedPlus 123,pharmacy
+UPI Reliance Digital HYD,electronics
+SWIPE Apple Store,electronics
+KFC 123,restaurant
+TRX Reliance Digital BLR,electronics
+CCD,coffee_shop
+SWIPE Flipkart,ecommerce
+SWIPE Subway 001,restaurant
+TRX RedBus HYD,transport
+UPI Barista INDIA,coffee_shop
+IMPS Reliance Fresh DEL,grocery
+TRX Myntra DEL,ecommerce
+SWIPE Subway,restaurant
+PAY Myntra,ecommerce
+SWIPE Subway 123,restaurant
+PAY Amazon HYD,ecommerce
+IMPS Apollo Pharmacy,pharmacy
+SQ *Carnival Cinemas,entertainment
+PAY Indigo,airline
+SWIPE Vistara HYD,airline
+UPI Amazon BLR,ecommerce
+PAY Snapdeal,ecommerce
+Vijay Sales,electronics
+TRX Apollo Pharmacy HYD,pharmacy
+Dominos DEL,restaurant
+SWIPE Dominos HYD,restaurant
+UPI 1MG BLR,pharmacy
+PAY HPCL,fuel
+SQ *Subway 001,restaurant
+Reliance Fresh,grocery
+PAY Myntra,ecommerce
+SWIPE Air India,airline
+TRX Flipkart,ecommerce
+UPI Meru,transport
+PAY Walmart BLR,grocery
+INOX HYD,entertainment
+TRX PharmEasy,pharmacy
+IMPS Spencers HYD,grocery
+Air India BLR,airline
+PAY Best Buy,electronics
+SQ *1MG,pharmacy
+SWIPE McDonalds 001,restaurant
+Dominos BLR,restaurant
+TRX BigBasket,grocery
+PAY Reliance Digital,electronics
+UPI Croma BLR,electronics
+SWIPE Barista DEL,coffee_shop
+UPI Nayara,fuel
+PAY Third Wave Coffee,coffee_shop
+SQ *Fun Cinemas DEL,entertainment

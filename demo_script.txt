@@ -1,0 +1,36 @@
+FinSort Demo Script (60-90 seconds)
+
+[INTRO - 10 seconds]
+"FinSort is a local transaction categorization system that automatically classifies bank transactions into categories like Groceries, Food & Dining, and Shopping. Let me show you how it works."
+
+[DEMO 1 - CLI/Streamlit Prediction - 20 seconds]
+"Here's a transaction: 'SQ *COFFEE-SPOT 123'. The model predicts it as 'coffee_shop' with 43% confidence, mapped to 'Food & Dining'. 
+
+Let me try another: 'AMAZON MKTPLACE PMTS' predicts 'ecommerce' with 88% confidence, mapped to 'Shopping'. 
+
+Notice the explanation tokens show which words contributed most to the prediction - 'amazon' and 'marketplace' in this case."
+
+[DEMO 2 - Config Remapping - 15 seconds]
+"One powerful feature is that you can remap categories without retraining. 
+
+I'll edit finsort/config.json and change 'ecommerce' from 'Shopping' to 'Online Retail'. 
+
+Now when I run the same prediction, 'AMAZON MKTPLACE PMTS' maps to 'Online Retail' instead. The underlying model tag stays the same, but the category mapping changes instantly - no retraining needed!"
+
+[DEMO 3 - Feedback Correction - 15 seconds]
+"Sometimes predictions have low confidence. When that happens, users can submit corrections. 
+
+For example, if a low-confidence prediction is wrong, I can enter the correct category here. The correction is automatically logged to finsort/feedback.log, which can be used later to improve the model."
+
+[METRICS & REPO - 20 seconds]
+"FinSort achieves a macro F1 score of 1.00 on the test set, with strong performance across all 10 categories.
+
+The repo structure is clean: 
+- The finsort package contains the core logic
+- Training data and scripts are in the root
+- We have both a CLI demo and a Streamlit web UI
+- Tests ensure code quality
+- The config.json file makes category remapping simple
+
+That's FinSort - local, fast, and configurable transaction categorization!"
+

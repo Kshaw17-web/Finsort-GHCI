@@ -1,0 +1,2501 @@
+transaction,tag
+PAY Starbucks 123,coffee_shop
+IMPS Starbucks DEL,coffee_shop
+PAY Starbucks BLR,coffee_shop
+SQ *Starbucks HYD,coffee_shop
+SWIPE Starbucks,coffee_shop
+IMPS Starbucks BLR,coffee_shop
+PAY Starbucks,coffee_shop
+UPI Starbucks 123,coffee_shop
+PAY Starbucks DEL,coffee_shop
+Starbucks DEL,coffee_shop
+UPI Starbucks 001,coffee_shop
+IMPS Starbucks 001,coffee_shop
+UPI Starbucks,coffee_shop
+TRX Starbucks INDIA,coffee_shop
+Starbucks,coffee_shop
+PAY Starbucks DEL,coffee_shop
+PAY Starbucks 123,coffee_shop
+SQ *Starbucks,coffee_shop
+Starbucks HYD,coffee_shop
+UPI Starbucks DEL,coffee_shop
+UPI Starbucks HYD,coffee_shop
+SQ *Starbucks DEL,coffee_shop
+IMPS Starbucks,coffee_shop
+UPI Starbucks,coffee_shop
+IMPS Starbucks INDIA,coffee_shop
+PAY Starbucks,coffee_shop
+PAY Starbucks BLR,coffee_shop
+PAY Starbucks 001,coffee_shop
+SWIPE Starbucks 001,coffee_shop
+PAY Starbucks BLR,coffee_shop
+UPI Starbucks 123,coffee_shop
+TRX Starbucks,coffee_shop
+IMPS Starbucks,coffee_shop
+IMPS Starbucks,coffee_shop
+PAY Starbucks BLR,coffee_shop
+PAY Starbucks 123,coffee_shop
+SQ *Starbucks 001,coffee_shop
+SQ *Starbucks,coffee_shop
+TRX Starbucks,coffee_shop
+UPI Starbucks INDIA,coffee_shop
+Starbucks DEL,coffee_shop
+SQ *Starbucks DEL,coffee_shop
+PAY Starbucks,coffee_shop
+TRX Starbucks 001,coffee_shop
+PAY Starbucks DEL,coffee_shop
+Starbucks DEL,coffee_shop
+SWIPE Starbucks HYD,coffee_shop
+SWIPE Starbucks DEL,coffee_shop
+SQ *Starbucks BLR,coffee_shop
+SWIPE Starbucks,coffee_shop
+IMPS Barista BLR,coffee_shop
+SWIPE Barista HYD,coffee_shop
+TRX Barista 123,coffee_shop
+PAY Barista,coffee_shop
+PAY Barista,coffee_shop
+SWIPE Barista DEL,coffee_shop
+UPI Barista,coffee_shop
+IMPS Barista DEL,coffee_shop
+SQ *Barista 123,coffee_shop
+SQ *Barista INDIA,coffee_shop
+TRX Barista 001,coffee_shop
+IMPS Barista INDIA,coffee_shop
+PAY Barista 123,coffee_shop
+SQ *Barista 123,coffee_shop
+SQ *Barista HYD,coffee_shop
+UPI Barista INDIA,coffee_shop
+TRX Barista DEL,coffee_shop
+UPI Barista INDIA,coffee_shop
+PAY Barista 001,coffee_shop
+SWIPE Barista,coffee_shop
+UPI Barista,coffee_shop
+UPI Barista INDIA,coffee_shop
+UPI Barista 001,coffee_shop
+Barista INDIA,coffee_shop
+SQ *Barista HYD,coffee_shop
+TRX Barista DEL,coffee_shop
+IMPS Barista,coffee_shop
+SQ *Barista 001,coffee_shop
+SWIPE Barista BLR,coffee_shop
+SWIPE Barista 001,coffee_shop
+TRX Barista,coffee_shop
+UPI Barista,coffee_shop
+UPI Barista,coffee_shop
+SWIPE Barista DEL,coffee_shop
+Barista INDIA,coffee_shop
+Barista HYD,coffee_shop
+UPI Barista,coffee_shop
+SQ *Barista 001,coffee_shop
+UPI Barista,coffee_shop
+SQ *Barista,coffee_shop
+TRX Barista DEL,coffee_shop
+SWIPE Barista,coffee_shop
+SQ *Barista DEL,coffee_shop
+SQ *Barista,coffee_shop
+UPI Barista,coffee_shop
+UPI Barista HYD,coffee_shop
+UPI Barista 001,coffee_shop
+SWIPE Barista,coffee_shop
+SQ *Barista,coffee_shop
+SQ *Barista HYD,coffee_shop
+PAY CCD,coffee_shop
+SQ *CCD BLR,coffee_shop
+TRX CCD INDIA,coffee_shop
+SWIPE CCD INDIA,coffee_shop
+UPI CCD,coffee_shop
+IMPS CCD INDIA,coffee_shop
+UPI CCD,coffee_shop
+TRX CCD DEL,coffee_shop
+UPI CCD 001,coffee_shop
+UPI CCD,coffee_shop
+TRX CCD HYD,coffee_shop
+UPI CCD BLR,coffee_shop
+IMPS CCD,coffee_shop
+SWIPE CCD,coffee_shop
+CCD,coffee_shop
+SQ *CCD 001,coffee_shop
+SWIPE CCD HYD,coffee_shop
+UPI CCD,coffee_shop
+TRX CCD HYD,coffee_shop
+PAY CCD 123,coffee_shop
+SQ *CCD DEL,coffee_shop
+IMPS CCD,coffee_shop
+SWIPE CCD BLR,coffee_shop
+CCD,coffee_shop
+SQ *CCD DEL,coffee_shop
+CCD HYD,coffee_shop
+SQ *CCD,coffee_shop
+IMPS CCD DEL,coffee_shop
+IMPS CCD BLR,coffee_shop
+UPI CCD,coffee_shop
+UPI CCD INDIA,coffee_shop
+SQ *CCD INDIA,coffee_shop
+IMPS CCD,coffee_shop
+CCD,coffee_shop
+SQ *CCD BLR,coffee_shop
+IMPS CCD 001,coffee_shop
+SWIPE CCD,coffee_shop
+CCD,coffee_shop
+CCD HYD,coffee_shop
+TRX CCD BLR,coffee_shop
+IMPS CCD INDIA,coffee_shop
+CCD 123,coffee_shop
+IMPS CCD,coffee_shop
+IMPS CCD 123,coffee_shop
+IMPS CCD HYD,coffee_shop
+TRX CCD BLR,coffee_shop
+SWIPE CCD,coffee_shop
+SQ *CCD,coffee_shop
+UPI CCD HYD,coffee_shop
+UPI CCD 123,coffee_shop
+Third Wave Coffee DEL,coffee_shop
+UPI Third Wave Coffee 123,coffee_shop
+Third Wave Coffee,coffee_shop
+SQ *Third Wave Coffee 123,coffee_shop
+IMPS Third Wave Coffee DEL,coffee_shop
+UPI Third Wave Coffee BLR,coffee_shop
+IMPS Third Wave Coffee HYD,coffee_shop
+UPI Third Wave Coffee HYD,coffee_shop
+SQ *Third Wave Coffee BLR,coffee_shop
+UPI Third Wave Coffee 001,coffee_shop
+IMPS Third Wave Coffee INDIA,coffee_shop
+SWIPE Third Wave Coffee 001,coffee_shop
+SQ *Third Wave Coffee BLR,coffee_shop
+TRX Third Wave Coffee 123,coffee_shop
+IMPS Third Wave Coffee,coffee_shop
+TRX Third Wave Coffee DEL,coffee_shop
+SQ *Third Wave Coffee HYD,coffee_shop
+SWIPE Third Wave Coffee BLR,coffee_shop
+TRX Third Wave Coffee,coffee_shop
+SQ *Third Wave Coffee DEL,coffee_shop
+UPI Third Wave Coffee HYD,coffee_shop
+TRX Third Wave Coffee BLR,coffee_shop
+SQ *Third Wave Coffee HYD,coffee_shop
+Third Wave Coffee,coffee_shop
+SQ *Third Wave Coffee,coffee_shop
+TRX Third Wave Coffee INDIA,coffee_shop
+TRX Third Wave Coffee INDIA,coffee_shop
+Third Wave Coffee 123,coffee_shop
+IMPS Third Wave Coffee DEL,coffee_shop
+SWIPE Third Wave Coffee 123,coffee_shop
+SQ *Third Wave Coffee,coffee_shop
+TRX Third Wave Coffee,coffee_shop
+SQ *Third Wave Coffee DEL,coffee_shop
+UPI Third Wave Coffee,coffee_shop
+TRX Third Wave Coffee,coffee_shop
+SWIPE Third Wave Coffee BLR,coffee_shop
+UPI Third Wave Coffee HYD,coffee_shop
+IMPS Third Wave Coffee BLR,coffee_shop
+PAY Third Wave Coffee HYD,coffee_shop
+PAY Third Wave Coffee INDIA,coffee_shop
+PAY Third Wave Coffee 001,coffee_shop
+TRX Third Wave Coffee HYD,coffee_shop
+Third Wave Coffee DEL,coffee_shop
+PAY Third Wave Coffee HYD,coffee_shop
+UPI Third Wave Coffee,coffee_shop
+SQ *Third Wave Coffee BLR,coffee_shop
+SQ *Third Wave Coffee,coffee_shop
+Third Wave Coffee 001,coffee_shop
+PAY Third Wave Coffee,coffee_shop
+SWIPE Third Wave Coffee 123,coffee_shop
+Blue Tokai BLR,coffee_shop
+PAY Blue Tokai 123,coffee_shop
+TRX Blue Tokai,coffee_shop
+SQ *Blue Tokai HYD,coffee_shop
+SQ *Blue Tokai 123,coffee_shop
+UPI Blue Tokai DEL,coffee_shop
+IMPS Blue Tokai 001,coffee_shop
+UPI Blue Tokai 123,coffee_shop
+SQ *Blue Tokai 001,coffee_shop
+PAY Blue Tokai BLR,coffee_shop
+PAY Blue Tokai INDIA,coffee_shop
+Blue Tokai 001,coffee_shop
+SWIPE Blue Tokai,coffee_shop
+TRX Blue Tokai,coffee_shop
+IMPS Blue Tokai 123,coffee_shop
+Blue Tokai,coffee_shop
+SWIPE Blue Tokai,coffee_shop
+UPI Blue Tokai INDIA,coffee_shop
+SQ *Blue Tokai,coffee_shop
+IMPS Blue Tokai DEL,coffee_shop
+PAY Blue Tokai 123,coffee_shop
+Blue Tokai INDIA,coffee_shop
+UPI Blue Tokai,coffee_shop
+TRX Blue Tokai DEL,coffee_shop
+SWIPE Blue Tokai,coffee_shop
+SQ *Blue Tokai,coffee_shop
+PAY Blue Tokai,coffee_shop
+SQ *Blue Tokai 001,coffee_shop
+SQ *Blue Tokai INDIA,coffee_shop
+UPI Blue Tokai BLR,coffee_shop
+UPI Blue Tokai INDIA,coffee_shop
+TRX Blue Tokai,coffee_shop
+IMPS Blue Tokai,coffee_shop
+Blue Tokai BLR,coffee_shop
+UPI Blue Tokai,coffee_shop
+Blue Tokai BLR,coffee_shop
+UPI Blue Tokai DEL,coffee_shop
+Blue Tokai 001,coffee_shop
+SQ *Blue Tokai BLR,coffee_shop
+PAY Blue Tokai,coffee_shop
+UPI Blue Tokai,coffee_shop
+SQ *Blue Tokai 001,coffee_shop
+SWIPE Blue Tokai,coffee_shop
+IMPS Blue Tokai INDIA,coffee_shop
+TRX Blue Tokai,coffee_shop
+SQ *Blue Tokai 001,coffee_shop
+IMPS Blue Tokai,coffee_shop
+SQ *Blue Tokai BLR,coffee_shop
+PAY Blue Tokai,coffee_shop
+TRX Blue Tokai,coffee_shop
+SWIPE BigBasket DEL,grocery
+SQ *BigBasket 123,grocery
+SQ *BigBasket DEL,grocery
+IMPS BigBasket,grocery
+PAY BigBasket,grocery
+IMPS BigBasket,grocery
+PAY BigBasket DEL,grocery
+SWIPE BigBasket,grocery
+TRX BigBasket 001,grocery
+SQ *BigBasket 123,grocery
+TRX BigBasket 001,grocery
+PAY BigBasket 001,grocery
+SQ *BigBasket 123,grocery
+IMPS BigBasket HYD,grocery
+SWIPE BigBasket 001,grocery
+PAY BigBasket HYD,grocery
+IMPS BigBasket 123,grocery
+TRX BigBasket INDIA,grocery
+SWIPE BigBasket 001,grocery
+BigBasket DEL,grocery
+BigBasket 001,grocery
+SWIPE BigBasket BLR,grocery
+IMPS BigBasket BLR,grocery
+SQ *BigBasket INDIA,grocery
+UPI BigBasket,grocery
+UPI BigBasket,grocery
+UPI BigBasket 001,grocery
+BigBasket 001,grocery
+SQ *BigBasket 001,grocery
+TRX BigBasket,grocery
+UPI BigBasket,grocery
+UPI BigBasket 001,grocery
+SQ *BigBasket,grocery
+TRX BigBasket BLR,grocery
+PAY BigBasket INDIA,grocery
+UPI BigBasket,grocery
+PAY BigBasket HYD,grocery
+SQ *BigBasket BLR,grocery
+TRX BigBasket 001,grocery
+SWIPE BigBasket BLR,grocery
+IMPS BigBasket 001,grocery
+TRX BigBasket,grocery
+TRX BigBasket DEL,grocery
+SWIPE BigBasket INDIA,grocery
+UPI BigBasket BLR,grocery
+UPI BigBasket,grocery
+UPI BigBasket 123,grocery
+IMPS BigBasket,grocery
+IMPS BigBasket,grocery
+IMPS BigBasket HYD,grocery
+DMart 001,grocery
+TRX DMart,grocery
+SWIPE DMart,grocery
+IMPS DMart,grocery
+SWIPE DMart INDIA,grocery
+UPI DMart,grocery
+TRX DMart DEL,grocery
+PAY DMart 123,grocery
+PAY DMart INDIA,grocery
+SQ *DMart HYD,grocery
+DMart 123,grocery
+PAY DMart,grocery
+DMart BLR,grocery
+SQ *DMart DEL,grocery
+SQ *DMart DEL,grocery
+SWIPE DMart HYD,grocery
+PAY DMart 123,grocery
+SQ *DMart,grocery
+SWIPE DMart,grocery
+TRX DMart,grocery
+DMart 001,grocery
+PAY DMart 001,grocery
+SQ *DMart,grocery
+DMart,grocery
+PAY DMart,grocery
+DMart 001,grocery
+SWIPE DMart INDIA,grocery
+SWIPE DMart 123,grocery
+UPI DMart HYD,grocery
+TRX DMart 123,grocery
+PAY DMart,grocery
+DMart HYD,grocery
+PAY DMart BLR,grocery
+TRX DMart,grocery
+TRX DMart,grocery
+SQ *DMart DEL,grocery
+SQ *DMart 123,grocery
+SQ *DMart,grocery
+TRX DMart INDIA,grocery
+UPI DMart HYD,grocery
+IMPS DMart,grocery
+IMPS DMart 123,grocery
+SQ *DMart 001,grocery
+UPI DMart 001,grocery
+IMPS DMart,grocery
+UPI DMart INDIA,grocery
+DMart BLR,grocery
+DMart 001,grocery
+SQ *DMart DEL,grocery
+PAY DMart HYD,grocery
+TRX Walmart HYD,grocery
+PAY Walmart,grocery
+SWIPE Walmart BLR,grocery
+SQ *Walmart DEL,grocery
+PAY Walmart HYD,grocery
+TRX Walmart DEL,grocery
+IMPS Walmart INDIA,grocery
+SWIPE Walmart BLR,grocery
+UPI Walmart HYD,grocery
+SWIPE Walmart,grocery
+SWIPE Walmart 123,grocery
+UPI Walmart,grocery
+SWIPE Walmart INDIA,grocery
+TRX Walmart,grocery
+Walmart HYD,grocery
+IMPS Walmart INDIA,grocery
+PAY Walmart 001,grocery
+IMPS Walmart,grocery
+UPI Walmart 123,grocery
+SWIPE Walmart DEL,grocery
+IMPS Walmart HYD,grocery
+PAY Walmart 001,grocery
+TRX Walmart BLR,grocery
+TRX Walmart,grocery
+PAY Walmart DEL,grocery
+TRX Walmart DEL,grocery
+IMPS Walmart DEL,grocery
+PAY Walmart BLR,grocery
+Walmart 123,grocery
+IMPS Walmart HYD,grocery
+TRX Walmart,grocery
+IMPS Walmart INDIA,grocery
+UPI Walmart DEL,grocery
+TRX Walmart HYD,grocery
+IMPS Walmart,grocery
+UPI Walmart DEL,grocery
+SQ *Walmart 123,grocery
+TRX Walmart,grocery
+TRX Walmart DEL,grocery
+PAY Walmart,grocery
+IMPS Walmart BLR,grocery
+SWIPE Walmart INDIA,grocery
+IMPS Walmart DEL,grocery
+UPI Walmart HYD,grocery
+SWIPE Walmart,grocery
+SWIPE Walmart,grocery
+IMPS Walmart,grocery
+Walmart 123,grocery
+IMPS Walmart 123,grocery
+SWIPE Walmart 123,grocery
+SWIPE Reliance Fresh 123,grocery
+IMPS Reliance Fresh BLR,grocery
+SQ *Reliance Fresh BLR,grocery
+PAY Reliance Fresh INDIA,grocery
+Reliance Fresh 123,grocery
+IMPS Reliance Fresh BLR,grocery
+SQ *Reliance Fresh HYD,grocery
+SQ *Reliance Fresh BLR,grocery
+Reliance Fresh,grocery
+SWIPE Reliance Fresh HYD,grocery
+SWIPE Reliance Fresh,grocery
+SQ *Reliance Fresh 123,grocery
+TRX Reliance Fresh 123,grocery
+Reliance Fresh 001,grocery
+SWIPE Reliance Fresh INDIA,grocery
+SWIPE Reliance Fresh HYD,grocery
+Reliance Fresh,grocery
+IMPS Reliance Fresh DEL,grocery
+IMPS Reliance Fresh,grocery
+UPI Reliance Fresh DEL,grocery
+SQ *Reliance Fresh,grocery
+Reliance Fresh 123,grocery
+TRX Reliance Fresh 001,grocery
+SWIPE Reliance Fresh HYD,grocery
+TRX Reliance Fresh 123,grocery
+PAY Reliance Fresh 123,grocery
+SQ *Reliance Fresh,grocery
+PAY Reliance Fresh,grocery
+PAY Reliance Fresh,grocery
+IMPS Reliance Fresh 001,grocery
+SQ *Reliance Fresh,grocery
+TRX Reliance Fresh INDIA,grocery
+Reliance Fresh DEL,grocery
+SWIPE Reliance Fresh 001,grocery
+Reliance Fresh,grocery
+UPI Reliance Fresh DEL,grocery
+SQ *Reliance Fresh INDIA,grocery
+IMPS Reliance Fresh 001,grocery
+SWIPE Reliance Fresh,grocery
+PAY Reliance Fresh,grocery
+Reliance Fresh 001,grocery
+SQ *Reliance Fresh,grocery
+TRX Reliance Fresh 001,grocery
+IMPS Reliance Fresh,grocery
+IMPS Reliance Fresh BLR,grocery
+Reliance Fresh INDIA,grocery
+UPI Reliance Fresh BLR,grocery
+SQ *Reliance Fresh,grocery
+SQ *Reliance Fresh,grocery
+PAY Reliance Fresh 123,grocery
+TRX Spencers 001,grocery
+PAY Spencers INDIA,grocery
+PAY Spencers BLR,grocery
+UPI Spencers,grocery
+PAY Spencers HYD,grocery
+SWIPE Spencers,grocery
+SQ *Spencers 123,grocery
+IMPS Spencers 001,grocery
+PAY Spencers 001,grocery
+SWIPE Spencers 123,grocery
+UPI Spencers,grocery
+TRX Spencers,grocery
+SWIPE Spencers BLR,grocery
+UPI Spencers DEL,grocery
+UPI Spencers,grocery
+Spencers,grocery
+IMPS Spencers,grocery
+SQ *Spencers INDIA,grocery
+IMPS Spencers INDIA,grocery
+UPI Spencers BLR,grocery
+Spencers INDIA,grocery
+PAY Spencers,grocery
+IMPS Spencers,grocery
+UPI Spencers BLR,grocery
+IMPS Spencers INDIA,grocery
+UPI Spencers 123,grocery
+UPI Spencers,grocery
+SQ *Spencers HYD,grocery
+UPI Spencers HYD,grocery
+SWIPE Spencers,grocery
+UPI Spencers,grocery
+SQ *Spencers INDIA,grocery
+SWIPE Spencers INDIA,grocery
+UPI Spencers DEL,grocery
+SQ *Spencers,grocery
+IMPS Spencers,grocery
+PAY Spencers HYD,grocery
+PAY Spencers HYD,grocery
+PAY Spencers HYD,grocery
+SQ *Spencers,grocery
+UPI Spencers,grocery
+IMPS Spencers HYD,grocery
+PAY Spencers DEL,grocery
+SQ *Spencers INDIA,grocery
+TRX Spencers,grocery
+IMPS Spencers INDIA,grocery
+UPI Spencers BLR,grocery
+SWIPE Spencers DEL,grocery
+IMPS Spencers,grocery
+SWIPE Spencers HYD,grocery
+PAY HPCL,fuel
+PAY HPCL INDIA,fuel
+SQ *HPCL 123,fuel
+HPCL 123,fuel
+SQ *HPCL,fuel
+SWIPE HPCL BLR,fuel
+UPI HPCL DEL,fuel
+TRX HPCL 001,fuel
+UPI HPCL 123,fuel
+IMPS HPCL DEL,fuel
+IMPS HPCL BLR,fuel
+SQ *HPCL INDIA,fuel
+TRX HPCL INDIA,fuel
+TRX HPCL,fuel
+HPCL HYD,fuel
+SWIPE HPCL 123,fuel
+IMPS HPCL 123,fuel
+HPCL,fuel
+HPCL 001,fuel
+HPCL,fuel
+SQ *HPCL BLR,fuel
+HPCL INDIA,fuel
+HPCL DEL,fuel
+SWIPE HPCL,fuel
+TRX HPCL 123,fuel
+HPCL INDIA,fuel
+IMPS HPCL HYD,fuel
+HPCL BLR,fuel
+UPI HPCL 001,fuel
+SWIPE HPCL 123,fuel
+UPI HPCL,fuel
+UPI HPCL 001,fuel
+SQ *HPCL BLR,fuel
+UPI HPCL,fuel
+UPI HPCL 123,fuel
+TRX HPCL DEL,fuel
+PAY HPCL,fuel
+IMPS HPCL,fuel
+SQ *HPCL INDIA,fuel
+SWIPE HPCL,fuel
+SWIPE HPCL DEL,fuel
+SQ *HPCL,fuel
+HPCL HYD,fuel
+PAY HPCL 123,fuel
+PAY HPCL 123,fuel
+IMPS HPCL DEL,fuel
+SWIPE HPCL,fuel
+TRX HPCL 123,fuel
+SWIPE HPCL,fuel
+IMPS HPCL DEL,fuel
+IMPS BPCL HYD,fuel
+BPCL 123,fuel
+PAY BPCL BLR,fuel
+UPI BPCL HYD,fuel
+PAY BPCL,fuel
+SQ *BPCL HYD,fuel
+IMPS BPCL DEL,fuel
+BPCL 123,fuel
+TRX BPCL 123,fuel
+UPI BPCL 001,fuel
+PAY BPCL 123,fuel
+TRX BPCL BLR,fuel
+SQ *BPCL,fuel
+PAY BPCL BLR,fuel
+IMPS BPCL DEL,fuel
+UPI BPCL 123,fuel
+UPI BPCL,fuel
+IMPS BPCL HYD,fuel
+IMPS BPCL 001,fuel
+SWIPE BPCL INDIA,fuel
+BPCL,fuel
+SQ *BPCL,fuel
+PAY BPCL 001,fuel
+TRX BPCL BLR,fuel
+BPCL,fuel
+BPCL 123,fuel
+TRX BPCL 123,fuel
+UPI BPCL 123,fuel
+IMPS BPCL 001,fuel
+SQ *BPCL,fuel
+SWIPE BPCL,fuel
+UPI BPCL,fuel
+BPCL,fuel
+PAY BPCL INDIA,fuel
+TRX BPCL HYD,fuel
+SQ *BPCL 123,fuel
+SWIPE BPCL BLR,fuel
+IMPS BPCL,fuel
+UPI BPCL 001,fuel
+BPCL HYD,fuel
+TRX BPCL,fuel
+PAY BPCL HYD,fuel
+UPI BPCL,fuel
+PAY BPCL HYD,fuel
+UPI BPCL HYD,fuel
+SQ *BPCL DEL,fuel
+SQ *BPCL DEL,fuel
+UPI BPCL 123,fuel
+UPI BPCL HYD,fuel
+SQ *BPCL 001,fuel
+UPI Shell,fuel
+SQ *Shell INDIA,fuel
+PAY Shell 123,fuel
+SWIPE Shell 123,fuel
+TRX Shell 123,fuel
+SWIPE Shell DEL,fuel
+TRX Shell HYD,fuel
+SQ *Shell,fuel
+SQ *Shell 001,fuel
+SWIPE Shell DEL,fuel
+SQ *Shell 123,fuel
+SWIPE Shell BLR,fuel
+TRX Shell 123,fuel
+SWIPE Shell 001,fuel
+SQ *Shell,fuel
+IMPS Shell BLR,fuel
+PAY Shell,fuel
+TRX Shell 001,fuel
+Shell,fuel
+SWIPE Shell HYD,fuel
+IMPS Shell,fuel
+IMPS Shell INDIA,fuel
+SWIPE Shell,fuel
+SWIPE Shell BLR,fuel
+UPI Shell DEL,fuel
+IMPS Shell INDIA,fuel
+UPI Shell DEL,fuel
+SQ *Shell HYD,fuel
+TRX Shell DEL,fuel
+SWIPE Shell 001,fuel
+SQ *Shell INDIA,fuel
+PAY Shell DEL,fuel
+PAY Shell,fuel
+TRX Shell 001,fuel
+SQ *Shell HYD,fuel
+IMPS Shell HYD,fuel
+PAY Shell 001,fuel
+Shell,fuel
+PAY Shell,fuel
+IMPS Shell,fuel
+Shell,fuel
+TRX Shell DEL,fuel
+Shell BLR,fuel
+SWIPE Shell,fuel
+TRX Shell,fuel
+TRX Shell,fuel
+SQ *Shell,fuel
+TRX Shell BLR,fuel
+IMPS Shell BLR,fuel
+TRX Shell INDIA,fuel
+TRX IndianOil,fuel
+UPI IndianOil 001,fuel
+SQ *IndianOil HYD,fuel
+IMPS IndianOil 123,fuel
+UPI IndianOil,fuel
+SWIPE IndianOil 001,fuel
+IndianOil 123,fuel
+UPI IndianOil HYD,fuel
+TRX IndianOil BLR,fuel
+SQ *IndianOil,fuel
+SWIPE IndianOil DEL,fuel
+SQ *IndianOil 001,fuel
+PAY IndianOil,fuel
+IMPS IndianOil 123,fuel
+IMPS IndianOil INDIA,fuel
+SWIPE IndianOil 123,fuel
+UPI IndianOil BLR,fuel
+PAY IndianOil,fuel
+TRX IndianOil HYD,fuel
+PAY IndianOil 001,fuel
+TRX IndianOil,fuel
+SQ *IndianOil DEL,fuel
+IMPS IndianOil 123,fuel
+PAY IndianOil,fuel
+TRX IndianOil 001,fuel
+TRX IndianOil 001,fuel
+UPI IndianOil,fuel
+TRX IndianOil,fuel
+TRX IndianOil INDIA,fuel
+TRX IndianOil,fuel
+IndianOil DEL,fuel
+PAY IndianOil,fuel
+UPI IndianOil INDIA,fuel
+SWIPE IndianOil BLR,fuel
+UPI IndianOil BLR,fuel
+UPI IndianOil DEL,fuel
+UPI IndianOil 001,fuel
+IMPS IndianOil 123,fuel
+TRX IndianOil 001,fuel
+SWIPE IndianOil DEL,fuel
+IMPS IndianOil,fuel
+SWIPE IndianOil,fuel
+UPI IndianOil HYD,fuel
+SQ *IndianOil HYD,fuel
+IndianOil DEL,fuel
+IndianOil HYD,fuel
+IndianOil DEL,fuel
+UPI IndianOil,fuel
+TRX IndianOil,fuel
+IndianOil DEL,fuel
+SWIPE Nayara BLR,fuel
+IMPS Nayara INDIA,fuel
+IMPS Nayara 001,fuel
+SQ *Nayara BLR,fuel
+UPI Nayara,fuel
+PAY Nayara,fuel
+Nayara HYD,fuel
+TRX Nayara HYD,fuel
+PAY Nayara HYD,fuel
+PAY Nayara,fuel
+SQ *Nayara 001,fuel
+Nayara INDIA,fuel
+SWIPE Nayara 001,fuel
+PAY Nayara 001,fuel
+SWIPE Nayara 001,fuel
+IMPS Nayara DEL,fuel
+PAY Nayara,fuel
+UPI Nayara BLR,fuel
+SWIPE Nayara HYD,fuel
+PAY Nayara 123,fuel
+SWIPE Nayara,fuel
+PAY Nayara,fuel
+IMPS Nayara 123,fuel
+PAY Nayara INDIA,fuel
+IMPS Nayara DEL,fuel
+TRX Nayara,fuel
+Nayara,fuel
+IMPS Nayara HYD,fuel
+SQ *Nayara DEL,fuel
+TRX Nayara 123,fuel
+SWIPE Nayara 123,fuel
+Nayara,fuel
+TRX Nayara INDIA,fuel
+UPI Nayara INDIA,fuel
+UPI Nayara,fuel
+IMPS Nayara,fuel
+UPI Nayara,fuel
+SQ *Nayara 123,fuel
+SQ *Nayara DEL,fuel
+IMPS Nayara DEL,fuel
+Nayara INDIA,fuel
+SQ *Nayara,fuel
+TRX Nayara DEL,fuel
+TRX Nayara DEL,fuel
+UPI Nayara 123,fuel
+SWIPE Nayara,fuel
+IMPS Nayara,fuel
+Nayara 001,fuel
+TRX Nayara 123,fuel
+SQ *Nayara,fuel
+PAY Indigo,airline
+Indigo DEL,airline
+SWIPE Indigo,airline
+SQ *Indigo DEL,airline
+SQ *Indigo,airline
+UPI Indigo 123,airline
+PAY Indigo 123,airline
+SQ *Indigo HYD,airline
+PAY Indigo DEL,airline
+UPI Indigo DEL,airline
+Indigo 001,airline
+SQ *Indigo BLR,airline
+PAY Indigo,airline
+IMPS Indigo BLR,airline
+SWIPE Indigo INDIA,airline
+SQ *Indigo,airline
+IMPS Indigo,airline
+PAY Indigo 001,airline
+IMPS Indigo HYD,airline
+UPI Indigo 001,airline
+IMPS Indigo INDIA,airline
+PAY Indigo,airline
+IMPS Indigo,airline
+SWIPE Indigo 123,airline
+SQ *Indigo BLR,airline
+SQ *Indigo 001,airline
+UPI Indigo,airline
+SQ *Indigo,airline
+TRX Indigo 123,airline
+Indigo,airline
+Indigo,airline
+SWIPE Indigo,airline
+TRX Indigo 001,airline
+IMPS Indigo INDIA,airline
+SWIPE Indigo HYD,airline
+SQ *Indigo,airline
+SQ *Indigo,airline
+UPI Indigo HYD,airline
+Indigo INDIA,airline
+UPI Indigo,airline
+IMPS Indigo,airline
+Indigo INDIA,airline
+Indigo DEL,airline
+SQ *Indigo HYD,airline
+IMPS Indigo,airline
+PAY Indigo,airline
+SQ *Indigo INDIA,airline
+UPI Indigo 001,airline
+IMPS Indigo INDIA,airline
+SQ *Indigo HYD,airline
+PAY Air India,airline
+Air India BLR,airline
+PAY Air India BLR,airline
+IMPS Air India 001,airline
+IMPS Air India,airline
+Air India DEL,airline
+SQ *Air India INDIA,airline
+PAY Air India INDIA,airline
+TRX Air India 123,airline
+SQ *Air India 001,airline
+Air India INDIA,airline
+IMPS Air India HYD,airline
+Air India,airline
+SWIPE Air India BLR,airline
+IMPS Air India BLR,airline
+UPI Air India,airline
+Air India,airline
+SQ *Air India DEL,airline
+SQ *Air India DEL,airline
+IMPS Air India 123,airline
+PAY Air India,airline
+SWIPE Air India,airline
+IMPS Air India HYD,airline
+PAY Air India DEL,airline
+TRX Air India HYD,airline
+IMPS Air India,airline
+Air India 123,airline
+IMPS Air India 001,airline
+Air India,airline
+SWIPE Air India DEL,airline
+UPI Air India,airline
+SWIPE Air India,airline
+SQ *Air India,airline
+UPI Air India,airline
+TRX Air India INDIA,airline
+SWIPE Air India DEL,airline
+SQ *Air India,airline
+Air India 001,airline
+Air India,airline
+TRX Air India 123,airline
+SWIPE Air India,airline
+SWIPE Air India,airline
+SQ *Air India 001,airline
+TRX Air India,airline
+UPI Air India,airline
+IMPS Air India DEL,airline
+SWIPE Air India HYD,airline
+SQ *Air India DEL,airline
+SWIPE Air India,airline
+SWIPE Air India HYD,airline
+Vistara INDIA,airline
+IMPS Vistara DEL,airline
+TRX Vistara HYD,airline
+Vistara 123,airline
+Vistara BLR,airline
+TRX Vistara DEL,airline
+SWIPE Vistara BLR,airline
+IMPS Vistara BLR,airline
+Vistara,airline
+TRX Vistara 123,airline
+PAY Vistara,airline
+TRX Vistara DEL,airline
+IMPS Vistara HYD,airline
+PAY Vistara,airline
+SQ *Vistara DEL,airline
+PAY Vistara,airline
+UPI Vistara BLR,airline
+SQ *Vistara,airline
+TRX Vistara 001,airline
+TRX Vistara INDIA,airline
+Vistara 123,airline
+SQ *Vistara,airline
+Vistara HYD,airline
+SWIPE Vistara HYD,airline
+TRX Vistara,airline
+IMPS Vistara 001,airline
+SQ *Vistara INDIA,airline
+UPI Vistara 001,airline
+UPI Vistara,airline
+Vistara DEL,airline
+SQ *Vistara,airline
+SQ *Vistara DEL,airline
+TRX Vistara DEL,airline
+TRX Vistara DEL,airline
+SQ *Vistara DEL,airline
+UPI Vistara HYD,airline
+TRX Vistara HYD,airline
+SQ *Vistara,airline
+SQ *Vistara DEL,airline
+Vistara 123,airline
+TRX Vistara HYD,airline
+Vistara,airline
+UPI Vistara DEL,airline
+Vistara INDIA,airline
+Vistara 123,airline
+SWIPE Vistara INDIA,airline
+SQ *Vistara 123,airline
+IMPS Vistara,airline
+UPI Vistara BLR,airline
+IMPS Vistara DEL,airline
+PAY SpiceJet 123,airline
+TRX SpiceJet,airline
+TRX SpiceJet,airline
+PAY SpiceJet,airline
+PAY SpiceJet INDIA,airline
+SpiceJet,airline
+UPI SpiceJet DEL,airline
+SWIPE SpiceJet BLR,airline
+SWIPE SpiceJet 001,airline
+PAY SpiceJet,airline
+SQ *SpiceJet HYD,airline
+UPI SpiceJet BLR,airline
+IMPS SpiceJet BLR,airline
+PAY SpiceJet,airline
+SQ *SpiceJet,airline
+PAY SpiceJet,airline
+PAY SpiceJet,airline
+PAY SpiceJet 001,airline
+TRX SpiceJet 123,airline
+SWIPE SpiceJet DEL,airline
+UPI SpiceJet,airline
+TRX SpiceJet HYD,airline
+UPI SpiceJet 001,airline
+PAY SpiceJet,airline
+TRX SpiceJet BLR,airline
+PAY SpiceJet INDIA,airline
+SQ *SpiceJet BLR,airline
+SpiceJet HYD,airline
+SWIPE SpiceJet,airline
+PAY SpiceJet 001,airline
+SpiceJet 001,airline
+SWIPE SpiceJet,airline
+UPI SpiceJet HYD,airline
+UPI SpiceJet 123,airline
+SWIPE SpiceJet INDIA,airline
+SWIPE SpiceJet 123,airline
+IMPS SpiceJet 123,airline
+TRX SpiceJet,airline
+SQ *SpiceJet,airline
+SQ *SpiceJet INDIA,airline
+IMPS SpiceJet 001,airline
+TRX SpiceJet,airline
+IMPS SpiceJet DEL,airline
+IMPS SpiceJet 001,airline
+SpiceJet INDIA,airline
+SpiceJet,airline
+SQ *SpiceJet HYD,airline
+PAY SpiceJet,airline
+UPI SpiceJet HYD,airline
+SpiceJet 001,airline
+GoFirst INDIA,airline
+SWIPE GoFirst HYD,airline
+SQ *GoFirst 001,airline
+UPI GoFirst BLR,airline
+SQ *GoFirst,airline
+UPI GoFirst,airline
+IMPS GoFirst INDIA,airline
+IMPS GoFirst,airline
+UPI GoFirst,airline
+SQ *GoFirst,airline
+IMPS GoFirst 123,airline
+SWIPE GoFirst BLR,airline
+PAY GoFirst,airline
+PAY GoFirst,airline
+PAY GoFirst,airline
+SWIPE GoFirst 123,airline
+TRX GoFirst,airline
+UPI GoFirst BLR,airline
+SQ *GoFirst 001,airline
+TRX GoFirst,airline
+UPI GoFirst,airline
+SQ *GoFirst,airline
+SWIPE GoFirst HYD,airline
+IMPS GoFirst DEL,airline
+SQ *GoFirst,airline
+SWIPE GoFirst INDIA,airline
+TRX GoFirst BLR,airline
+GoFirst DEL,airline
+UPI GoFirst 001,airline
+PAY GoFirst BLR,airline
+GoFirst BLR,airline
+PAY GoFirst 123,airline
+SQ *GoFirst 123,airline
+SQ *GoFirst,airline
+SWIPE GoFirst,airline
+UPI GoFirst,airline
+SQ *GoFirst BLR,airline
+IMPS GoFirst HYD,airline
+TRX GoFirst INDIA,airline
+PAY GoFirst HYD,airline
+TRX GoFirst DEL,airline
+GoFirst HYD,airline
+SWIPE GoFirst DEL,airline
+PAY GoFirst INDIA,airline
+UPI GoFirst BLR,airline
+TRX GoFirst 123,airline
+IMPS GoFirst INDIA,airline
+IMPS GoFirst INDIA,airline
+PAY GoFirst INDIA,airline
+SWIPE GoFirst,airline
+UPI Amazon DEL,ecommerce
+IMPS Amazon,ecommerce
+IMPS Amazon 001,ecommerce
+SQ *Amazon,ecommerce
+SQ *Amazon 001,ecommerce
+TRX Amazon 001,ecommerce
+PAY Amazon HYD,ecommerce
+SWIPE Amazon,ecommerce
+TRX Amazon 123,ecommerce
+PAY Amazon HYD,ecommerce
+SWIPE Amazon HYD,ecommerce
+SQ *Amazon BLR,ecommerce
+SWIPE Amazon,ecommerce
+IMPS Amazon HYD,ecommerce
+TRX Amazon BLR,ecommerce
+PAY Amazon DEL,ecommerce
+TRX Amazon 001,ecommerce
+UPI Amazon,ecommerce
+Amazon INDIA,ecommerce
+Amazon BLR,ecommerce
+IMPS Amazon,ecommerce
+UPI Amazon INDIA,ecommerce
+UPI Amazon BLR,ecommerce
+SQ *Amazon,ecommerce
+SQ *Amazon 001,ecommerce
+SWIPE Amazon,ecommerce
+UPI Amazon,ecommerce
+SWIPE Amazon INDIA,ecommerce
+Amazon,ecommerce
+TRX Amazon,ecommerce
+Amazon 123,ecommerce
+PAY Amazon BLR,ecommerce
+SWIPE Amazon DEL,ecommerce
+Amazon DEL,ecommerce
+SWIPE Amazon 123,ecommerce
+TRX Amazon 001,ecommerce
+Amazon,ecommerce
+SWIPE Amazon,ecommerce
+SQ *Amazon HYD,ecommerce
+UPI Amazon BLR,ecommerce
+TRX Amazon,ecommerce
+SQ *Amazon BLR,ecommerce
+Amazon,ecommerce
+UPI Amazon 001,ecommerce
+UPI Amazon BLR,ecommerce
+Amazon INDIA,ecommerce
+TRX Amazon BLR,ecommerce
+UPI Amazon 001,ecommerce
+SQ *Amazon 123,ecommerce
+IMPS Amazon INDIA,ecommerce
+SWIPE Flipkart,ecommerce
+TRX Flipkart,ecommerce
+TRX Flipkart,ecommerce
+SWIPE Flipkart,ecommerce
+TRX Flipkart,ecommerce
+PAY Flipkart,ecommerce
+SQ *Flipkart DEL,ecommerce
+IMPS Flipkart DEL,ecommerce
+UPI Flipkart BLR,ecommerce
+PAY Flipkart 123,ecommerce
+Flipkart,ecommerce
+SQ *Flipkart 123,ecommerce
+SQ *Flipkart,ecommerce
+UPI Flipkart DEL,ecommerce
+Flipkart HYD,ecommerce
+SWIPE Flipkart,ecommerce
+IMPS Flipkart,ecommerce
+TRX Flipkart 123,ecommerce
+UPI Flipkart HYD,ecommerce
+IMPS Flipkart INDIA,ecommerce
+Flipkart,ecommerce
+Flipkart INDIA,ecommerce
+SWIPE Flipkart,ecommerce
+SQ *Flipkart BLR,ecommerce
+IMPS Flipkart BLR,ecommerce
+PAY Flipkart INDIA,ecommerce
+PAY Flipkart DEL,ecommerce
+PAY Flipkart,ecommerce
+SWIPE Flipkart,ecommerce
+SQ *Flipkart,ecommerce
+IMPS Flipkart 001,ecommerce
+Flipkart,ecommerce
+SQ *Flipkart DEL,ecommerce
+TRX Flipkart 001,ecommerce
+Flipkart HYD,ecommerce
+SWIPE Flipkart 123,ecommerce
+Flipkart DEL,ecommerce
+Flipkart,ecommerce
+UPI Flipkart INDIA,ecommerce
+SQ *Flipkart HYD,ecommerce
+IMPS Flipkart INDIA,ecommerce
+TRX Flipkart 001,ecommerce
+PAY Flipkart,ecommerce
+SQ *Flipkart BLR,ecommerce
+TRX Flipkart HYD,ecommerce
+TRX Flipkart 123,ecommerce
+UPI Flipkart BLR,ecommerce
+Flipkart INDIA,ecommerce
+UPI Flipkart,ecommerce
+SWIPE Flipkart DEL,ecommerce
+SQ *Myntra,ecommerce
+IMPS Myntra DEL,ecommerce
+PAY Myntra,ecommerce
+PAY Myntra,ecommerce
+UPI Myntra HYD,ecommerce
+SWIPE Myntra DEL,ecommerce
+TRX Myntra INDIA,ecommerce
+PAY Myntra BLR,ecommerce
+UPI Myntra INDIA,ecommerce
+IMPS Myntra DEL,ecommerce
+UPI Myntra BLR,ecommerce
+TRX Myntra,ecommerce
+IMPS Myntra,ecommerce
+SQ *Myntra 123,ecommerce
+SWIPE Myntra BLR,ecommerce
+PAY Myntra DEL,ecommerce
+Myntra,ecommerce
+PAY Myntra INDIA,ecommerce
+PAY Myntra,ecommerce
+Myntra,ecommerce
+UPI Myntra HYD,ecommerce
+UPI Myntra BLR,ecommerce
+SQ *Myntra DEL,ecommerce
+UPI Myntra 001,ecommerce
+IMPS Myntra BLR,ecommerce
+Myntra BLR,ecommerce
+TRX Myntra 001,ecommerce
+SWIPE Myntra DEL,ecommerce
+UPI Myntra,ecommerce
+SWIPE Myntra 001,ecommerce
+SWIPE Myntra HYD,ecommerce
+UPI Myntra HYD,ecommerce
+UPI Myntra INDIA,ecommerce
+IMPS Myntra 001,ecommerce
+PAY Myntra,ecommerce
+SQ *Myntra BLR,ecommerce
+IMPS Myntra 123,ecommerce
+SWIPE Myntra DEL,ecommerce
+TRX Myntra,ecommerce
+Myntra DEL,ecommerce
+TRX Myntra,ecommerce
+PAY Myntra 001,ecommerce
+TRX Myntra DEL,ecommerce
+PAY Myntra BLR,ecommerce
+PAY Myntra,ecommerce
+UPI Myntra,ecommerce
+PAY Myntra,ecommerce
+PAY Myntra HYD,ecommerce
+TRX Myntra BLR,ecommerce
+SQ *Myntra BLR,ecommerce
+UPI Ajio 001,ecommerce
+TRX Ajio,ecommerce
+UPI Ajio DEL,ecommerce
+PAY Ajio,ecommerce
+Ajio 001,ecommerce
+PAY Ajio,ecommerce
+Ajio DEL,ecommerce
+IMPS Ajio 123,ecommerce
+TRX Ajio 123,ecommerce
+Ajio,ecommerce
+SWIPE Ajio 123,ecommerce
+UPI Ajio 123,ecommerce
+Ajio 001,ecommerce
+SQ *Ajio BLR,ecommerce
+TRX Ajio INDIA,ecommerce
+TRX Ajio BLR,ecommerce
+Ajio,ecommerce
+UPI Ajio,ecommerce
+Ajio HYD,ecommerce
+IMPS Ajio,ecommerce
+TRX Ajio DEL,ecommerce
+IMPS Ajio INDIA,ecommerce
+SQ *Ajio 001,ecommerce
+TRX Ajio,ecommerce
+SQ *Ajio,ecommerce
+SWIPE Ajio HYD,ecommerce
+PAY Ajio BLR,ecommerce
+PAY Ajio,ecommerce
+Ajio,ecommerce
+SQ *Ajio 001,ecommerce
+UPI Ajio 123,ecommerce
+Ajio,ecommerce
+TRX Ajio DEL,ecommerce
+SWIPE Ajio,ecommerce
+IMPS Ajio BLR,ecommerce
+PAY Ajio INDIA,ecommerce
+UPI Ajio BLR,ecommerce
+SWIPE Ajio 001,ecommerce
+Ajio HYD,ecommerce
+SWIPE Ajio DEL,ecommerce
+TRX Ajio HYD,ecommerce
+UPI Ajio,ecommerce
+PAY Ajio BLR,ecommerce
+UPI Ajio HYD,ecommerce
+IMPS Ajio INDIA,ecommerce
+IMPS Ajio INDIA,ecommerce
+Ajio BLR,ecommerce
+SQ *Ajio,ecommerce
+UPI Ajio INDIA,ecommerce
+TRX Ajio INDIA,ecommerce
+Snapdeal DEL,ecommerce
+SQ *Snapdeal,ecommerce
+IMPS Snapdeal,ecommerce
+PAY Snapdeal,ecommerce
+PAY Snapdeal HYD,ecommerce
+IMPS Snapdeal 001,ecommerce
+TRX Snapdeal DEL,ecommerce
+SWIPE Snapdeal BLR,ecommerce
+UPI Snapdeal,ecommerce
+Snapdeal 001,ecommerce
+SWIPE Snapdeal DEL,ecommerce
+Snapdeal INDIA,ecommerce
+UPI Snapdeal HYD,ecommerce
+UPI Snapdeal 123,ecommerce
+Snapdeal INDIA,ecommerce
+PAY Snapdeal,ecommerce
+SQ *Snapdeal BLR,ecommerce
+TRX Snapdeal 001,ecommerce
+SQ *Snapdeal,ecommerce
+UPI Snapdeal,ecommerce
+SQ *Snapdeal,ecommerce
+Snapdeal BLR,ecommerce
+PAY Snapdeal INDIA,ecommerce
+Snapdeal 123,ecommerce
+TRX Snapdeal,ecommerce
+SWIPE Snapdeal DEL,ecommerce
+UPI Snapdeal 123,ecommerce
+Snapdeal DEL,ecommerce
+SWIPE Snapdeal INDIA,ecommerce
+IMPS Snapdeal HYD,ecommerce
+UPI Snapdeal INDIA,ecommerce
+UPI Snapdeal,ecommerce
+SQ *Snapdeal 001,ecommerce
+TRX Snapdeal,ecommerce
+IMPS Snapdeal,ecommerce
+IMPS Snapdeal DEL,ecommerce
+SWIPE Snapdeal,ecommerce
+IMPS Snapdeal,ecommerce
+TRX Snapdeal DEL,ecommerce
+UPI Snapdeal 001,ecommerce
+Snapdeal DEL,ecommerce
+SWIPE Snapdeal,ecommerce
+TRX Snapdeal 123,ecommerce
+PAY Snapdeal,ecommerce
+TRX Snapdeal 001,ecommerce
+PAY Snapdeal,ecommerce
+Snapdeal INDIA,ecommerce
+PAY Snapdeal 123,ecommerce
+TRX Snapdeal DEL,ecommerce
+SQ *Snapdeal 123,ecommerce
+UPI KFC INDIA,restaurant
+SWIPE KFC HYD,restaurant
+TRX KFC DEL,restaurant
+UPI KFC,restaurant
+SWIPE KFC,restaurant
+KFC DEL,restaurant
+SWIPE KFC,restaurant
+TRX KFC BLR,restaurant
+UPI KFC HYD,restaurant
+PAY KFC 001,restaurant
+TRX KFC,restaurant
+SWIPE KFC DEL,restaurant
+PAY KFC,restaurant
+SQ *KFC,restaurant
+IMPS KFC,restaurant
+SWIPE KFC DEL,restaurant
+IMPS KFC BLR,restaurant
+UPI KFC BLR,restaurant
+KFC,restaurant
+KFC INDIA,restaurant
+UPI KFC,restaurant
+KFC 123,restaurant
+KFC BLR,restaurant
+SWIPE KFC 001,restaurant
+TRX KFC 123,restaurant
+SWIPE KFC,restaurant
+PAY KFC,restaurant
+PAY KFC 123,restaurant
+SWIPE KFC 123,restaurant
+UPI KFC,restaurant
+SQ *KFC,restaurant
+SWIPE KFC,restaurant
+TRX KFC,restaurant
+SQ *KFC,restaurant
+SWIPE KFC INDIA,restaurant
+SQ *KFC INDIA,restaurant
+IMPS KFC,restaurant
+KFC BLR,restaurant
+IMPS KFC INDIA,restaurant
+IMPS KFC BLR,restaurant
+IMPS KFC,restaurant
+KFC 123,restaurant
+PAY KFC 001,restaurant
+IMPS KFC,restaurant
+IMPS KFC DEL,restaurant
+SQ *KFC,restaurant
+TRX KFC,restaurant
+TRX KFC,restaurant
+IMPS KFC INDIA,restaurant
+SQ *KFC 001,restaurant
+SQ *McDonalds 123,restaurant
+IMPS McDonalds,restaurant
+McDonalds BLR,restaurant
+IMPS McDonalds,restaurant
+SWIPE McDonalds,restaurant
+SWIPE McDonalds,restaurant
+TRX McDonalds INDIA,restaurant
+PAY McDonalds BLR,restaurant
+McDonalds,restaurant
+SQ *McDonalds,restaurant
+SWIPE McDonalds 001,restaurant
+UPI McDonalds 001,restaurant
+UPI McDonalds 123,restaurant
+IMPS McDonalds,restaurant
+SQ *McDonalds BLR,restaurant
+McDonalds BLR,restaurant
+McDonalds INDIA,restaurant
+SQ *McDonalds,restaurant
+McDonalds,restaurant
+UPI McDonalds 001,restaurant
+IMPS McDonalds,restaurant
+SWIPE McDonalds BLR,restaurant
+TRX McDonalds 001,restaurant
+TRX McDonalds BLR,restaurant
+McDonalds,restaurant
+McDonalds BLR,restaurant
+SWIPE McDonalds BLR,restaurant
+UPI McDonalds 001,restaurant
+SWIPE McDonalds HYD,restaurant
+IMPS McDonalds,restaurant
+IMPS McDonalds 123,restaurant
+PAY McDonalds 001,restaurant
+IMPS McDonalds BLR,restaurant
+TRX McDonalds,restaurant
+SQ *McDonalds INDIA,restaurant
+SQ *McDonalds BLR,restaurant
+IMPS McDonalds DEL,restaurant
+UPI McDonalds 123,restaurant
+UPI McDonalds,restaurant
+PAY McDonalds DEL,restaurant
+PAY McDonalds HYD,restaurant
+UPI McDonalds 001,restaurant
+McDonalds HYD,restaurant
+UPI McDonalds,restaurant
+McDonalds,restaurant
+TRX McDonalds,restaurant
+McDonalds,restaurant
+TRX McDonalds,restaurant
+TRX McDonalds DEL,restaurant
+SWIPE McDonalds,restaurant
+Dominos,restaurant
+TRX Dominos,restaurant
+PAY Dominos 123,restaurant
+PAY Dominos INDIA,restaurant
+Dominos 001,restaurant
+Dominos DEL,restaurant
+IMPS Dominos HYD,restaurant
+TRX Dominos BLR,restaurant
+PAY Dominos 123,restaurant
+PAY Dominos,restaurant
+UPI Dominos HYD,restaurant
+TRX Dominos BLR,restaurant
+UPI Dominos,restaurant
+Dominos BLR,restaurant
+Dominos INDIA,restaurant
+SWIPE Dominos,restaurant
+Dominos DEL,restaurant
+TRX Dominos,restaurant
+IMPS Dominos,restaurant
+SQ *Dominos 001,restaurant
+UPI Dominos BLR,restaurant
+IMPS Dominos,restaurant
+UPI Dominos HYD,restaurant
+Dominos,restaurant
+PAY Dominos INDIA,restaurant
+UPI Dominos,restaurant
+UPI Dominos,restaurant
+Dominos BLR,restaurant
+Dominos HYD,restaurant
+Dominos 123,restaurant
+UPI Dominos 001,restaurant
+SQ *Dominos 123,restaurant
+Dominos HYD,restaurant
+UPI Dominos,restaurant
+IMPS Dominos,restaurant
+PAY Dominos,restaurant
+UPI Dominos DEL,restaurant
+UPI Dominos BLR,restaurant
+SWIPE Dominos 123,restaurant
+Dominos DEL,restaurant
+Dominos 123,restaurant
+SWIPE Dominos 001,restaurant
+Dominos,restaurant
+Dominos,restaurant
+PAY Dominos BLR,restaurant
+SWIPE Dominos HYD,restaurant
+TRX Dominos 123,restaurant
+IMPS Dominos,restaurant
+SWIPE Dominos,restaurant
+SQ *Dominos BLR,restaurant
+SWIPE PizzaHut INDIA,restaurant
+SWIPE PizzaHut 123,restaurant
+PizzaHut 123,restaurant
+SQ *PizzaHut 001,restaurant
+PizzaHut BLR,restaurant
+PizzaHut HYD,restaurant
+PizzaHut BLR,restaurant
+SWIPE PizzaHut INDIA,restaurant
+TRX PizzaHut BLR,restaurant
+UPI PizzaHut,restaurant
+IMPS PizzaHut,restaurant
+SWIPE PizzaHut,restaurant
+SWIPE PizzaHut HYD,restaurant
+PAY PizzaHut,restaurant
+PizzaHut,restaurant
+UPI PizzaHut 001,restaurant
+PizzaHut 001,restaurant
+PizzaHut 123,restaurant
+IMPS PizzaHut,restaurant
+SQ *PizzaHut BLR,restaurant
+TRX PizzaHut DEL,restaurant
+IMPS PizzaHut DEL,restaurant
+PizzaHut INDIA,restaurant
+PizzaHut BLR,restaurant
+PAY PizzaHut BLR,restaurant
+PAY PizzaHut HYD,restaurant
+SQ *PizzaHut INDIA,restaurant
+SQ *PizzaHut,restaurant
+IMPS PizzaHut DEL,restaurant
+UPI PizzaHut DEL,restaurant
+IMPS PizzaHut 001,restaurant
+SWIPE PizzaHut,restaurant
+IMPS PizzaHut,restaurant
+IMPS PizzaHut,restaurant
+IMPS PizzaHut 123,restaurant
+PizzaHut 123,restaurant
+TRX PizzaHut DEL,restaurant
+IMPS PizzaHut BLR,restaurant
+PAY PizzaHut,restaurant
+SWIPE PizzaHut,restaurant
+SWIPE PizzaHut 123,restaurant
+SQ *PizzaHut,restaurant
+PAY PizzaHut 123,restaurant
+IMPS PizzaHut,restaurant
+SQ *PizzaHut INDIA,restaurant
+PizzaHut DEL,restaurant
+SQ *PizzaHut DEL,restaurant
+PAY PizzaHut,restaurant
+TRX PizzaHut,restaurant
+PAY PizzaHut,restaurant
+IMPS Subway INDIA,restaurant
+UPI Subway BLR,restaurant
+SWIPE Subway HYD,restaurant
+TRX Subway,restaurant
+TRX Subway BLR,restaurant
+TRX Subway BLR,restaurant
+Subway 123,restaurant
+IMPS Subway,restaurant
+TRX Subway BLR,restaurant
+IMPS Subway,restaurant
+Subway,restaurant
+SQ *Subway BLR,restaurant
+Subway HYD,restaurant
+SQ *Subway 001,restaurant
+UPI Subway,restaurant
+PAY Subway,restaurant
+IMPS Subway BLR,restaurant
+IMPS Subway,restaurant
+SWIPE Subway,restaurant
+UPI Subway DEL,restaurant
+UPI Subway INDIA,restaurant
+SWIPE Subway,restaurant
+PAY Subway HYD,restaurant
+SWIPE Subway,restaurant
+Subway BLR,restaurant
+SQ *Subway HYD,restaurant
+PAY Subway BLR,restaurant
+TRX Subway,restaurant
+PAY Subway,restaurant
+UPI Subway BLR,restaurant
+SWIPE Subway 123,restaurant
+IMPS Subway INDIA,restaurant
+Subway BLR,restaurant
+TRX Subway HYD,restaurant
+SQ *Subway BLR,restaurant
+SWIPE Subway,restaurant
+UPI Subway,restaurant
+SWIPE Subway 001,restaurant
+TRX Subway,restaurant
+UPI Subway INDIA,restaurant
+SWIPE Subway DEL,restaurant
+SWIPE Subway BLR,restaurant
+SQ *Subway DEL,restaurant
+SWIPE Subway,restaurant
+IMPS Subway DEL,restaurant
+SWIPE Subway 001,restaurant
+PAY Subway INDIA,restaurant
+UPI Subway 123,restaurant
+SQ *Subway HYD,restaurant
+SQ *Subway,restaurant
+PAY Apollo Pharmacy DEL,pharmacy
+IMPS Apollo Pharmacy 123,pharmacy
+SWIPE Apollo Pharmacy HYD,pharmacy
+TRX Apollo Pharmacy HYD,pharmacy
+Apollo Pharmacy DEL,pharmacy
+UPI Apollo Pharmacy DEL,pharmacy
+SWIPE Apollo Pharmacy BLR,pharmacy
+UPI Apollo Pharmacy,pharmacy
+Apollo Pharmacy,pharmacy
+UPI Apollo Pharmacy,pharmacy
+SWIPE Apollo Pharmacy INDIA,pharmacy
+TRX Apollo Pharmacy HYD,pharmacy
+PAY Apollo Pharmacy INDIA,pharmacy
+SQ *Apollo Pharmacy INDIA,pharmacy
+SQ *Apollo Pharmacy HYD,pharmacy
+TRX Apollo Pharmacy,pharmacy
+IMPS Apollo Pharmacy 001,pharmacy
+TRX Apollo Pharmacy DEL,pharmacy
+SQ *Apollo Pharmacy,pharmacy
+SWIPE Apollo Pharmacy BLR,pharmacy
+SWIPE Apollo Pharmacy DEL,pharmacy
+SWIPE Apollo Pharmacy,pharmacy
+SWIPE Apollo Pharmacy,pharmacy
+UPI Apollo Pharmacy 001,pharmacy
+SWIPE Apollo Pharmacy DEL,pharmacy
+IMPS Apollo Pharmacy BLR,pharmacy
+IMPS Apollo Pharmacy HYD,pharmacy
+TRX Apollo Pharmacy 123,pharmacy
+SQ *Apollo Pharmacy 123,pharmacy
+PAY Apollo Pharmacy DEL,pharmacy
+SQ *Apollo Pharmacy INDIA,pharmacy
+IMPS Apollo Pharmacy DEL,pharmacy
+IMPS Apollo Pharmacy,pharmacy
+TRX Apollo Pharmacy BLR,pharmacy
+TRX Apollo Pharmacy HYD,pharmacy
+Apollo Pharmacy,pharmacy
+IMPS Apollo Pharmacy DEL,pharmacy
+IMPS Apollo Pharmacy 123,pharmacy
+PAY Apollo Pharmacy 123,pharmacy
+IMPS Apollo Pharmacy DEL,pharmacy
+PAY Apollo Pharmacy BLR,pharmacy
+SWIPE Apollo Pharmacy,pharmacy
+TRX Apollo Pharmacy,pharmacy
+SWIPE Apollo Pharmacy,pharmacy
+IMPS Apollo Pharmacy,pharmacy
+IMPS Apollo Pharmacy,pharmacy
+SWIPE Apollo Pharmacy DEL,pharmacy
+PAY Apollo Pharmacy BLR,pharmacy
+IMPS Apollo Pharmacy 001,pharmacy
+PAY Apollo Pharmacy 001,pharmacy
+UPI PharmEasy 123,pharmacy
+PAY PharmEasy HYD,pharmacy
+SQ *PharmEasy DEL,pharmacy
+TRX PharmEasy HYD,pharmacy
+SQ *PharmEasy BLR,pharmacy
+SQ *PharmEasy 001,pharmacy
+TRX PharmEasy,pharmacy
+PharmEasy INDIA,pharmacy
+PAY PharmEasy INDIA,pharmacy
+PharmEasy 123,pharmacy
+IMPS PharmEasy DEL,pharmacy
+SQ *PharmEasy,pharmacy
+TRX PharmEasy DEL,pharmacy
+TRX PharmEasy 001,pharmacy
+SWIPE PharmEasy INDIA,pharmacy
+PharmEasy,pharmacy
+IMPS PharmEasy BLR,pharmacy
+UPI PharmEasy 123,pharmacy
+IMPS PharmEasy,pharmacy
+UPI PharmEasy 123,pharmacy
+SWIPE PharmEasy,pharmacy
+SQ *PharmEasy,pharmacy
+SQ *PharmEasy HYD,pharmacy
+TRX PharmEasy,pharmacy
+UPI PharmEasy 123,pharmacy
+SWIPE PharmEasy 001,pharmacy
+PAY PharmEasy,pharmacy
+IMPS PharmEasy,pharmacy
+SQ *PharmEasy BLR,pharmacy
+PAY PharmEasy 123,pharmacy
+PAY PharmEasy 123,pharmacy
+SQ *PharmEasy DEL,pharmacy
+TRX PharmEasy,pharmacy
+SQ *PharmEasy BLR,pharmacy
+TRX PharmEasy DEL,pharmacy
+PharmEasy,pharmacy
+TRX PharmEasy BLR,pharmacy
+UPI PharmEasy HYD,pharmacy
+PharmEasy HYD,pharmacy
+IMPS PharmEasy BLR,pharmacy
+SQ *PharmEasy,pharmacy
+PharmEasy 001,pharmacy
+TRX PharmEasy DEL,pharmacy
+UPI PharmEasy 001,pharmacy
+UPI PharmEasy BLR,pharmacy
+SWIPE PharmEasy INDIA,pharmacy
+SQ *PharmEasy INDIA,pharmacy
+TRX PharmEasy DEL,pharmacy
+UPI PharmEasy BLR,pharmacy
+IMPS PharmEasy,pharmacy
+TRX 1MG,pharmacy
+UPI 1MG,pharmacy
+TRX 1MG DEL,pharmacy
+UPI 1MG DEL,pharmacy
+TRX 1MG,pharmacy
+PAY 1MG,pharmacy
+1MG BLR,pharmacy
+PAY 1MG,pharmacy
+PAY 1MG DEL,pharmacy
+PAY 1MG,pharmacy
+IMPS 1MG DEL,pharmacy
+1MG DEL,pharmacy
+SQ *1MG HYD,pharmacy
+1MG,pharmacy
+SWIPE 1MG BLR,pharmacy
+SWIPE 1MG,pharmacy
+UPI 1MG,pharmacy
+UPI 1MG INDIA,pharmacy
+1MG 123,pharmacy
+PAY 1MG 123,pharmacy
+PAY 1MG 123,pharmacy
+TRX 1MG BLR,pharmacy
+TRX 1MG,pharmacy
+UPI 1MG,pharmacy
+PAY 1MG,pharmacy
+SWIPE 1MG INDIA,pharmacy
+UPI 1MG 123,pharmacy
+SWIPE 1MG 001,pharmacy
+PAY 1MG HYD,pharmacy
+IMPS 1MG BLR,pharmacy
+1MG 001,pharmacy
+UPI 1MG 001,pharmacy
+TRX 1MG 123,pharmacy
+1MG 123,pharmacy
+UPI 1MG INDIA,pharmacy
+IMPS 1MG INDIA,pharmacy
+PAY 1MG,pharmacy
+IMPS 1MG,pharmacy
+IMPS 1MG 123,pharmacy
+1MG DEL,pharmacy
+PAY 1MG,pharmacy
+PAY 1MG,pharmacy
+UPI 1MG HYD,pharmacy
+UPI 1MG BLR,pharmacy
+1MG DEL,pharmacy
+SQ *1MG,pharmacy
+SWIPE 1MG BLR,pharmacy
+SQ *1MG,pharmacy
+IMPS 1MG,pharmacy
+TRX 1MG,pharmacy
+IMPS NetMeds,pharmacy
+IMPS NetMeds DEL,pharmacy
+PAY NetMeds,pharmacy
+UPI NetMeds 123,pharmacy
+NetMeds BLR,pharmacy
+PAY NetMeds DEL,pharmacy
+UPI NetMeds INDIA,pharmacy
+SQ *NetMeds DEL,pharmacy
+PAY NetMeds INDIA,pharmacy
+PAY NetMeds 001,pharmacy
+SQ *NetMeds BLR,pharmacy
+NetMeds HYD,pharmacy
+TRX NetMeds,pharmacy
+NetMeds 001,pharmacy
+TRX NetMeds 001,pharmacy
+IMPS NetMeds 001,pharmacy
+NetMeds,pharmacy
+PAY NetMeds 123,pharmacy
+SWIPE NetMeds HYD,pharmacy
+NetMeds INDIA,pharmacy
+UPI NetMeds 123,pharmacy
+NetMeds HYD,pharmacy
+UPI NetMeds INDIA,pharmacy
+TRX NetMeds,pharmacy
+SWIPE NetMeds 123,pharmacy
+SQ *NetMeds,pharmacy
+SWIPE NetMeds INDIA,pharmacy
+NetMeds 123,pharmacy
+SWIPE NetMeds,pharmacy
+IMPS NetMeds 001,pharmacy
+SQ *NetMeds,pharmacy
+PAY NetMeds,pharmacy
+IMPS NetMeds,pharmacy
+IMPS NetMeds DEL,pharmacy
+UPI NetMeds,pharmacy
+UPI NetMeds INDIA,pharmacy
+UPI NetMeds DEL,pharmacy
+IMPS NetMeds BLR,pharmacy
+SQ *NetMeds 001,pharmacy
+SWIPE NetMeds DEL,pharmacy
+UPI NetMeds,pharmacy
+PAY NetMeds INDIA,pharmacy
+PAY NetMeds 123,pharmacy
+SQ *NetMeds BLR,pharmacy
+TRX NetMeds 001,pharmacy
+IMPS NetMeds INDIA,pharmacy
+PAY NetMeds,pharmacy
+NetMeds DEL,pharmacy
+IMPS NetMeds,pharmacy
+UPI NetMeds DEL,pharmacy
+MedPlus DEL,pharmacy
+TRX MedPlus INDIA,pharmacy
+MedPlus,pharmacy
+TRX MedPlus 123,pharmacy
+SQ *MedPlus HYD,pharmacy
+MedPlus BLR,pharmacy
+IMPS MedPlus,pharmacy
+SWIPE MedPlus 001,pharmacy
+SQ *MedPlus BLR,pharmacy
+MedPlus 001,pharmacy
+TRX MedPlus,pharmacy
+SQ *MedPlus BLR,pharmacy
+PAY MedPlus DEL,pharmacy
+SQ *MedPlus HYD,pharmacy
+IMPS MedPlus,pharmacy
+PAY MedPlus,pharmacy
+SWIPE MedPlus INDIA,pharmacy
+SWIPE MedPlus 123,pharmacy
+MedPlus INDIA,pharmacy
+MedPlus 123,pharmacy
+IMPS MedPlus,pharmacy
+TRX MedPlus BLR,pharmacy
+PAY MedPlus HYD,pharmacy
+PAY MedPlus BLR,pharmacy
+UPI MedPlus 123,pharmacy
+PAY MedPlus INDIA,pharmacy
+IMPS MedPlus DEL,pharmacy
+UPI MedPlus,pharmacy
+SQ *MedPlus,pharmacy
+SWIPE MedPlus,pharmacy
+SQ *MedPlus BLR,pharmacy
+MedPlus 001,pharmacy
+UPI MedPlus DEL,pharmacy
+TRX MedPlus,pharmacy
+SWIPE MedPlus,pharmacy
+PAY MedPlus 001,pharmacy
+SWIPE MedPlus 123,pharmacy
+SWIPE MedPlus,pharmacy
+SQ *MedPlus,pharmacy
+SQ *MedPlus,pharmacy
+SQ *MedPlus,pharmacy
+TRX MedPlus DEL,pharmacy
+SQ *MedPlus INDIA,pharmacy
+IMPS MedPlus 001,pharmacy
+SQ *MedPlus HYD,pharmacy
+SQ *MedPlus,pharmacy
+SQ *MedPlus,pharmacy
+MedPlus INDIA,pharmacy
+UPI MedPlus 001,pharmacy
+TRX MedPlus 001,pharmacy
+PAY Uber DEL,transport
+TRX Uber 001,transport
+Uber BLR,transport
+PAY Uber 123,transport
+Uber BLR,transport
+UPI Uber INDIA,transport
+SWIPE Uber,transport
+SWIPE Uber INDIA,transport
+Uber,transport
+IMPS Uber DEL,transport
+TRX Uber,transport
+PAY Uber 001,transport
+IMPS Uber,transport
+SWIPE Uber INDIA,transport
+SQ *Uber,transport
+UPI Uber BLR,transport
+Uber DEL,transport
+PAY Uber,transport
+PAY Uber 001,transport
+TRX Uber,transport
+SWIPE Uber BLR,transport
+UPI Uber INDIA,transport
+SQ *Uber,transport
+TRX Uber INDIA,transport
+PAY Uber,transport
+UPI Uber 123,transport
+SWIPE Uber,transport
+Uber,transport
+UPI Uber INDIA,transport
+IMPS Uber DEL,transport
+SQ *Uber BLR,transport
+Uber 123,transport
+IMPS Uber,transport
+SQ *Uber HYD,transport
+PAY Uber,transport
+PAY Uber,transport
+IMPS Uber BLR,transport
+SWIPE Uber DEL,transport
+PAY Uber,transport
+TRX Uber INDIA,transport
+Uber 123,transport
+TRX Uber 001,transport
+IMPS Uber,transport
+SQ *Uber 123,transport
+UPI Uber INDIA,transport
+SQ *Uber INDIA,transport
+SWIPE Uber,transport
+PAY Uber 123,transport
+IMPS Uber,transport
+SQ *Uber,transport
+IMPS Ola,transport
+TRX Ola BLR,transport
+SQ *Ola INDIA,transport
+PAY Ola INDIA,transport
+SQ *Ola INDIA,transport
+TRX Ola 001,transport
+PAY Ola 123,transport
+SQ *Ola,transport
+Ola HYD,transport
+PAY Ola DEL,transport
+SQ *Ola BLR,transport
+PAY Ola HYD,transport
+UPI Ola INDIA,transport
+IMPS Ola 001,transport
+Ola,transport
+SQ *Ola 123,transport
+UPI Ola INDIA,transport
+Ola INDIA,transport
+PAY Ola BLR,transport
+TRX Ola INDIA,transport
+SWIPE Ola HYD,transport
+IMPS Ola 123,transport
+UPI Ola 123,transport
+TRX Ola INDIA,transport
+IMPS Ola HYD,transport
+PAY Ola BLR,transport
+Ola 123,transport
+IMPS Ola 123,transport
+SQ *Ola INDIA,transport
+TRX Ola 123,transport
+Ola INDIA,transport
+TRX Ola BLR,transport
+TRX Ola,transport
+UPI Ola 001,transport
+SQ *Ola INDIA,transport
+Ola,transport
+IMPS Ola 001,transport
+UPI Ola,transport
+UPI Ola,transport
+Ola 123,transport
+PAY Ola INDIA,transport
+TRX Ola,transport
+IMPS Ola DEL,transport
+SWIPE Ola,transport
+SWIPE Ola 001,transport
+SQ *Ola,transport
+IMPS Ola 001,transport
+SQ *Ola INDIA,transport
+IMPS Ola,transport
+UPI Ola,transport
+PAY Rapido INDIA,transport
+UPI Rapido DEL,transport
+UPI Rapido 001,transport
+SQ *Rapido HYD,transport
+Rapido,transport
+SQ *Rapido DEL,transport
+IMPS Rapido 001,transport
+UPI Rapido 123,transport
+PAY Rapido 123,transport
+IMPS Rapido 001,transport
+SQ *Rapido,transport
+PAY Rapido DEL,transport
+IMPS Rapido BLR,transport
+SWIPE Rapido 123,transport
+UPI Rapido 123,transport
+SWIPE Rapido,transport
+UPI Rapido HYD,transport
+SWIPE Rapido 123,transport
+SWIPE Rapido 123,transport
+PAY Rapido INDIA,transport
+SQ *Rapido 123,transport
+SWIPE Rapido BLR,transport
+SQ *Rapido DEL,transport
+UPI Rapido DEL,transport
+Rapido 123,transport
+Rapido DEL,transport
+SQ *Rapido 123,transport
+IMPS Rapido DEL,transport
+IMPS Rapido INDIA,transport
+PAY Rapido,transport
+PAY Rapido 123,transport
+PAY Rapido 123,transport
+IMPS Rapido INDIA,transport
+Rapido 001,transport
+SQ *Rapido BLR,transport
+IMPS Rapido,transport
+UPI Rapido INDIA,transport
+IMPS Rapido,transport
+SQ *Rapido 123,transport
+SQ *Rapido INDIA,transport
+SQ *Rapido 001,transport
+TRX Rapido INDIA,transport
+SQ *Rapido,transport
+PAY Rapido 001,transport
+SWIPE Rapido,transport
+SWIPE Rapido 123,transport
+UPI Rapido,transport
+SQ *Rapido,transport
+IMPS Rapido,transport
+SQ *Rapido 001,transport
+SQ *RedBus BLR,transport
+SWIPE RedBus HYD,transport
+SQ *RedBus 123,transport
+SQ *RedBus HYD,transport
+PAY RedBus 001,transport
+RedBus HYD,transport
+RedBus 001,transport
+RedBus 123,transport
+PAY RedBus 001,transport
+SWIPE RedBus BLR,transport
+SQ *RedBus HYD,transport
+UPI RedBus 123,transport
+RedBus DEL,transport
+RedBus INDIA,transport
+RedBus,transport
+TRX RedBus,transport
+TRX RedBus 123,transport
+RedBus HYD,transport
+PAY RedBus,transport
+SWIPE RedBus BLR,transport
+TRX RedBus DEL,transport
+SWIPE RedBus 001,transport
+UPI RedBus,transport
+PAY RedBus DEL,transport
+SWIPE RedBus,transport
+RedBus INDIA,transport
+PAY RedBus,transport
+SWIPE RedBus,transport
+IMPS RedBus,transport
+SQ *RedBus 123,transport
+UPI RedBus INDIA,transport
+IMPS RedBus,transport
+SWIPE RedBus DEL,transport
+TRX RedBus HYD,transport
+RedBus,transport
+UPI RedBus,transport
+SQ *RedBus,transport
+IMPS RedBus BLR,transport
+PAY RedBus DEL,transport
+UPI RedBus,transport
+SWIPE RedBus,transport
+IMPS RedBus 123,transport
+SQ *RedBus,transport
+IMPS RedBus,transport
+IMPS RedBus BLR,transport
+RedBus HYD,transport
+PAY RedBus 123,transport
+IMPS RedBus INDIA,transport
+UPI RedBus INDIA,transport
+SQ *RedBus HYD,transport
+UPI Meru,transport
+TRX Meru 001,transport
+IMPS Meru 123,transport
+SWIPE Meru 001,transport
+PAY Meru HYD,transport
+PAY Meru,transport
+UPI Meru,transport
+IMPS Meru HYD,transport
+SQ *Meru BLR,transport
+IMPS Meru,transport
+IMPS Meru,transport
+SQ *Meru INDIA,transport
+UPI Meru INDIA,transport
+SQ *Meru,transport
+UPI Meru,transport
+SQ *Meru BLR,transport
+SWIPE Meru 123,transport
+SQ *Meru 123,transport
+PAY Meru,transport
+UPI Meru HYD,transport
+IMPS Meru HYD,transport
+SQ *Meru DEL,transport
+SWIPE Meru HYD,transport
+UPI Meru,transport
+TRX Meru,transport
+SQ *Meru BLR,transport
+UPI Meru 123,transport
+SWIPE Meru 123,transport
+IMPS Meru BLR,transport
+UPI Meru 001,transport
+IMPS Meru 123,transport
+SQ *Meru 123,transport
+SWIPE Meru,transport
+UPI Meru 001,transport
+PAY Meru BLR,transport
+IMPS Meru HYD,transport
+UPI Meru BLR,transport
+SQ *Meru,transport
+SWIPE Meru HYD,transport
+IMPS Meru HYD,transport
+TRX Meru,transport
+UPI Meru 001,transport
+Meru,transport
+IMPS Meru,transport
+SWIPE Meru,transport
+SWIPE Meru,transport
+UPI Meru DEL,transport
+PAY Meru,transport
+IMPS Meru 001,transport
+TRX Meru,transport
+SWIPE Croma,electronics
+SWIPE Croma 001,electronics
+TRX Croma BLR,electronics
+Croma,electronics
+PAY Croma INDIA,electronics
+PAY Croma BLR,electronics
+IMPS Croma,electronics
+PAY Croma BLR,electronics
+Croma BLR,electronics
+IMPS Croma,electronics
+IMPS Croma DEL,electronics
+IMPS Croma,electronics
+Croma 001,electronics
+PAY Croma 001,electronics
+PAY Croma,electronics
+TRX Croma DEL,electronics
+UPI Croma BLR,electronics
+TRX Croma 001,electronics
+IMPS Croma,electronics
+TRX Croma DEL,electronics
+PAY Croma BLR,electronics
+TRX Croma DEL,electronics
+PAY Croma DEL,electronics
+IMPS Croma,electronics
+SQ *Croma INDIA,electronics
+TRX Croma,electronics
+IMPS Croma,electronics
+UPI Croma 001,electronics
+TRX Croma 123,electronics
+IMPS Croma,electronics
+Croma BLR,electronics
+PAY Croma,electronics
+UPI Croma,electronics
+SQ *Croma,electronics
+TRX Croma 001,electronics
+Croma 123,electronics
+SQ *Croma BLR,electronics
+SWIPE Croma 001,electronics
+Croma,electronics
+IMPS Croma HYD,electronics
+SQ *Croma 123,electronics
+SWIPE Croma,electronics
+SWIPE Croma HYD,electronics
+TRX Croma 001,electronics
+SQ *Croma BLR,electronics
+SWIPE Croma DEL,electronics
+SWIPE Croma 123,electronics
+PAY Croma BLR,electronics
+IMPS Croma 001,electronics
+SQ *Croma INDIA,electronics
+SQ *Reliance Digital,electronics
+TRX Reliance Digital HYD,electronics
+IMPS Reliance Digital BLR,electronics
+IMPS Reliance Digital,electronics
+UPI Reliance Digital HYD,electronics
+UPI Reliance Digital DEL,electronics
+Reliance Digital,electronics
+UPI Reliance Digital HYD,electronics
+IMPS Reliance Digital,electronics
+PAY Reliance Digital,electronics
+TRX Reliance Digital BLR,electronics
+PAY Reliance Digital 123,electronics
+Reliance Digital DEL,electronics
+PAY Reliance Digital,electronics
+Reliance Digital,electronics
+PAY Reliance Digital HYD,electronics
+TRX Reliance Digital BLR,electronics
+SQ *Reliance Digital BLR,electronics
+SQ *Reliance Digital 001,electronics
+Reliance Digital DEL,electronics
+PAY Reliance Digital 001,electronics
+IMPS Reliance Digital,electronics
+IMPS Reliance Digital,electronics
+PAY Reliance Digital HYD,electronics
+Reliance Digital HYD,electronics
+SWIPE Reliance Digital BLR,electronics
+UPI Reliance Digital 123,electronics
+UPI Reliance Digital,electronics
+PAY Reliance Digital,electronics
+SWIPE Reliance Digital,electronics
+PAY Reliance Digital 123,electronics
+SWIPE Reliance Digital,electronics
+UPI Reliance Digital 123,electronics
+TRX Reliance Digital,electronics
+UPI Reliance Digital INDIA,electronics
+IMPS Reliance Digital 123,electronics
+IMPS Reliance Digital 123,electronics
+IMPS Reliance Digital 123,electronics
+Reliance Digital,electronics
+TRX Reliance Digital 001,electronics
+PAY Reliance Digital HYD,electronics
+TRX Reliance Digital DEL,electronics
+SQ *Reliance Digital DEL,electronics
+SQ *Reliance Digital INDIA,electronics
+UPI Reliance Digital 123,electronics
+IMPS Reliance Digital BLR,electronics
+SWIPE Reliance Digital INDIA,electronics
+SQ *Reliance Digital BLR,electronics
+SQ *Reliance Digital INDIA,electronics
+SQ *Reliance Digital,electronics
+SWIPE Vijay Sales 001,electronics
+UPI Vijay Sales,electronics
+TRX Vijay Sales,electronics
+SWIPE Vijay Sales 001,electronics
+IMPS Vijay Sales,electronics
+PAY Vijay Sales,electronics
+Vijay Sales 001,electronics
+SWIPE Vijay Sales DEL,electronics
+Vijay Sales 123,electronics
+SWIPE Vijay Sales,electronics
+IMPS Vijay Sales 001,electronics
+SWIPE Vijay Sales,electronics
+PAY Vijay Sales DEL,electronics
+TRX Vijay Sales,electronics
+PAY Vijay Sales DEL,electronics
+SQ *Vijay Sales,electronics
+PAY Vijay Sales INDIA,electronics
+IMPS Vijay Sales HYD,electronics
+SWIPE Vijay Sales BLR,electronics
+SQ *Vijay Sales 123,electronics
+IMPS Vijay Sales INDIA,electronics
+PAY Vijay Sales,electronics
+SWIPE Vijay Sales,electronics
+UPI Vijay Sales 001,electronics
+UPI Vijay Sales 001,electronics
+TRX Vijay Sales 123,electronics
+PAY Vijay Sales 123,electronics
+SQ *Vijay Sales HYD,electronics
+Vijay Sales BLR,electronics
+SWIPE Vijay Sales DEL,electronics
+SWIPE Vijay Sales BLR,electronics
+Vijay Sales,electronics
+IMPS Vijay Sales INDIA,electronics
+UPI Vijay Sales,electronics
+IMPS Vijay Sales INDIA,electronics
+TRX Vijay Sales,electronics
+SWIPE Vijay Sales 123,electronics
+SQ *Vijay Sales,electronics
+SWIPE Vijay Sales 001,electronics
+Vijay Sales INDIA,electronics
+PAY Vijay Sales 001,electronics
+SQ *Vijay Sales INDIA,electronics
+UPI Vijay Sales 123,electronics
+SWIPE Vijay Sales 123,electronics
+Vijay Sales INDIA,electronics
+SQ *Vijay Sales,electronics
+IMPS Vijay Sales HYD,electronics
+SWIPE Vijay Sales INDIA,electronics
+IMPS Vijay Sales,electronics
+SQ *Vijay Sales 001,electronics
+UPI Best Buy DEL,electronics
+TRX Best Buy DEL,electronics
+UPI Best Buy HYD,electronics
+SQ *Best Buy,electronics
+UPI Best Buy HYD,electronics
+UPI Best Buy,electronics
+TRX Best Buy,electronics
+IMPS Best Buy,electronics
+PAY Best Buy 001,electronics
+TRX Best Buy,electronics
+SQ *Best Buy,electronics
+UPI Best Buy HYD,electronics
+Best Buy,electronics
+PAY Best Buy,electronics
+PAY Best Buy INDIA,electronics
+PAY Best Buy,electronics
+TRX Best Buy 123,electronics
+Best Buy BLR,electronics
+SWIPE Best Buy,electronics
+UPI Best Buy BLR,electronics
+SWIPE Best Buy INDIA,electronics
+TRX Best Buy,electronics
+UPI Best Buy,electronics
+IMPS Best Buy BLR,electronics
+PAY Best Buy BLR,electronics
+PAY Best Buy DEL,electronics
+TRX Best Buy 123,electronics
+Best Buy 123,electronics
+TRX Best Buy 123,electronics
+PAY Best Buy INDIA,electronics
+UPI Best Buy HYD,electronics
+UPI Best Buy,electronics
+Best Buy,electronics
+UPI Best Buy,electronics
+PAY Best Buy HYD,electronics
+PAY Best Buy 123,electronics
+TRX Best Buy,electronics
+IMPS Best Buy BLR,electronics
+UPI Best Buy BLR,electronics
+UPI Best Buy DEL,electronics
+IMPS Best Buy 001,electronics
+IMPS Best Buy,electronics
+TRX Best Buy,electronics
+IMPS Best Buy INDIA,electronics
+IMPS Best Buy,electronics
+IMPS Best Buy DEL,electronics
+SQ *Best Buy DEL,electronics
+TRX Best Buy,electronics
+IMPS Best Buy BLR,electronics
+PAY Best Buy 001,electronics
+SQ *Apple Store 123,electronics
+Apple Store DEL,electronics
+IMPS Apple Store INDIA,electronics
+SWIPE Apple Store BLR,electronics
+PAY Apple Store DEL,electronics
+SQ *Apple Store BLR,electronics
+UPI Apple Store 123,electronics
+UPI Apple Store 123,electronics
+SQ *Apple Store BLR,electronics
+IMPS Apple Store,electronics
+TRX Apple Store,electronics
+PAY Apple Store 123,electronics
+SWIPE Apple Store HYD,electronics
+PAY Apple Store BLR,electronics
+TRX Apple Store,electronics
+Apple Store,electronics
+UPI Apple Store BLR,electronics
+Apple Store 001,electronics
+SWIPE Apple Store,electronics
+Apple Store 123,electronics
+PAY Apple Store HYD,electronics
+SQ *Apple Store 001,electronics
+IMPS Apple Store BLR,electronics
+SWIPE Apple Store BLR,electronics
+TRX Apple Store DEL,electronics
+PAY Apple Store DEL,electronics
+IMPS Apple Store INDIA,electronics
+SQ *Apple Store DEL,electronics
+PAY Apple Store 001,electronics
+SQ *Apple Store DEL,electronics
+SQ *Apple Store BLR,electronics
+IMPS Apple Store DEL,electronics
+UPI Apple Store,electronics
+SQ *Apple Store HYD,electronics
+PAY Apple Store,electronics
+PAY Apple Store,electronics
+PAY Apple Store DEL,electronics
+TRX Apple Store BLR,electronics
+SWIPE Apple Store 123,electronics
+IMPS Apple Store 001,electronics
+IMPS Apple Store,electronics
+SQ *Apple Store BLR,electronics
+IMPS Apple Store,electronics
+TRX Apple Store 123,electronics
+SQ *Apple Store INDIA,electronics
+TRX Apple Store,electronics
+IMPS Apple Store,electronics
+SWIPE Apple Store,electronics
+SQ *Apple Store,electronics
+TRX Apple Store INDIA,electronics
+IMPS PVR Cinemas INDIA,entertainment
+IMPS PVR Cinemas,entertainment
+UPI PVR Cinemas 001,entertainment
+SWIPE PVR Cinemas,entertainment
+TRX PVR Cinemas DEL,entertainment
+SQ *PVR Cinemas DEL,entertainment
+PAY PVR Cinemas DEL,entertainment
+UPI PVR Cinemas BLR,entertainment
+TRX PVR Cinemas HYD,entertainment
+SWIPE PVR Cinemas DEL,entertainment
+PAY PVR Cinemas,entertainment
+SWIPE PVR Cinemas 001,entertainment
+SWIPE PVR Cinemas,entertainment
+IMPS PVR Cinemas HYD,entertainment
+IMPS PVR Cinemas,entertainment
+PAY PVR Cinemas 001,entertainment
+SQ *PVR Cinemas 001,entertainment
+UPI PVR Cinemas INDIA,entertainment
+PAY PVR Cinemas 001,entertainment
+PAY PVR Cinemas 001,entertainment
+PAY PVR Cinemas,entertainment
+UPI PVR Cinemas HYD,entertainment
+UPI PVR Cinemas 001,entertainment
+TRX PVR Cinemas HYD,entertainment
+PVR Cinemas DEL,entertainment
+SQ *PVR Cinemas BLR,entertainment
+IMPS PVR Cinemas 123,entertainment
+SWIPE PVR Cinemas 001,entertainment
+SQ *PVR Cinemas,entertainment
+SWIPE PVR Cinemas,entertainment
+TRX PVR Cinemas BLR,entertainment
+PVR Cinemas 123,entertainment
+UPI PVR Cinemas BLR,entertainment
+TRX PVR Cinemas 001,entertainment
+PVR Cinemas,entertainment
+PVR Cinemas,entertainment
+IMPS PVR Cinemas,entertainment
+PVR Cinemas INDIA,entertainment
+PVR Cinemas,entertainment
+IMPS PVR Cinemas HYD,entertainment
+UPI PVR Cinemas,entertainment
+SQ *PVR Cinemas BLR,entertainment
+SQ *PVR Cinemas,entertainment
+IMPS PVR Cinemas INDIA,entertainment
+TRX PVR Cinemas,entertainment
+IMPS PVR Cinemas,entertainment
+SQ *PVR Cinemas,entertainment
+PAY PVR Cinemas 001,entertainment
+SWIPE PVR Cinemas HYD,entertainment
+TRX PVR Cinemas,entertainment
+PAY INOX,entertainment
+TRX INOX 001,entertainment
+SQ *INOX,entertainment
+SQ *INOX HYD,entertainment
+UPI INOX HYD,entertainment
+TRX INOX 123,entertainment
+INOX HYD,entertainment
+TRX INOX INDIA,entertainment
+SWIPE INOX INDIA,entertainment
+TRX INOX,entertainment
+TRX INOX INDIA,entertainment
+SWIPE INOX,entertainment
+TRX INOX INDIA,entertainment
+PAY INOX INDIA,entertainment
+SQ *INOX 001,entertainment
+UPI INOX,entertainment
+UPI INOX,entertainment
+IMPS INOX 001,entertainment
+IMPS INOX 001,entertainment
+INOX HYD,entertainment
+PAY INOX 123,entertainment
+UPI INOX DEL,entertainment
+UPI INOX BLR,entertainment
+IMPS INOX 123,entertainment
+INOX 123,entertainment
+TRX INOX 001,entertainment
+TRX INOX HYD,entertainment
+INOX,entertainment
+IMPS INOX DEL,entertainment
+UPI INOX INDIA,entertainment
+TRX INOX INDIA,entertainment
+PAY INOX 001,entertainment
+TRX INOX,entertainment
+IMPS INOX,entertainment
+INOX HYD,entertainment
+INOX INDIA,entertainment
+INOX HYD,entertainment
+INOX DEL,entertainment
+IMPS INOX 001,entertainment
+PAY INOX DEL,entertainment
+INOX,entertainment
+PAY INOX,entertainment
+SQ *INOX DEL,entertainment
+IMPS INOX 123,entertainment
+INOX HYD,entertainment
+INOX 123,entertainment
+IMPS INOX,entertainment
+INOX,entertainment
+TRX INOX,entertainment
+INOX DEL,entertainment
+PAY BookMyShow INDIA,entertainment
+TRX BookMyShow INDIA,entertainment
+SWIPE BookMyShow BLR,entertainment
+IMPS BookMyShow BLR,entertainment
+TRX BookMyShow,entertainment
+UPI BookMyShow BLR,entertainment
+UPI BookMyShow 001,entertainment
+TRX BookMyShow DEL,entertainment
+TRX BookMyShow 001,entertainment
+SWIPE BookMyShow 123,entertainment
+TRX BookMyShow DEL,entertainment
+BookMyShow HYD,entertainment
+SWIPE BookMyShow,entertainment
+UPI BookMyShow DEL,entertainment
+PAY BookMyShow 123,entertainment
+BookMyShow BLR,entertainment
+SWIPE BookMyShow 123,entertainment
+SWIPE BookMyShow HYD,entertainment
+IMPS BookMyShow INDIA,entertainment
+TRX BookMyShow 123,entertainment
+PAY BookMyShow,entertainment
+SQ *BookMyShow DEL,entertainment
+SWIPE BookMyShow DEL,entertainment
+UPI BookMyShow BLR,entertainment
+SWIPE BookMyShow,entertainment
+BookMyShow,entertainment
+SWIPE BookMyShow 123,entertainment
+PAY BookMyShow BLR,entertainment
+SQ *BookMyShow 001,entertainment
+SQ *BookMyShow 123,entertainment
+IMPS BookMyShow DEL,entertainment
+IMPS BookMyShow,entertainment
+UPI BookMyShow INDIA,entertainment
+UPI BookMyShow DEL,entertainment
+SWIPE BookMyShow INDIA,entertainment
+BookMyShow,entertainment
+BookMyShow 001,entertainment
+TRX BookMyShow,entertainment
+TRX BookMyShow,entertainment
+IMPS BookMyShow,entertainment
+UPI BookMyShow DEL,entertainment
+SWIPE BookMyShow,entertainment
+UPI BookMyShow HYD,entertainment
+TRX BookMyShow,entertainment
+SWIPE BookMyShow HYD,entertainment
+UPI BookMyShow,entertainment
+PAY BookMyShow HYD,entertainment
+TRX BookMyShow,entertainment
+SQ *BookMyShow DEL,entertainment
+BookMyShow HYD,entertainment
+TRX Carnival Cinemas,entertainment
+TRX Carnival Cinemas 001,entertainment
+TRX Carnival Cinemas HYD,entertainment
+SQ *Carnival Cinemas,entertainment
+SWIPE Carnival Cinemas,entertainment
+SWIPE Carnival Cinemas,entertainment
+SQ *Carnival Cinemas HYD,entertainment
+UPI Carnival Cinemas,entertainment
+Carnival Cinemas,entertainment
+IMPS Carnival Cinemas INDIA,entertainment
+UPI Carnival Cinemas,entertainment
+IMPS Carnival Cinemas BLR,entertainment
+TRX Carnival Cinemas,entertainment
+Carnival Cinemas INDIA,entertainment
+SQ *Carnival Cinemas INDIA,entertainment
+SQ *Carnival Cinemas HYD,entertainment
+SQ *Carnival Cinemas INDIA,entertainment
+UPI Carnival Cinemas 001,entertainment
+SQ *Carnival Cinemas,entertainment
+Carnival Cinemas,entertainment
+Carnival Cinemas,entertainment
+Carnival Cinemas,entertainment
+TRX Carnival Cinemas BLR,entertainment
+TRX Carnival Cinemas 123,entertainment
+TRX Carnival Cinemas BLR,entertainment
+TRX Carnival Cinemas,entertainment
+IMPS Carnival Cinemas HYD,entertainment
+Carnival Cinemas,entertainment
+IMPS Carnival Cinemas,entertainment
+IMPS Carnival Cinemas 123,entertainment
+UPI Carnival Cinemas HYD,entertainment
+TRX Carnival Cinemas DEL,entertainment
+SWIPE Carnival Cinemas DEL,entertainment
+SQ *Carnival Cinemas DEL,entertainment
+SWIPE Carnival Cinemas BLR,entertainment
+SWIPE Carnival Cinemas,entertainment
+TRX Carnival Cinemas,entertainment
+TRX Carnival Cinemas DEL,entertainment
+PAY Carnival Cinemas,entertainment
+SQ *Carnival Cinemas,entertainment
+PAY Carnival Cinemas DEL,entertainment
+UPI Carnival Cinemas BLR,entertainment
+Carnival Cinemas DEL,entertainment
+SQ *Carnival Cinemas,entertainment
+UPI Carnival Cinemas 001,entertainment
+IMPS Carnival Cinemas,entertainment
+TRX Carnival Cinemas BLR,entertainment
+IMPS Carnival Cinemas,entertainment
+TRX Carnival Cinemas 001,entertainment
+SWIPE Carnival Cinemas 123,entertainment
+SQ *Fun Cinemas DEL,entertainment
+SWIPE Fun Cinemas HYD,entertainment
+SQ *Fun Cinemas 123,entertainment
+SWIPE Fun Cinemas DEL,entertainment
+SWIPE Fun Cinemas 001,entertainment
+PAY Fun Cinemas DEL,entertainment
+PAY Fun Cinemas 001,entertainment
+Fun Cinemas DEL,entertainment
+TRX Fun Cinemas DEL,entertainment
+PAY Fun Cinemas INDIA,entertainment
+PAY Fun Cinemas,entertainment
+Fun Cinemas 001,entertainment
+PAY Fun Cinemas,entertainment
+TRX Fun Cinemas HYD,entertainment
+Fun Cinemas HYD,entertainment
+SQ *Fun Cinemas,entertainment
+UPI Fun Cinemas,entertainment
+PAY Fun Cinemas BLR,entertainment
+UPI Fun Cinemas,entertainment
+TRX Fun Cinemas 001,entertainment
+SWIPE Fun Cinemas 123,entertainment
+PAY Fun Cinemas,entertainment
+SWIPE Fun Cinemas 001,entertainment
+TRX Fun Cinemas,entertainment
+SWIPE Fun Cinemas BLR,entertainment
+IMPS Fun Cinemas,entertainment
+SWIPE Fun Cinemas DEL,entertainment
+PAY Fun Cinemas HYD,entertainment
+UPI Fun Cinemas,entertainment
+UPI Fun Cinemas,entertainment
+PAY Fun Cinemas 123,entertainment
+PAY Fun Cinemas 123,entertainment
+TRX Fun Cinemas BLR,entertainment
+SWIPE Fun Cinemas,entertainment
+IMPS Fun Cinemas DEL,entertainment
+SWIPE Fun Cinemas,entertainment
+SQ *Fun Cinemas 001,entertainment
+Fun Cinemas INDIA,entertainment
+UPI Fun Cinemas INDIA,entertainment
+UPI Fun Cinemas INDIA,entertainment
+Fun Cinemas,entertainment
+PAY Fun Cinemas 001,entertainment
+UPI Fun Cinemas BLR,entertainment
+UPI Fun Cinemas 001,entertainment
+Fun Cinemas DEL,entertainment
+PAY Fun Cinemas,entertainment
+IMPS Fun Cinemas,entertainment
+IMPS Fun Cinemas BLR,entertainment
+IMPS Fun Cinemas DEL,entertainment
+UPI Fun Cinemas,entertainment

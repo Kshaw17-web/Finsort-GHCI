@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+finsort/model.pkl
+finsort/vectorizer.pkl
+reports/*.png
+finsort/feedback.log
