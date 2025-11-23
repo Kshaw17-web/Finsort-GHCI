@@ -2,6 +2,10 @@
 
 This repo contains a full working prototype of FinSort: local transaction categorization with a configurable taxonomy.
 
+## 📽 Demo Video
+Watch the demonstration here:  
+🔗 (https://drive.google.com/drive/folders/1g84kALKV_2iH49TKdJo7w-rkGQ5o2b55?usp=sharing)
+
 ## What is included
 - `finsort/` package: cleaner, model training, inference, explain, config
 - `data/`: train/test CSVs and full dataset
