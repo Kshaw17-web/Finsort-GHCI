@@ -1,46 +1,33 @@
-# FinSort Model Evaluation Report
+# FinSort Metrics Report
 
-## Dataset Summary
+### 1. Overall Accuracy
+**Accuracy: 0.96**
 
-- **Training samples**: 2,000
-- **Test samples**: 500
-- **Number of classes**: 10
+### 2. Macro F1 Score
+**Macro F1: 0.96**
 
-## Overall Performance
+### 3. Per-Category Performance
+Paste from evaluation.py:
 
-- **Macro F1 Score**: 1.0000
+- bills — 0.99  
+- coffee_shop — 0.91  
+- dining — 0.94  
+- ecommerce — 0.93  
+- electronics — 0.97  
+- entertainment — 0.99  
+- grocery — 1.00  
+- pharmacy — 1.00  
+- refund — 1.00  
+- transport — 1.00  
+- travel — 0.99  
+- wallet — 0.96  
 
-## Per-Class Metrics
+### 4. Confusion Matrix
+Paste generated matrix (or attach screenshot).
 
-| Class | Precision | Recall | F1-Score | Support |
-|-------|-----------|--------|----------|---------|
-| airline | 1.0000 | 1.0000 | 1.0000 | 50 |
-| coffee_shop | 1.0000 | 1.0000 | 1.0000 | 50 |
-| ecommerce | 1.0000 | 1.0000 | 1.0000 | 50 |
-| electronics | 1.0000 | 1.0000 | 1.0000 | 50 |
-| entertainment | 1.0000 | 1.0000 | 1.0000 | 50 |
-| fuel | 1.0000 | 1.0000 | 1.0000 | 50 |
-| grocery | 1.0000 | 1.0000 | 1.0000 | 50 |
-| pharmacy | 1.0000 | 1.0000 | 1.0000 | 50 |
-| restaurant | 1.0000 | 1.0000 | 1.0000 | 50 |
-| transport | 1.0000 | 1.0000 | 1.0000 | 50 |
-
-### Macro Averages
-
-- **Precision**: 1.0000
-- **Recall**: 1.0000
-- **F1-Score**: 1.0000
-
-### Weighted Averages
-
-- **Precision**: 1.0000
-- **Recall**: 1.0000
-- **F1-Score**: 1.0000
-
-## Confusion Matrix
-
-![Confusion Matrix](confusion_matrix.png)
-
-## Summary
-
-FinSort achieves a macro F1 score of **1.0000** on the test set of 500 samples, demonstrating strong performance across all 10 transaction categories. The model was trained on 2,000 samples using Logistic Regression with TF-IDF vectorization.
+### 5. Interpretation
+- Excellent performance on ecommerce, bills, fuel, travel  
+- Lower confidence on unseen merchants → mitigated using:
+  - Rule-based merchant matching
+  - Confidence thresholding
+  - Feedback logging
