@@ -1,0 +1,2 @@
+raw,cleaned,predicted_tag,predicted_category,confidence,corrected_category
+SQ *COFFEE-SPOT 123,sq coffee spot,ecommerce,Shopping,0.12,Dining

@@ -1,0 +1,9 @@
+transaction,amount,date,merchant_code,expected_tag,raw_notes,id,raw,cleaned,tag,category,confidence,match_tag
+OLA*TRIP#INV 9987,320.00,08-11-24,OLA-TRP,transport,driver:raj,1018,OLA*TRIP#INV 9987,ola trip inv,travel,Uncategorised,0.8429419079189706,False
+HOSPITAL APOLLO/OPD 11,2300.00,01-11-24,APOLLO,pharmacy,ward:opd4,1019,HOSPITAL APOLLO/OPD 11,hospital apollo opd,ecommerce,Shopping,0.16636990671746515,False
+SWP *NETFLIXCOM 11/2024,299,11/2024,SUBS-NET,entertainment,,1007,SWP *NETFLIXCOM 11/2024,swp netflixcom,ecommerce,Shopping,0.18050549827917878,False
+PHONEPE-REF/87012 CR,-250.50,06-Nov-24,PHN-CR,refund,type:refund,1014,PHONEPE-REF/87012 CR,phonepe ref cr,wallet,Uncategorised,0.9247301108920212,False
+PAYTM*BILLPAY/EB/093,562.75,30-Oct-24,PAYTM-BP,bills,bill:elec/nov,1009,PAYTM*BILLPAY/EB/093,paytm billpay eb,ecommerce,Shopping,0.2967858937388439,False
+STARBUCKS INDIA *STAR 09,450,09-11,STAR-09,coffee_shop,promo:coffee10,1017,STARBUCKS INDIA *STAR 09,starbucks india star,dining,Uncategorised,0.46013175691821195,False
+UPI-AXIS/9845123456-PAY,250.50,05.11.24,AXISUPI,wallet,bank:axis;txn:ref,1004,UPI-AXIS/9845123456-PAY,axis,ecommerce,Shopping,0.16636990671746515,False
+UPI/ICICI-AXIS 12345,1200.00,05-Nov-2024,UPI-ICICI,wallet,note:upi alias used,1016,UPI/ICICI-AXIS 12345,icici axis,ecommerce,Shopping,0.16636990671746515,False

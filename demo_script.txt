@@ -34,3 +34,7 @@ The repo structure is clean:
 
 That's FinSort - local, fast, and configurable transaction categorization!"
 
+
+
+
+

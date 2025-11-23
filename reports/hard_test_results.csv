@@ -1,0 +1,21 @@
+transaction,amount,date,merchant_code,expected_tag,raw_notes,id,raw,cleaned,tag,category,confidence,low_confidence,by_rule,match_tag
+AMZN MktPlc PMTS INV00023,"₹1,299.00",2024/11/05,AMZ-UK,ecommerce,ship:delayed,1002,AMZN MktPlc PMTS INV00023,amazon mktplc inv00023,ecommerce,Shopping,0.99,False,True,True
+OLA*TRIP#INV 9987,320.00,08-11-24,OLA-TRP,transport,driver:raj,1018,OLA*TRIP#INV 9987,ola trip 9987,transport,Transport,0.99,False,True,True
+HPCL POS 2456 BLR#,1200,05-Nov,FUEL-HP,fuel,gst:5%,1003,HPCL POS 2456 BLR#,hpcl pos 2456 blr,fuel,Fuel,0.99,False,True,True
+REFUND AMAZON *AMZ123,-1299.00,2024-11-06,AMZ-RFD,refund,orig:merchant;refid:AA1,1006,REFUND AMAZON *AMZ123,amazon amz123,ecommerce,Shopping,0.99,False,True,False
+AMAZONPAY*MKTP 0023,1299,2024-11-05,AMZ-PAY,ecommerce,seller:amz-uk,1012,AMAZONPAY*MKTP 0023,amazon marketplace 0023,ecommerce,Shopping,0.99,False,True,True
+SQ*COFFEE-SPOT 12/11,32.00INR,12-11-24,CFF-SPT_001,coffee_shop,ref:inv#123;card:xxxx-1111,1001,SQ*COFFEE-SPOT 12/11,sq coffee spot 12 11,coffee_shop,Food & Dining,0.8441148074927077,False,False,True
+HOSPITAL APOLLO/OPD 11,2300.00,01-11-24,APOLLO,pharmacy,ward:opd4,1019,HOSPITAL APOLLO/OPD 11,hospital apollo opd 11,pharmacy,Health,0.99,False,True,True
+SWP *NETFLIXCOM 11/2024,299,11/2024,SUBS-NET,entertainment,,1007,SWP *NETFLIXCOM 11/2024,swp netflix 11 2024,entertainment,Entertainment,0.99,False,True,True
+PHONEPE-REF/87012 CR,-250.50,06-Nov-24,PHN-CR,refund,type:refund,1014,PHONEPE-REF/87012 CR,phonepe 87012,wallet,wallet,0.9247301108920212,False,False,False
+AMAZON MKTPLACE*PAY*UPI,₹1299.00,05-Nov-24,AMZ-TR,ecommerce,seller:amazon,1020,AMAZON MKTPLACE*PAY*UPI,amazon mktplace,ecommerce,Shopping,0.99,False,True,True
+SQ*COFFEE SPOT LTD#INV,₹150,12-11-24,CFFINV,coffee_shop,invoice#C123,1011,SQ*COFFEE SPOT LTD#INV,sq coffee spot ltd,coffee_shop,Food & Dining,0.8441148074927077,False,False,True
+CRED EMI*CITI 11-24,4999,11-24,CRED-EMI,electronics,emi_month:11,1015,CRED EMI*CITI 11-24,cred emi citi 11 24,electronics,Shopping,0.9204786035907937,False,False,True
+PAYTM*BILLPAY/EB/093,562.75,30-Oct-24,PAYTM-BP,bills,bill:elec/nov,1009,PAYTM*BILLPAY/EB/093,paytm billpay eb 093,bills,Bills,0.99,False,True,True
+STARBUCKS INDIA *STAR 09,450,09-11,STAR-09,coffee_shop,promo:coffee10,1017,STARBUCKS INDIA *STAR 09,starbucks india star 09,coffee_shop,Food & Dining,0.99,False,True,True
+POS DMART 0045/12-11,899.40,12-Nov,DMRT-POS,grocery,loyalty:yes,1010,POS DMART 0045/12-11,pos dmart 0045 12 11,grocery,Groceries,0.525408639712191,True,False,True
+IOC PETROL/BHOPAL 09,810.00 INR,09-11-24,IOC-09,fuel,pump:bay4,1013,IOC PETROL/BHOPAL 09,ioc petrol bhopal 09,fuel,Fuel,0.99,False,True,True
+IRCTC E-TICKET PNR:ABC123,450.00,2024-10-30,IRCTC,travel,pnr:ABC12345,1008,IRCTC E-TICKET PNR:ABC123,irctc e ticket pnr abc123,travel,travel,0.7413723348276093,False,False,True
+UPI-AXIS/9845123456-PAY,250.50,05.11.24,AXISUPI,wallet,bank:axis;txn:ref,1004,UPI-AXIS/9845123456-PAY,axis,ecommerce,Shopping,0.16636990671746515,True,False,False
+ZOMATO*ORD/₹499-0001,499,Nov5,ZMT-ORD,dining,promo:NEW10,1005,ZOMATO*ORD/₹499-0001,zomato ₹499 0001,dining,Dining,0.99,False,True,True
+UPI/ICICI-AXIS 12345,1200.00,05-Nov-2024,UPI-ICICI,wallet,note:upi alias used,1016,UPI/ICICI-AXIS 12345,icici axis 12345,ecommerce,Shopping,0.16636990671746515,True,False,False

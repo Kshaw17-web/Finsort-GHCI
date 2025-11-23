@@ -1,3 +1,5 @@
+{"confidence_threshold": 0.60,
+  "category_map":
 {
   "coffee_shop": "Food & Dining",
   "airline": "Travel",
@@ -9,4 +11,5 @@
   "transport": "Transport",
   "electronics": "Shopping",
   "entertainment": "Entertainment"
+}
 }

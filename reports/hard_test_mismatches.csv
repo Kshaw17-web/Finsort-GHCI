@@ -1,0 +1,5 @@
+transaction,amount,date,merchant_code,expected_tag,raw_notes,id,raw,cleaned,tag,category,confidence,low_confidence,by_rule,match_tag
+REFUND AMAZON *AMZ123,-1299.00,2024-11-06,AMZ-RFD,refund,orig:merchant;refid:AA1,1006,REFUND AMAZON *AMZ123,amazon amz123,ecommerce,Shopping,0.99,False,True,False
+PHONEPE-REF/87012 CR,-250.50,06-Nov-24,PHN-CR,refund,type:refund,1014,PHONEPE-REF/87012 CR,phonepe 87012,wallet,wallet,0.9247301108920212,False,False,False
+UPI-AXIS/9845123456-PAY,250.50,05.11.24,AXISUPI,wallet,bank:axis;txn:ref,1004,UPI-AXIS/9845123456-PAY,axis,ecommerce,Shopping,0.16636990671746515,True,False,False
+UPI/ICICI-AXIS 12345,1200.00,05-Nov-2024,UPI-ICICI,wallet,note:upi alias used,1016,UPI/ICICI-AXIS 12345,icici axis 12345,ecommerce,Shopping,0.16636990671746515,True,False,False

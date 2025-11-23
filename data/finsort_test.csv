@@ -1,501 +1,1001 @@
 transaction,tag
-IMPS Meru HYD,transport
-TRX Nayara 123,fuel
-UPI 1MG,pharmacy
-TRX PVR Cinemas DEL,entertainment
-SQ *PVR Cinemas 001,entertainment
-IMPS Uber,transport
-SWIPE PVR Cinemas,entertainment
-PAY Amazon DEL,ecommerce
-SQ *KFC,restaurant
-SQ *Meru BLR,transport
-UPI Spencers 123,grocery
-IMPS INOX 123,entertainment
-SQ *Apple Store BLR,electronics
-SWIPE SpiceJet BLR,airline
-Fun Cinemas INDIA,entertainment
-TRX Dominos,restaurant
-IMPS Vijay Sales HYD,electronics
-Vistara 123,airline
-SWIPE Amazon,ecommerce
-UPI Dominos BLR,restaurant
-IMPS IndianOil INDIA,fuel
-PAY Shell 123,fuel
-UPI McDonalds,restaurant
-TRX Carnival Cinemas,entertainment
-SWIPE Reliance Fresh HYD,grocery
-UPI KFC INDIA,restaurant
-SQ *Reliance Digital INDIA,electronics
-SWIPE Walmart BLR,grocery
-SWIPE Air India HYD,airline
-SWIPE RedBus DEL,transport
-UPI BPCL HYD,fuel
-PAY KFC 001,restaurant
-PAY Croma DEL,electronics
-RedBus INDIA,transport
-IMPS NetMeds DEL,pharmacy
-SWIPE INOX,entertainment
-PAY Ola BLR,transport
-SWIPE Subway,restaurant
-TRX Shell DEL,fuel
-SQ *Croma INDIA,electronics
-IMPS BPCL,fuel
-IMPS NetMeds 001,pharmacy
-TRX Walmart DEL,grocery
-SQ *Vistara,airline
-UPI Blue Tokai 123,coffee_shop
-IMPS Walmart BLR,grocery
-Apple Store 123,electronics
-SWIPE BookMyShow,entertainment
-PAY BookMyShow INDIA,entertainment
-TRX Reliance Digital DEL,electronics
-TRX Third Wave Coffee 123,coffee_shop
-UPI Apollo Pharmacy DEL,pharmacy
-PAY PharmEasy 123,pharmacy
-IMPS Reliance Fresh,grocery
-SWIPE BPCL BLR,fuel
-UPI BPCL,fuel
-TRX Air India 123,airline
-IMPS Subway,restaurant
-PAY Flipkart,ecommerce
-SWIPE Reliance Fresh 001,grocery
-SWIPE GoFirst,airline
-TRX Carnival Cinemas 001,entertainment
-Amazon INDIA,ecommerce
-IMPS Vistara BLR,airline
-TRX Vistara HYD,airline
-SQ *GoFirst,airline
-IMPS BPCL DEL,fuel
-IMPS Blue Tokai INDIA,coffee_shop
-SQ *IndianOil 001,fuel
-SWIPE Nayara 001,fuel
-TRX PharmEasy 001,pharmacy
-SQ *Subway DEL,restaurant
-PharmEasy INDIA,pharmacy
-SWIPE Third Wave Coffee BLR,coffee_shop
-TRX INOX 001,entertainment
-TRX Meru,transport
-TRX NetMeds 001,pharmacy
-PAY Apollo Pharmacy 123,pharmacy
-SWIPE Blue Tokai,coffee_shop
-SWIPE Vijay Sales,electronics
-UPI NetMeds INDIA,pharmacy
-SQ *Amazon,ecommerce
-TRX Blue Tokai DEL,coffee_shop
-Nayara 001,fuel
-PAY Spencers HYD,grocery
-SQ *INOX 001,entertainment
-IMPS KFC INDIA,restaurant
-TRX Blue Tokai,coffee_shop
-SQ *DMart,grocery
-SWIPE PizzaHut INDIA,restaurant
-IMPS GoFirst INDIA,airline
-Dominos 001,restaurant
-SQ *KFC,restaurant
-SWIPE Rapido 123,transport
-UPI HPCL 123,fuel
-TRX Nayara INDIA,fuel
-IMPS Nayara INDIA,fuel
-TRX McDonalds INDIA,restaurant
-SWIPE Subway,restaurant
-TRX PVR Cinemas HYD,entertainment
-UPI HPCL DEL,fuel
-Vistara DEL,airline
-SQ *Barista INDIA,coffee_shop
-Carnival Cinemas,entertainment
-PAY Subway,restaurant
-PAY Reliance Fresh 123,grocery
-UPI Best Buy HYD,electronics
-McDonalds BLR,restaurant
-SWIPE Shell BLR,fuel
-SWIPE RedBus BLR,transport
-SWIPE KFC,restaurant
-SQ *Dominos 001,restaurant
-IMPS Vijay Sales,electronics
-SQ *MedPlus,pharmacy
-SWIPE Meru,transport
-Apple Store DEL,electronics
-SQ *Rapido 123,transport
-TRX Subway,restaurant
-IMPS Indigo INDIA,airline
-UPI Barista,coffee_shop
-PAY MedPlus INDIA,pharmacy
-IMPS Fun Cinemas BLR,entertainment
-UPI Dominos HYD,restaurant
-SWIPE CCD,coffee_shop
-PAY Croma,electronics
-UPI Reliance Digital,electronics
-TRX Flipkart 123,ecommerce
-IMPS Blue Tokai DEL,coffee_shop
-SQ *Vistara,airline
-IMPS Indigo INDIA,airline
-IMPS BPCL HYD,fuel
-UPI GoFirst,airline
-Vijay Sales INDIA,electronics
-TRX DMart,grocery
-SWIPE Blue Tokai,coffee_shop
-SQ *Best Buy,electronics
-UPI Reliance Fresh DEL,grocery
-IMPS CCD,coffee_shop
-UPI HPCL 001,fuel
-UPI Best Buy,electronics
-SWIPE Uber BLR,transport
-UPI BigBasket,grocery
-IMPS Apollo Pharmacy DEL,pharmacy
-PAY PizzaHut,restaurant
-TRX Apollo Pharmacy HYD,pharmacy
-PAY Air India,airline
-UPI CCD BLR,coffee_shop
-UPI Rapido INDIA,transport
-TRX Ajio DEL,ecommerce
-PAY 1MG,pharmacy
-INOX DEL,entertainment
-Ola INDIA,transport
-GoFirst BLR,airline
-TRX INOX HYD,entertainment
-PAY NetMeds,pharmacy
-Croma,electronics
-UPI Carnival Cinemas,entertainment
-IMPS KFC DEL,restaurant
-UPI Third Wave Coffee 001,coffee_shop
-UPI Ajio,ecommerce
-SQ *BPCL DEL,fuel
-IMPS HPCL DEL,fuel
-SWIPE Starbucks DEL,coffee_shop
-SWIPE Uber,transport
-SWIPE Rapido 123,transport
-IMPS Blue Tokai,coffee_shop
-UPI Best Buy,electronics
-SWIPE Walmart DEL,grocery
-SWIPE PizzaHut HYD,restaurant
-TRX RedBus 123,transport
-PAY Ajio INDIA,ecommerce
-UPI Spencers BLR,grocery
-SWIPE Dominos 123,restaurant
-PVR Cinemas INDIA,entertainment
-UPI Best Buy DEL,electronics
-PAY KFC 123,restaurant
-PAY Best Buy INDIA,electronics
-UPI DMart INDIA,grocery
-PAY Snapdeal INDIA,ecommerce
-SQ *Shell INDIA,fuel
-PAY BigBasket HYD,grocery
-UPI Subway BLR,restaurant
-SWIPE Rapido BLR,transport
-SWIPE MedPlus,pharmacy
-SQ *PizzaHut INDIA,restaurant
-IMPS Apple Store DEL,electronics
-SWIPE Air India BLR,airline
-IMPS CCD 123,coffee_shop
-SQ *Barista,coffee_shop
-SWIPE Shell DEL,fuel
-IMPS INOX,entertainment
-UPI NetMeds DEL,pharmacy
-SWIPE 1MG INDIA,pharmacy
-UPI Ola,transport
-SQ *Meru,transport
-UPI BPCL 123,fuel
-TRX KFC,restaurant
-PAY INOX INDIA,entertainment
-SWIPE Apollo Pharmacy,pharmacy
-UPI GoFirst,airline
-Air India,airline
-SWIPE Third Wave Coffee 123,coffee_shop
-1MG 001,pharmacy
-SWIPE SpiceJet DEL,airline
-SQ *Best Buy DEL,electronics
-SWIPE BookMyShow 123,entertainment
-UPI PharmEasy BLR,pharmacy
-SQ *Reliance Digital,electronics
-TRX KFC BLR,restaurant
-SQ *Subway BLR,restaurant
-TRX Third Wave Coffee,coffee_shop
-UPI CCD INDIA,coffee_shop
-PizzaHut 123,restaurant
-Ajio 001,ecommerce
-INOX HYD,entertainment
-SQ *Spencers INDIA,grocery
-SWIPE Snapdeal,ecommerce
-PAY Uber 001,transport
-SQ *Best Buy,electronics
-IMPS Apollo Pharmacy HYD,pharmacy
-IMPS Nayara DEL,fuel
-IMPS Uber BLR,transport
-SQ *SpiceJet INDIA,airline
-IMPS Ola 123,transport
-TRX BigBasket 001,grocery
-UPI Nayara,fuel
-SWIPE Meru 123,transport
-SQ *SpiceJet,airline
-PAY Croma BLR,electronics
-TRX Carnival Cinemas DEL,entertainment
-PAY Fun Cinemas 123,entertainment
-IMPS Third Wave Coffee INDIA,coffee_shop
-SWIPE Apollo Pharmacy DEL,pharmacy
-IMPS Spencers INDIA,grocery
-TRX IndianOil,fuel
-TRX NetMeds,pharmacy
-TRX IndianOil 001,fuel
-SQ *BPCL,fuel
-SWIPE NetMeds 123,pharmacy
-UPI Ajio 123,ecommerce
-Uber,transport
-RedBus INDIA,transport
-SQ *Apollo Pharmacy HYD,pharmacy
-PAY Vijay Sales DEL,electronics
-UPI Meru DEL,transport
-PAY Nayara 123,fuel
-Rapido 123,transport
-McDonalds BLR,restaurant
-TRX INOX INDIA,entertainment
-SQ *Myntra,ecommerce
-IMPS Reliance Digital,electronics
-SQ *RedBus HYD,transport
-SWIPE Spencers 123,grocery
-SQ *Subway BLR,restaurant
-SWIPE Shell HYD,fuel
-UPI Myntra 001,ecommerce
-SWIPE MedPlus 001,pharmacy
-TRX Starbucks,coffee_shop
-SWIPE RedBus HYD,transport
-TRX 1MG,pharmacy
-PAY CCD 123,coffee_shop
-PAY Ajio,ecommerce
-TRX BigBasket INDIA,grocery
-PAY Blue Tokai,coffee_shop
-IMPS GoFirst 123,airline
-IMPS HPCL DEL,fuel
-SQ *Rapido 001,transport
-SQ *RedBus HYD,transport
-SQ *BPCL DEL,fuel
-IMPS Dominos HYD,restaurant
-IMPS Uber DEL,transport
-SQ *Fun Cinemas 123,entertainment
-SQ *SpiceJet HYD,airline
-MedPlus BLR,pharmacy
-PAY Starbucks,coffee_shop
-SQ *Apple Store 123,electronics
-PAY SpiceJet 001,airline
-UPI Amazon 001,ecommerce
-UPI BookMyShow HYD,entertainment
-UPI Ola,transport
-TRX Spencers,grocery
-IMPS Carnival Cinemas BLR,entertainment
-PizzaHut HYD,restaurant
-TRX SpiceJet,airline
-SQ *Snapdeal,ecommerce
-UPI INOX BLR,entertainment
-IMPS Apple Store 001,electronics
-SQ *Reliance Fresh BLR,grocery
-UPI Flipkart HYD,ecommerce
-SQ *BookMyShow 123,entertainment
-SQ *CCD 001,coffee_shop
-IMPS Vistara DEL,airline
-IMPS Reliance Digital BLR,electronics
-UPI Meru 001,transport
-PAY BPCL HYD,fuel
-SQ *Rapido DEL,transport
-PAY Apollo Pharmacy DEL,pharmacy
-SQ *Reliance Digital BLR,electronics
-Carnival Cinemas,entertainment
-IMPS McDonalds,restaurant
-SQ *Third Wave Coffee BLR,coffee_shop
-UPI Spencers,grocery
-Snapdeal DEL,ecommerce
-TRX CCD BLR,coffee_shop
-UPI Best Buy HYD,electronics
-Reliance Fresh,grocery
-SQ *Amazon,ecommerce
-PAY Reliance Fresh,grocery
-Amazon,ecommerce
-PAY Air India BLR,airline
-SWIPE RedBus,transport
-TRX BPCL BLR,fuel
-SWIPE IndianOil DEL,fuel
-UPI Indigo HYD,airline
-SWIPE Croma,electronics
-Dominos HYD,restaurant
-UPI Third Wave Coffee 123,coffee_shop
-UPI PVR Cinemas 001,entertainment
-UPI Reliance Digital HYD,electronics
-SWIPE Walmart INDIA,grocery
-SQ *Snapdeal,ecommerce
-SQ *BigBasket 001,grocery
-PizzaHut,restaurant
-TRX SpiceJet BLR,airline
-SWIPE Walmart,grocery
-SQ *Spencers,grocery
-Spencers INDIA,grocery
-TRX Nayara DEL,fuel
-SQ *Starbucks 001,coffee_shop
-PAY Indigo,airline
-IMPS BPCL DEL,fuel
-SWIPE Ajio 123,ecommerce
-PAY PizzaHut BLR,restaurant
-IMPS KFC,restaurant
-IMPS Walmart HYD,grocery
-TRX BookMyShow,entertainment
-SQ *Air India 001,airline
-PAY Ola DEL,transport
-Subway BLR,restaurant
-IMPS CCD BLR,coffee_shop
-SQ *MedPlus,pharmacy
-UPI PharmEasy 123,pharmacy
-UPI Uber 123,transport
-TRX Walmart BLR,grocery
-IMPS Vijay Sales,electronics
-UPI GoFirst BLR,airline
-IMPS MedPlus,pharmacy
-UPI Reliance Digital INDIA,electronics
-SWIPE McDonalds,restaurant
-SQ *Third Wave Coffee,coffee_shop
-SWIPE Vijay Sales,electronics
-SQ *Apollo Pharmacy 123,pharmacy
-UPI Amazon DEL,ecommerce
-Ajio HYD,ecommerce
-UPI MedPlus DEL,pharmacy
-SWIPE Indigo INDIA,airline
-SQ *PharmEasy BLR,pharmacy
-Croma,electronics
-SWIPE Fun Cinemas 123,entertainment
-IMPS GoFirst,airline
-Indigo DEL,airline
-IMPS McDonalds,restaurant
-IMPS PVR Cinemas INDIA,entertainment
-SQ *Croma,electronics
-Amazon,ecommerce
-SWIPE Myntra DEL,ecommerce
-IMPS Flipkart,ecommerce
-TRX Carnival Cinemas,entertainment
-Ajio,ecommerce
-INOX,entertainment
-PAY BPCL,fuel
-BookMyShow,entertainment
-TRX MedPlus 001,pharmacy
-SWIPE CCD INDIA,coffee_shop
-PAY Ola INDIA,transport
-IMPS Flipkart 001,ecommerce
-TRX Ajio,ecommerce
-Blue Tokai INDIA,coffee_shop
-PAY Ajio,ecommerce
-IMPS PVR Cinemas,entertainment
-SWIPE Air India,airline
-TRX Flipkart HYD,ecommerce
-PharmEasy 001,pharmacy
-SWIPE Vistara BLR,airline
-TRX Apple Store BLR,electronics
-SQ *Flipkart,ecommerce
-SQ *MedPlus BLR,pharmacy
-TRX Best Buy,electronics
-UPI BookMyShow DEL,entertainment
-SQ *Shell HYD,fuel
-TRX Meru 001,transport
-IMPS 1MG BLR,pharmacy
-SQ *DMart DEL,grocery
-IMPS Starbucks DEL,coffee_shop
-Third Wave Coffee DEL,coffee_shop
-SWIPE Shell,fuel
-SQ *Flipkart BLR,ecommerce
-SQ *Uber,transport
-PAY GoFirst,airline
-UPI Vistara BLR,airline
-IMPS PizzaHut,restaurant
-PAY GoFirst HYD,airline
-SQ *Rapido 001,transport
-SQ *Reliance Fresh BLR,grocery
-IMPS INOX 001,entertainment
-SWIPE Apollo Pharmacy DEL,pharmacy
-IMPS CCD DEL,coffee_shop
-SQ *BigBasket 123,grocery
-SQ *Nayara 001,fuel
-UPI Walmart DEL,grocery
-UPI NetMeds,pharmacy
-UPI Reliance Digital 123,electronics
-SWIPE Myntra 001,ecommerce
-Air India 001,airline
-1MG 123,pharmacy
-TRX NetMeds,pharmacy
-PAY Blue Tokai,coffee_shop
-TRX SpiceJet,airline
-IMPS Spencers,grocery
-UPI Rapido 123,transport
-SWIPE PVR Cinemas DEL,entertainment
-McDonalds HYD,restaurant
-SWIPE Walmart BLR,grocery
-TRX Third Wave Coffee DEL,coffee_shop
-MedPlus,pharmacy
-SQ *BigBasket 123,grocery
-UPI Rapido,transport
-UPI IndianOil 001,fuel
-PAY Apple Store,electronics
-TRX SpiceJet,airline
-TRX BookMyShow,entertainment
-SQ *Reliance Fresh,grocery
-TRX HPCL 001,fuel
-IMPS Amazon,ecommerce
-Vijay Sales BLR,electronics
-SWIPE Meru 123,transport
-PAY Starbucks DEL,coffee_shop
-IMPS Nayara DEL,fuel
-SQ *Barista,coffee_shop
-SQ *Starbucks DEL,coffee_shop
-PAY BigBasket HYD,grocery
-SWIPE Amazon 123,ecommerce
-IMPS Rapido,transport
-SWIPE GoFirst DEL,airline
-SWIPE Reliance Fresh,grocery
-PVR Cinemas,entertainment
-Myntra DEL,ecommerce
-SQ *Subway,restaurant
-UPI Meru HYD,transport
-TRX Air India HYD,airline
-TRX Snapdeal DEL,ecommerce
-SWIPE 1MG,pharmacy
-Flipkart HYD,ecommerce
-IMPS Fun Cinemas DEL,entertainment
-KFC INDIA,restaurant
-IMPS Air India,airline
-SQ *BigBasket DEL,grocery
-SWIPE Amazon DEL,ecommerce
-TRX BookMyShow 123,entertainment
-PAY DMart,grocery
-Third Wave Coffee 123,coffee_shop
-TRX Reliance Fresh 001,grocery
-SQ *Uber,transport
-PAY Barista,coffee_shop
-TRX Flipkart 001,ecommerce
-SQ *Nayara DEL,fuel
-SWIPE PVR Cinemas HYD,entertainment
-IndianOil HYD,fuel
-BookMyShow 001,entertainment
-TRX Croma BLR,electronics
-UPI Vijay Sales,electronics
-UPI Snapdeal,ecommerce
-PAY Myntra,ecommerce
-SQ *CCD,coffee_shop
-NetMeds HYD,pharmacy
-PAY Air India INDIA,airline
-UPI Starbucks 001,coffee_shop
-SWIPE Spencers HYD,grocery
-SWIPE Rapido 123,transport
-SQ *Flipkart HYD,ecommerce
-SQ *Nayara BLR,fuel
-TRX Myntra,ecommerce
-TRX PizzaHut DEL,restaurant
-PAY Apple Store DEL,electronics
-UPI Carnival Cinemas 001,entertainment
-UPI Reliance Digital 123,electronics
-SQ *Amazon BLR,ecommerce
-SWIPE 1MG BLR,pharmacy
-Blue Tokai 001,coffee_shop
-PAY PizzaHut 123,restaurant
-PAY IndianOil,fuel
-SWIPE DMart INDIA,grocery
-IMPS Vijay Sales INDIA,electronics
-SQ *Barista HYD,coffee_shop
-TRX BigBasket BLR,grocery
-Ajio,ecommerce
-SQ *GoFirst 001,airline
-PAY Apple Store 001,electronics
-SQ *NetMeds 001,pharmacy
-UPI BPCL,fuel
+BOOKMYSHOW POS 70384,entertainment
+FLIPKART PAYMENT 65161,ecommerce
+RTGS BOOKMYSHOW INTL 85959,entertainment
+NETFLIX INV85798,entertainment
+IMPS CAFE COFFEE DAY 03-11-24 4045,dining
+CAFE COFFEE DAY PAYMENT 78380,dining
+BIGBAZAAR POS 47719,grocery
+BOOKMYSHOW POS 14888,entertainment
+POS AJIO - 67259,ecommerce
+FLIPKART SWIPE 55958,ecommerce
+RELIANCE DIGITAL 75150,ecommerce
+BUS TICKET - 74186,transport
+RELIANCE DIGITAL UPI 53986,electronics
+CRD RELIANCE DIGITAL TRF 53409,electronics
+MNMART ONLINE UPI 16476,ecommerce
+neft medplus kochi 21948,pharmacy
+NETFLIX ONLINE 7138,entertainment
+CRD HPCL PMTS 41044,fuel
+spotifyintl 76851,entertainment
+DBT AMAZON REFUND ONLINE 74117,refund
+BIGBAZAAR POS TRF 63838,grocery
+PAYTM MALL ONLINE 54401,ecommerce
+UPI BARISTA PMTS 30010,dining
+SQ * PHARMA LANE INV78002,pharmacy
+FLIPKART PMTS 31358,ecommerce
+swp mnmart online swipe 82150,ecommerce
+MAKE MY TRIP 18-03-25 78671,travel
+AMAZON MKTPLACE - 46216,ecommerce
+IMPS MEDPLUS POS 94190,pharmacy
+IMPS COFFEE DAY PAYMENT 74493,coffee_shop
+RTGS PHARMACY EMI 12514,pharmacy
+GROCERIES ONLINE PAYMENT 29963,grocery
+flipkart auto-debit 70361,ecommerce
+1MG TRF 64254,pharmacy
+MNMART ONLINE TRF 57133,ecommerce
+myntra emi 68703,ecommerce
+COFFEE BEAN PAYMENT 33486,coffee_shop
+UPI PETROL PUMP - 52536,fuel
+SQ * RELIANCE DIGITAL PMTS 33763,ecommerce
+pos google pay pos 79651,wallet
+PMTS CRED EMI INV1649,electronics
+LATTE HOUSE LUCKNOW 44781,coffee_shop
+SQ * MCDONALDS EMI 17700,dining
+APPLE ONLINE PMTS 29695,electronics
+SWIGGY TRF 29734,dining
+MNMART ONLINE UPI 15481,ecommerce
+SWIGGY POS 96383,dining
+metro card online 69778,transport
+DMART POS POS 76865,grocery
+CARD HOTSTAR INTL 38822,entertainment
+DBT REFUND INTL 762,refund
+IRCTC 47127,travel
+BUS TICKET ONLINE 74939,transport
+PMTS BUS TICKET 10131,transport
+ZOMATO INTL 98859,dining
+UBER TRIP EMI 88840,travel
+PHARMA LANE AUTO-DEBIT 41404,pharmacy
+SAMSUNG STORE ONLINE 73538,electronics
+AMAZON REFUND TRF 84670,refund
+CRD OLA INV49124,travel
+BHIM UPI - 66425,wallet
+BOOKMYSHOW JAIPUR 1096,entertainment
+NETFLIX - 34322,entertainment
+FLIPKART SWIPE 32842,ecommerce
+CRD BIGBAZAAR POS 08-10-24 78822,grocery
+upi mnmart online pos 66134,ecommerce
+PHONEPE BANGALORE 39669,wallet
+GROCERIES ONLINE POS 48845,grocery
+UPI JIO BILL TRF 51605,bills
+PHARMA LANE - 94558,pharmacy
+PHARMA LANE INTL 60366,pharmacy
+OLA PAYMENT 21793,travel
+NATURAL BAZAR SWIPE 98009,grocery
+CARD PHARMA LANE 26938,pharmacy
+card natural bazar swipe 1433,grocery
+MAKE MY TRIP SWIPE 55939,travel
+OLA INV90463,travel
+imps mnmart online pos 93183,ecommerce
+HOTSTAR - 23083,entertainment
+SWP APPLE ONLINE ONLINE 24374,electronics
+UBER TRIP EMI 8691,travel
+PAYTM MALL 20455,ecommerce
+UPI FLIPKART KOCHI 14054,ecommerce
+MYNTRA HYDERABAD 86317,ecommerce
+CRD 1MG 03-03-25 46601,pharmacy
+SPAR JAIPUR 96626,grocery
+ZOMATO EMI 95136,dining
+spar hyderabad 46452,grocery
+SAMSUNG STORE AUTO-DEBIT 76454,electronics
+PMTS SPAR SWIPE 5020,grocery
+PAYTM WALLET INTL 95681,wallet
+COFFEE DAY ONLINE 48453,coffee_shop
+COFFEE DAY EMI 62629,coffee_shop
+CRD SPAR 37204,grocery
+FLIPKART EMI 42325,ecommerce
+IMPS GROCERIES ONLINE AUTO-DEBIT 52497,grocery
+REFUND AUTO-DEBIT 62302,refund
+SWP GROCERIES ONLINE - 53825,grocery
+waterboardinv4140 9,bills
+PMTS BIGBAZAAR POS 90691,grocery
+DMART POS PAYMENT 10244,grocery
+AMAZON REFUND - 65498,refund
+OXFORD TAXI UPI 56463,travel
+DBT AJIO 81140,ecommerce
+POS AMAZON MKTPLACE INV73323,ecommerce
+BIGBAZAAR POS TRF 24154,grocery
+1MG POS 65748,pharmacy
+CAFE COFFEE DAY ONLINE 95289,dining
+medplus pmts 14268,pharmacy
+PHARMACY SWIPE 58419,pharmacy
+NATURAL BAZAR UPI 99627,grocery
+COFFEE BEAN - 76927,coffee_shop
+BHIM UPI PAYMENT 92862,wallet
+AJIO PAYMENT 96341,ecommerce
+IMPS CRED EMI HYDERABAD 53445,electronics
+FLIPKART - 20767,ecommerce
+NEFT SWIGGY PMTS 39993,dining
+uber trip hyderabad 18754,travel
+PAYTM MALL INV99388,ecommerce
+UPI NATURAL BAZAR 03-07-23 1753,grocery
+FLIPKART - 28273,ecommerce
+UPI OLA POS 19755,travel
+BARISTA BANGALORE 58162,dining
+MNMART ONLINE SWIPE 53028,ecommerce
+MNMART ONLINE TRF 27323,ecommerce
+COFFEE DAY 30-07-25 7114,coffee_shop
+SWIGGY SWIPE 18558,dining
+AJIO INTL 35465,ecommerce
+BUS TICKET AUTO-DEBIT 49150,transport
+PHARMA LANE 16-08-25 76222,pharmacy
+UPI NATURAL BAZAR UPI 4987,grocery
+RAILWAYS ONLINE 82488,transport
+JIO BILL POS 77764,bills
+BIGBAZAAR POS AUTO-DEBIT 6637,grocery
+SPOTIFY INTL 52494,entertainment
+OXFORD TAXI PMTS 62671,travel
+NETFLIX SWIPE 3859,entertainment
+HOTSTAR JAIPUR 54001,entertainment
+BOOKMYSHOW 56087,entertainment
+CARD BIGBAZAAR POS 19-04-25 26538,grocery
+UPI FLIPKART UPI 3935,ecommerce
+DBT AMAZON MKTPLACE POS 19770,ecommerce
+SWP BPCL ONLINE 23383,fuel
+BUS TICKET PAYMENT 88217,transport
+petrol pump 14-05-25 27261,fuel
+PETROL PUMP ONLINE 34624,fuel
+ZOMATO EMI 84273,dining
+BOOKMYSHOW INTL 30957,entertainment
+IMPS METRO CARD AUTO-DEBIT 59370,transport
+BHIM UPI UPI 95701,wallet
+OLA UPI 44223,travel
+ELECTRICITY BOARD EMI 15867,bills
+AIR INDIA 61745,travel
+mnmart online emi 20158,ecommerce
+MNMART ONLINE AUTO-DEBIT 45195,ecommerce
+flipkart pmts 72947,ecommerce
+PAYTM WALLET PMTS 32116,wallet
+POS MCDONALDS 3425,dining
+myntra - 62662,ecommerce
+ELECTRICITY BOARD POS 61973,bills
+NEFT BOOKMYSHOW 63059,entertainment
+imps starbucks inv94088,coffee_shop
+PHARMA LANE JAIPUR 45806,pharmacy
+CRD SPOTIFY ONLINE 84499,entertainment
+FLIPKART TRF 13206,ecommerce
+dbtdmartp os-24607,grocery
+PAYTM MALL KOCHI 96851,ecommerce
+PETROL PUMP ONLINE 15107,fuel
+FLIPKART PMTS 20758,ecommerce
+DMART POS INV42457,grocery
+FLIPKART TRF 41216,ecommerce
+AIRTEL BILLPAY PAYMENT 6570,bills
+COFFEE DAY 39294,coffee_shop
+POS OXFORD TAXI 22-08-24 35908,travel
+PETROL PUMP ONLINE 34292,fuel
+PHARMA LANE PMTS 70757,pharmacy
+RAILWAYS AUTO-DEBIT 72297,transport
+NATURAL BAZAR - 31952,grocery
+COFFEE DAY POS 91786,coffee_shop
+1MG UPI 11500,pharmacy
+PMTS 1MG AUTO-DEBIT 88517,pharmacy
+amazon mktplace - 23383,ecommerce
+airtel billpay 15-01-24 89507,bills
+irct-cintl10021,travel
+APPLE ONLINE INTL 70047,electronics
+POS CAFE COFFEE DAY PMTS 27065,dining
+AMAZON MKTPLACE PAYMENT 14102,ecommerce
+REFUND 74730,refund
+BPCL INV7486,fuel
+RTGS SPAR AUTO-DEBIT 46140,grocery
+IMPS HOTSTAR EMI 91903,entertainment
+RAILWAYS SWIPE 4117,transport
+SWP FLIPKART - 54035,ecommerce
+UBER TRIP POS 31735,travel
+LATTE HOUSE TRF 3241,coffee_shop
+medplus pmts 53948,pharmacy
+APPLE ONLINE UPI 7192,electronics
+AIRTEL BILLPAY SWIPE 57425,bills
+ZOMATO EMI 37638,dining
+POS GROCERIES ONLINE EMI 99027,grocery
+MEDPLUS SWIPE 73939,pharmacy
+AIRTEL BILLPAY SWIPE 6277,bills
+MEDPLUS 14-10-23 57145,pharmacy
+swp oxford taxi inv41054,travel
+BIGBAZAAR POS UPI 80811,grocery
+AJIO INV63149,ecommerce
+COFFEE BEAN PUNE 62973,coffee_shop
+AJIO 94592,ecommerce
+PAYTM MALL - 31342,ecommerce
+1MG 7816,pharmacy
+SQ * GOOGLE PAY 56109,wallet
+LATTE HOUSE TRF 15354,coffee_shop
+METRO CARD INTL 62909,transport
+BIGBAZAAR POS 22-07-24 78629,grocery
+MYNTRA ONLINE 99932,ecommerce
+PHONEPE PAYMENT 69460,wallet
+PHARMA LANE TRF 26984,pharmacy
+WATER BOARD - 59550,bills
+MEDPLUS PAYMENT 89542,pharmacy
+COFFEE DAY 75056,coffee_shop
+FLIPKART 11180,ecommerce
+POS AIR INDIA SWIPE 41236,travel
+RELIANCE DIGITAL ONLINE 55825,electronics
+MEDPLUS - 15209,pharmacy
+HPCL PAYMENT 75801,fuel
+POS PAYTM WALLET POS 36555,wallet
+PHARMACY INTL 81348,pharmacy
+CARD MNMART ONLINE BANGALORE 52452,ecommerce
+DMART POS - 29072,grocery
+LATTE HOUSE PAYMENT 35730,coffee_shop
+METRO CARD ONLINE 22758,transport
+AMAZON REFUND - 38861,refund
+REFUND 05-07-25 51113,refund
+PMTS COFFEE BEAN PAYMENT 99421,coffee_shop
+MNMART ONLINE ONLINE 42258,ecommerce
+IMPS UBER TRIP SWIPE 62126,travel
+MYNTRA TRF 85072,ecommerce
+IOC PETROL EMI 46461,fuel
+NATURAL BAZAR TRF 72510,grocery
+CARD MAKE MY TRIP INV76583,travel
+LATTE HOUSE PMTS 44570,coffee_shop
+UPI MEDPLUS PUNE 1273,pharmacy
+STARBUCKS ONLINE 95358,dining
+RTGS PAYTM MALL ONLINE 16965,ecommerce
+BUS TICKET POS 3110,transport
+FLIPKART INV12106,ecommerce
+GROCERIES ONLINE UPI 99843,grocery
+GROCERIES ONLINE PMTS 36076,grocery
+DBT CAFE COFFEE DAY 78756,dining
+RTGS MCDONALDS UPI 44218,dining
+GROCERIES ONLINE JAIPUR 8234,grocery
+SWIGGY UPI 79074,dining
+NEFT SPOTIFY PAYMENT 92449,entertainment
+APPLE ONLINE TRF 66260,electronics
+RELIANCE DIGITAL 31-08-24 8789,ecommerce
+MEDPLUS PAYMENT 40587,pharmacy
+petrol pump trf 70285,fuel
+RAILWAYS INTL 995,transport
+BIGBAZAAR POS POS 1735,grocery
+BOOKMYSHOW INTL 93746,entertainment
+DBT ZOMATO TRF 17147,dining
+CAFE COFFEE DAY ONLINE 52720,dining
+REFUND ONLINE 53529,refund
+IOC PETROL ONLINE 99191,fuel
+FLIPKART PMTS 65533,ecommerce
+SWP PETROL PUMP POS 5551,fuel
+AMAZON REFUND SWIPE 58123,refund
+hotstar pmts 22215,entertainment
+RTGS PAYTM WALLET - 70421,wallet
+OXFORD TAXI TRF 1752,travel
+MNMART ONLINE ONLINE 64971,ecommerce
+payback refund swipe 3056,refund
+GROCERIES ONLINE AUTO-DEBIT 23096,grocery
+DMART POS POS 45458,grocery
+IMPS MCDONALDS INV26179,dining
+CARD MYNTRA PMTS 85072,ecommerce
+UPI BARISTA PMTS 5073,dining
+CARD BSES AUTO-DEBIT 90321,bills
+UPI REFUND AUTO-DEBIT 17780,refund
+CARD IOC PETROL AUTO-DEBIT 38169,fuel
+PAYTM WALLET UPI 9466,wallet
+BHIM UPI INTL 84206,wallet
+rtgs spotify trf 25845,entertainment
+NATURAL BAZAR PAYMENT 52463,grocery
+PHARMACY SWIPE 80680,pharmacy
+CRD INDIGO AIR AUTO-DEBIT 31601,travel
+POS AMAZON MKTPLACE INV8745,ecommerce
+MCDONALDS INV28147,dining
+sq * spar swipe 33165,grocery
+PAYBACK REFUND POS 20449,refund
+STARBUCKS INV94780,coffee_shop
+CRD BHIM UPI SWIPE 32057,wallet
+SWP BSES INTL 29115,bills
+STARBUCKS EMI 74859,coffee_shop
+CRD SPAR BANGALORE 82614,grocery
+APPLE ONLINE PMTS 49082,electronics
+MCDONALDS AUTO-DEBIT 97458,dining
+AJIO 36205,ecommerce
+rtgsl attehousepos79076,coffee_shop
+BSES CHENNAI 43292,bills
+SPOTIFY PAYMENT 66022,entertainment
+AMAZON REFUND AUTO-DEBIT 31908,refund
+RELIANCE DIGITAL - 19683,ecommerce
+AJIO PAYMENT 74255,ecommerce
+DMART POS 58414,grocery
+NEFT PHARMA LANE INTL 35745,pharmacy
+MYNTRA INV65880,ecommerce
+NEFT SAMSUNG STORE - 83998,electronics
+google pay kochi 14313,wallet
+MCDONALDS PAYMENT 89308,dining
+MEDPLUS TRF 28783,pharmacy
+pos cred emi upi 91341,electronics
+MYNTRA PMTS 84645,ecommerce
+RTGS BIGBAZAAR POS INTL 71482,grocery
+paytm mall - 39538,ecommerce
+PMTS BARISTA AUTO-DEBIT 94309,dining
+STARBUCKS PMTS 36900,coffee_shop
+COFFEE DAY 22-03-25 79688,coffee_shop
+SQ * LATTE HOUSE EMI 67044,coffee_shop
+starbucks pos 68396,dining
+REFUND AUTO-DEBIT 66690,refund
+1MG POS 17215,pharmacy
+NETFLIX INV53960,entertainment
+PHONEPE 26-05-23 66887,wallet
+STARBUCKS CHENNAI 12354,coffee_shop
+PAYTM MALL POS 31434,ecommerce
+SWP SAMSUNG STORE - 99382,electronics
+metro card jaipur 10061,transport
+SQ * PAYTM MALL TRF 75857,ecommerce
+MCDONALDS 07-09-24 60334,dining
+dmart pos online 88701,grocery
+FLIPKART ONLINE 9105,ecommerce
+JIO BILL PMTS 63267,bills
+POS AMAZON MKTPLACE 25-10-24 13984,ecommerce
+UPI NATURAL BAZAR TRF 31009,grocery
+CRD BARISTA 40860,dining
+SWP PHONEPE 73918,wallet
+LATTE HOUSE POS 73819,coffee_shop
+SWIGGY TRF 39533,dining
+pay-tmwallet49810,wallet
+GROCERIES ONLINE BANGALORE 76149,grocery
+PHARMACY UPI 72378,pharmacy
+SQ * BARISTA TRF 4001,dining
+SWP HOTSTAR EMI 50539,entertainment
+BIGBAZAAR POS PMTS 68207,grocery
+OXFORD TAXI ONLINE 12360,travel
+1MG AUTO-DEBIT 45528,pharmacy
+SWP BARISTA INTL 18212,dining
+OLA INV89995,travel
+GOOGLE PAY EMI 2914,wallet
+GROCERIES ONLINE PMTS 89800,grocery
+HOTSTAR POS 24508,entertainment
+CARD REFUND - 28166,refund
+crd spar - 8868,grocery
+SWP 1MG SWIPE 26413,pharmacy
+COFFEE BEAN - 43294,coffee_shop
+IMPS PHONEPE ONLINE 16658,wallet
+IMPS PHARMACY 42319,pharmacy
+HPCL PAYMENT 99074,fuel
+AMAZON MKTPLACE PAYMENT 56319,ecommerce
+CAFE COFFEE DAY 47152,dining
+PMTS RAILWAYS BANGALORE 19826,transport
+SQ * AMAZON MKTPLACE POS 85246,ecommerce
+CARD PETROL PUMP PMTS 46340,fuel
+RTGS OXFORD TAXI 66545,travel
+PAYTM MALL PUNE 48046,ecommerce
+CRD MEDPLUS INV16072,pharmacy
+pmts coffee day 18-09-23 88191,coffee_shop
+JIO BILL - 57812,bills
+BARISTA LUCKNOW 93287,dining
+MYNTRA PAYMENT 34954,ecommerce
+SPOTIFY - 12531,entertainment
+PHARMACY INTL 23367,pharmacy
+1MG PAYMENT 25037,pharmacy
+GROCERIES ONLINE POS 86510,grocery
+OXFORD TAXI INV8653,travel
+IMPS PHARMA LANE TRF 46795,pharmacy
+AMAZON MKTPLACE INV59548,ecommerce
+amazon mktplace emi 58640,ecommerce
+cafe coffee day 10-03-23 99178,dining
+DMART POS 8422,grocery
+DBT AJIO 98448,ecommerce
+RELIANCE DIGITAL AUTO-DEBIT 17285,ecommerce
+INDANE FUEL TRF 62860,fuel
+upi amazon mktplace payment 76571,ecommerce
+BIGBAZAAR POS EMI 45364,grocery
+SWP MEDPLUS AUTO-DEBIT 74521,pharmacy
+starbucks pos 64171,dining
+AJIO EMI 43847,ecommerce
+sq*petrolpumpinv447 86,fuel
+DMART POS PMTS 2309,grocery
+reliance digital inv12698,ecommerce
+AJIO UPI 5059,ecommerce
+BIGBAZAAR POS INTL 98921,grocery
+DMART POS UPI 74401,grocery
+COFFEE BEAN INV23388,coffee_shop
+BHIM UPI UPI 66637,wallet
+cafe coffee day chennai 46903,dining
+UBER TRIP INTL 56661,travel
+RELIANCE DIGITAL PMTS 41833,electronics
+UPI STARBUCKS AUTO-DEBIT 981,dining
+COFFEE BEAN UPI 5052,coffee_shop
+AMAZON REFUND 73023,refund
+DBT RELIANCE DIGITAL TRF 85189,electronics
+RAILWAYS SWIPE 19024,transport
+WATER BOARD 95841,bills
+UPI RELIANCE DIGITAL SWIPE 48344,electronics
+RELIANCE DIGITAL LUCKNOW 56278,electronics
+MNMART ONLINE INV5670,ecommerce
+AIR INDIA INTL 84464,travel
+BUS TICKET SWIPE 78338,transport
+STARBUCKS ONLINE 73378,dining
+STARBUCKS - 3361,dining
+PHONEPE INV59411,wallet
+RTGS ELECTRICITY BOARD - 47084,bills
+bar*istapos14890,dining
+AIR INDIA 26-12-24 76242,travel
+MYNTRA AUTO-DEBIT 27969,ecommerce
+UPI AJIO SWIPE 44362,ecommerce
+JIO BILL AUTO-DEBIT 77549,bills
+METRO CARD TRF 39207,transport
+DMART POS POS 52189,grocery
+NEFT HOTSTAR ONLINE 87593,entertainment
+RAILWAYS HYDERABAD 77714,transport
+RELIANCE DIGITAL POS 92586,ecommerce
+CRED EMI 12-07-23 45025,electronics
+upi amazon mktplace inv59109,ecommerce
+APPLE ONLINE PAYMENT 57313,electronics
+AJIO ONLINE 13280,ecommerce
+HOTSTAR UPI 14706,entertainment
+PMTS PETROL PUMP - 88824,fuel
+PMTS MYNTRA EMI 79792,ecommerce
+RAILWAYS TRF 97365,transport
+HOTSTAR PMTS 52896,entertainment
+MEDPLUS PMTS 13576,pharmacy
+AMAZON REFUND ONLINE 3046,refund
+AMAZON MKTPLACE LUCKNOW 71085,ecommerce
+NATURAL BAZAR 30-04-25 48454,grocery
+PETROL PUMP 13317,fuel
+SPOTIFY INV75673,entertainment
+NEFT GOOGLE PAY AUTO-DEBIT 79551,wallet
+SPAR PAYMENT 87545,grocery
+CRED EMI LUCKNOW 98591,electronics
+CAFE COFFEE DAY INTL 91490,dining
+PMTS PHARMA LANE - 78252,pharmacy
+RELIANCE DIGITAL ONLINE 84619,ecommerce
+RELIANCE DIGITAL POS 94124,ecommerce
+neftamazonmktplac-eauto-debit41836,ecommerce
+ELECTRICITY BOARD 70088,bills
+NATURAL BAZAR TRF 63585,grocery
+GROCERIES ONLINE UPI 41308,grocery
+CRED EMI UPI 91912,electronics
+PETROL PUMP ONLINE 97219,fuel
+SPOTIFY PMTS 81718,entertainment
+NEFT SPAR INTL 44920,grocery
+DBT AMAZON MKTPLACE EMI 55728,ecommerce
+SPOTIFY SWIPE 25232,entertainment
+PAYTM MALL POS 73167,ecommerce
+NETFLIX PMTS 42063,entertainment
+AMAZON MKTPLACE MUMBAI 20856,ecommerce
+STARBUCKS 17375,coffee_shop
+IMPS BIGBAZAAR POS INV39162,grocery
+PHONEPE PAYMENT 28012,wallet
+MCDONALDS - 94151,dining
+PHARMACY AUTO-DEBIT 2177,pharmacy
+JIO BILL - 49285,bills
+DMART POS AUTO-DEBIT 96205,grocery
+IMPS BOOKMYSHOW INV69448,entertainment
+JIO BILL UPI 82567,bills
+PHARMACY 48047,pharmacy
+UBER TRIP TRF 97882,travel
+LATTE HOUSE SWIPE 19841,coffee_shop
+ZOMATO 80008,dining
+NATURAL BAZAR POS 84420,grocery
+UPI IOC PETROL 84356,fuel
+PHARMACY KOCHI 15201,pharmacy
+BSES PAYMENT 92793,bills
+MYNTRA INTL 30245,ecommerce
+spar online 95409,grocery
+ZOMATO EMI 17917,dining
+OLA 41684,travel
+SPOTIFY TRF 50274,entertainment
+GROCERIES ONLINE INV16320,grocery
+BPCL 38998,fuel
+RELIANCE DIGITAL INV38047,ecommerce
+GROCERIES ONLINE ONLINE 87623,grocery
+RTGS IRCTC INV82613,travel
+DMART POS TRF 73705,grocery
+GROCERIES ONLINE PAYMENT 94293,grocery
+OLA ONLINE 90998,travel
+UPI INDANE FUEL SWIPE 74952,fuel
+GROCERIES ONLINE AUTO-DEBIT 89488,grocery
+DMART POS ONLINE 46355,grocery
+DMART POS AUTO-DEBIT 83182,grocery
+BOOKMYSHOW UPI 41153,entertainment
+RELIANCE DIGITAL UPI 49341,ecommerce
+RTGS JIO BILL SWIPE 55889,bills
+BHIM UPI UPI 63957,wallet
+RAILWAYS - 1234,transport
+MEDPLUS PAYMENT 24933,pharmacy
+MEDPLUS UPI 32166,pharmacy
+APPLE ONLINE UPI 67567,electronics
+AMAZON MKTPLACE ONLINE 67994,ecommerce
+PAYTM MALL POS 23519,ecommerce
+phonepeintl7 7570,wallet
+NATURAL BAZAR MUMBAI 73619,grocery
+PHARMACY - 68246,pharmacy
+RAILWAYS ONLINE 45878,transport
+CARD PAYTM MALL ONLINE 92701,ecommerce
+neftgooglepayauto- debit295,wallet
+HOTSTAR 81307,entertainment
+MNMART ONLINE TRF 32543,ecommerce
+SPAR INV27121,grocery
+reliance digital pmts 73287,ecommerce
+pho-nepepayment55455,wallet
+CRED EMI AUTO-DEBIT 76613,electronics
+SAMSUNG STORE PMTS 88681,electronics
+MNMART ONLINE EMI 65614,ecommerce
+AMAZON REFUND INV52645,refund
+CRD BOOKMYSHOW POS 14308,entertainment
+1MG INTL 8851,pharmacy
+COFFEE BEAN TRF 17302,coffee_shop
+DMART POS POS 24436,grocery
+GROCERIES ONLINE UPI 51513,grocery
+REFUND - 46491,refund
+DBT MAKE MY TRIP UPI 29492,travel
+PAYTM MALL TRF 45843,ecommerce
+STARBUCKS AUTO-DEBIT 10576,coffee_shop
+ZOMATO ONLINE 62770,dining
+UPI HOTSTAR PMTS 61862,entertainment
+AJIO TRF 73493,ecommerce
+RELIANCE DIGITAL GOA 40276,ecommerce
+SQ * PAYBACK REFUND - 94569,refund
+IOC PETROL SWIPE 12671,fuel
+BSES INTL 59134,bills
+INDANE FUEL AUTO-DEBIT 8977,fuel
+SPAR SWIPE 28795,grocery
+AJIO 29-10-23 84139,ecommerce
+CARD BPCL ONLINE 54519,fuel
+BHIM UPI POS 65933,wallet
+RELIANCE DIGITAL MUMBAI 14523,ecommerce
+PHARMACY 29-01-24 74356,pharmacy
+GROCERIES ONLINE PMTS 42594,grocery
+FLIPKART PAYMENT 79903,ecommerce
+CAFE COFFEE DAY 29-12-23 47344,dining
+netflix572-61,entertainment
+PMTS UBER TRIP 15-01-24 94299,travel
+GROCERIES ONLINE POS 66477,grocery
+AMAZON REFUND INV33328,refund
+BOOKMYSHOW POS 77941,entertainment
+GROCERIES ONLINE INV69419,grocery
+barista auto-debit 878,dining
+SQ * MCDONALDS PAYMENT 86989,dining
+LATTE HOUSE 08-04-25 67204,coffee_shop
+FLIPKART GOA 58730,ecommerce
+SWP PAYTM MALL INTL 59512,ecommerce
+BUS TICKET INV62234,transport
+BPCL SWIPE 53349,fuel
+natural bazar online 42251,grocery
+PAYTM WALLET ONLINE 8700,wallet
+MEDPLUS INTL 95003,pharmacy
+bus ticket emi 70722,transport
+DMART POS POS 97936,grocery
+coffee day payment 99549,coffee_shop
+BHIM UPI EMI 21731,wallet
+STARBUCKS UPI 49462,dining
+MAKE MY TRIP 05-03-25 60336,travel
+BPCL - 35369,fuel
+PAYTM MALL PMTS 52963,ecommerce
+METRO CARD INTL 26399,transport
+WATER BOARD INV21492,bills
+PAYTM MALL LUCKNOW 87659,ecommerce
+MYNTRA EMI 43540,ecommerce
+indigo air 16467,travel
+air india - 48408,travel
+MYNTRA INV73599,ecommerce
+ZOMATO ONLINE 41825,dining
+PAYBACK REFUND PMTS 59143,refund
+AMAZON MKTPLACE 43750,ecommerce
+PAYBACK REFUND INTL 3005,refund
+MNMART ONLINE PAYMENT 57272,ecommerce
+PHONEPE PAYMENT 57334,wallet
+DMART POS PMTS 51517,grocery
+FLIPKART SWIPE 46370,ecommerce
+MAKE MY TRIP TRF 22974,travel
+COFFEE DAY PAYMENT 17053,coffee_shop
+SAMSUNG STORE - 62265,electronics
+RELIANCE DIGITAL POS 76137,ecommerce
+AMAZON MKTPLACE ONLINE 60037,ecommerce
+RAILWAYS 24-07-23 29787,transport
+BARISTA INTL 38395,dining
+HOTSTAR AUTO-DEBIT 79409,entertainment
+SWIGGY PMTS 34414,dining
+LATTE HOUSE POS 32123,coffee_shop
+AMAZON MKTPLACE EMI 47500,ecommerce
+COFFEE BEAN EMI 43421,coffee_shop
+rtgs mnmart online emi 55453,ecommerce
+RAILWAYS MUMBAI 98802,transport
+MNMART ONLINE - 64175,ecommerce
+CRED EMI UPI 77898,electronics
+1MG SWIPE 78725,pharmacy
+AMAZON REFUND TRF 43537,refund
+OLA SWIPE 50794,travel
+SPAR EMI 31479,grocery
+SPOTIFY DELHI 9262,entertainment
+BSES TRF 49018,bills
+GROCERIES ONLINE 80436,grocery
+GOOGLE PAY TRF 13682,wallet
+AMAZON MKTPLACE 15-10-24 87694,ecommerce
+LATTE HOUSE 07-08-25 41542,coffee_shop
+RELIANCE DIGITAL LUCKNOW 47752,electronics
+PHONEPE EMI 58465,wallet
+starbucks trf 89725,coffee_shop
+SAMSUNG STORE PMTS 51927,electronics
+AIR INDIA 19-06-23 10003,travel
+phonepe pos 55525,wallet
+RELIANCE DIGITAL CHENNAI 21311,ecommerce
+AJIO 18-01-24 16518,ecommerce
+BHIM UPI SWIPE 43648,wallet
+PHONEPE 13-05-25 89031,wallet
+starbucks 22-12-24 45440,dining
+PHARMACY PAYMENT 48880,pharmacy
+NEFT HPCL 31-03-24 9978,fuel
+PMTS 1MG INTL 62165,pharmacy
+SQ * MNMART ONLINE PAYMENT 54419,ecommerce
+SQ * APPLE ONLINE ONLINE 52645,electronics
+DBT RELIANCE DIGITAL - 96978,ecommerce
+PAYTM MALL PUNE 2074,ecommerce
+IMPS DMART POS UPI 93527,grocery
+BARISTA PAYMENT 66446,dining
+NATURAL BAZAR POS 35332,grocery
+AJIO PMTS 50282,ecommerce
+POS SPOTIFY AUTO-DEBIT 30520,entertainment
+SPAR TRF 98128,grocery
+CRD RELIANCE DIGITAL PMTS 53604,electronics
+MNMART ONLINE PAYMENT 86752,ecommerce
+MNMART ONLINE EMI 11190,ecommerce
+AMAZON MKTPLACE INV24767,ecommerce
+DMART POS PAYMENT 71102,grocery
+MEDPLUS EMI 31402,pharmacy
+SQ * COFFEE DAY AUTO-DEBIT 93332,coffee_shop
+SAMSUNG STORE PAYMENT 52635,electronics
+MCDONALDS 24-10-24 26211,dining
+POS DMART POS 76789,grocery
+sq * jio bill bangalore 93293,bills
+AJIO INTL 88774,ecommerce
+BIGBAZAAR POS AUTO-DEBIT 47736,grocery
+BSES SWIPE 82445,bills
+BUS TICKET PMTS 2356,transport
+CRD NETFLIX TRF 52771,entertainment
+latte house 08-06-24 32307,coffee_shop
+BSES SWIPE 37610,bills
+RELIANCE DIGITAL PMTS 41100,ecommerce
+RTGS JIO BILL INTL 15913,bills
+AJIO POS 14339,ecommerce
+RELIANCE DIGITAL PAYMENT 44839,electronics
+HPCL INV70384,fuel
+AIRTEL BILLPAY UPI 25774,bills
+CAFE COFFEE DAY INTL 65112,dining
+MAKE MY TRIP INTL 17308,travel
+IMPS PHONEPE 11-08-24 23917,wallet
+METRO CARD POS 97511,transport
+AMAZON MKTPLACE - 36908,ecommerce
+DBT AMAZON MKTPLACE AUTO-DEBIT 79333,ecommerce
+1MG SWIPE 48326,pharmacy
+AJIO POS 55182,ecommerce
+GOOGLE PAY UPI 59492,wallet
+UPI BHIM UPI ONLINE 51885,wallet
+AJIO AUTO-DEBIT 55908,ecommerce
+petrolpumpi-nv96582,fuel
+FLIPKART AUTO-DEBIT 47007,ecommerce
+NEFT SAMSUNG STORE INV17421,electronics
+PAYTM MALL 23-01-24 41150,ecommerce
+MCDONALDS TRF 86726,dining
+PAYTM MALL UPI 53880,ecommerce
+SPAR 16-01-24 61602,grocery
+starbucks inv98595,dining
+CRD NETFLIX UPI 38897,entertainment
+PAYTM MALL SWIPE 98387,ecommerce
+JIO BILL MUMBAI 99726,bills
+LATTE HOUSE POS 3525,coffee_shop
+BOOKMYSHOW INTL 20387,entertainment
+PETROL PUMP SWIPE 61915,fuel
+BOOKMYSHOW PMTS 96143,entertainment
+COFFEE DAY AUTO-DEBIT 75452,coffee_shop
+PMTS CAFE COFFEE DAY AUTO-DEBIT 72678,dining
+BUS TICKET INV51295,transport
+swiggyonline5611-5,dining
+RELIANCE DIGITAL UPI 42384,ecommerce
+REFUND SWIPE 40803,refund
+1MG EMI 10955,pharmacy
+FLIPKART 75346,ecommerce
+SPAR PMTS 22627,grocery
+POS FLIPKART - 67212,ecommerce
+SWIGGY TRF 42047,dining
+amazon mktplace 08-11-25 44228,ecommerce
+SWP BIGBAZAAR POS 20-06-25 25219,grocery
+NEFT AMAZON REFUND INV1560,refund
+DMART POS EMI 5608,grocery
+RELIANCE DIGITAL POS 17483,ecommerce
+BHIM UPI HYDERABAD 21500,wallet
+GROCERIES ONLINE POS 64569,grocery
+IMPS AJIO PMTS 96012,ecommerce
+STARBUCKS INV55035,dining
+AMAZON REFUND - 59905,refund
+ELECTRICITY BOARD PMTS 3153,bills
+CARD PHARMA LANE 36704,pharmacy
+BIGBAZAAR POS UPI 60311,grocery
+cafe coffee day jaipur 48270,dining
+IMPS PAYBACK REFUND EMI 95715,refund
+POS LATTE HOUSE INTL 35059,coffee_shop
+PHONEPE PAYMENT 95714,wallet
+GROCERIES ONLINE PMTS 79244,grocery
+ZOMATO EMI 75360,dining
+BSES AUTO-DEBIT 83184,bills
+RELIANCE DIGITAL SWIPE 61413,ecommerce
+COFFEE DAY INV77933,coffee_shop
+PAYTM MALL ONLINE 48182,ecommerce
+SPOTIFY UPI 57618,entertainment
+AMAZON MKTPLACE PAYMENT 24985,ecommerce
+CARD BUS TICKET UPI 41761,transport
+card myntra upi 31472,ecommerce
+NEFT OLA INV38252,travel
+CARD IOC PETROL SWIPE 24173,fuel
+PMTS REFUND AUTO-DEBIT 918,refund
+SQ * PAYTM WALLET UPI 14147,wallet
+crd zomato auto-debit 40406,dining
+POS HOTSTAR 25-03-24 22630,entertainment
+FLIPKART POS 72728,ecommerce
+MNMART ONLINE PMTS 86314,ecommerce
+BARISTA INTL 90160,dining
+NATURAL BAZAR PAYMENT 89093,grocery
+PHONEPE - 33691,wallet
+SWP DMART POS PMTS 91918,grocery
+NEFT AIRTEL BILLPAY 4502,bills
+bigbazaar pos auto-debit 39334,grocery
+MYNTRA UPI 85930,ecommerce
+MYNTRA TRF 47270,ecommerce
+BIGBAZAAR POS - 42569,grocery
+CRD MEDPLUS 68563,pharmacy
+MYNTRA BANGALORE 24667,ecommerce
+BARISTA PMTS 83664,dining
+AMAZON MKTPLACE AUTO-DEBIT 49565,ecommerce
+1MG ONLINE 99278,pharmacy
+PMTS RAILWAYS EMI 66949,transport
+DBT MNMART ONLINE PMTS 86158,ecommerce
+HOTSTAR EMI 59036,entertainment
+AMAZON MKTPLACE AUTO-DEBIT 72271,ecommerce
+AMAZON REFUND INTL 28904,refund
+NETFLIX UPI 75899,entertainment
+CAFE COFFEE DAY EMI 25264,dining
+NATURAL BAZAR PAYMENT 67963,grocery
+MCDONALDS UPI 10911,dining
+oxford taxi online 40785,travel
+RTGS AJIO TRF 38596,ecommerce
+SPAR DELHI 81011,grocery
+PAYBACK REFUND TRF 45312,refund
+pmts paytm mall auto-debit 24325,ecommerce
+coffee bean upi 29984,coffee_shop
+NATURAL BAZAR PMTS 37103,grocery
+MNMART ONLINE PMTS 81789,ecommerce
+WATER BOARD - 54061,bills
+pmts natural bazar upi 75856,grocery
+DBT NETFLIX - 60652,entertainment
+ajio payment 28813,ecommerce
+bses inv31569,bills
+BUS TICKET PUNE 50232,transport
+IMPS COFFEE DAY INTL 45159,coffee_shop
+DBT INDIGO AIR UPI 72917,travel
+pmts spotify upi 46877,entertainment
+STARBUCKS PAYMENT 44635,dining
+NATURAL BAZAR INTL 97158,grocery
+LATTE HOUSE AUTO-DEBIT 61226,coffee_shop
+BOOKMYSHOW TRF 60428,entertainment
+NEFT LATTE HOUSE INV71940,coffee_shop
+pmtsspotify28 502,entertainment
+CRD BSES - 55875,bills
+BARISTA 05-07-24 70062,dining
+APPLE ONLINE 49309,electronics
+INDANE FUEL PAYMENT 32749,fuel
+dmart pos payment 8478,grocery
+STARBUCKS UPI 88602,coffee_shop
+PMTS SPAR ONLINE 73712,grocery
+UBER TRIP 40695,travel
+MYNTRA AUTO-DEBIT 41202,ecommerce
+METRO CARD 56432,transport
+BUS TICKET PUNE 86246,transport
+AMAZON REFUND SWIPE 56804,refund
+COFFEE DAY AUTO-DEBIT 81849,coffee_shop
+POS METRO CARD UPI 51591,transport
+SPOTIFY INV53611,entertainment
+AMAZON MKTPLACE INTL 39813,ecommerce
+STARBUCKS 03-05-25 47344,dining
+mcdonalds trf 60431,dining
+MNMART ONLINE ONLINE 22096,ecommerce
+BARISTA TRF 29425,dining
+BIGBAZAAR POS TRF 1453,grocery
+MYNTRA SWIPE 70258,ecommerce
+AMAZON REFUND TRF 28034,refund
+FLIPKART TRF 73249,ecommerce
+PAYBACK REFUND ONLINE 23330,refund
+MEDPLUS MUMBAI 63990,pharmacy
+BARISTA INV12392,dining
+INDIGO AIR SWIPE 67718,travel
+flipkart payment 9220,ecommerce
+pos hpcl inv75965,fuel
+GROCERIES ONLINE JAIPUR 58027,grocery
+IMPS BIGBAZAAR POS UPI 17581,grocery
+SPAR AUTO-DEBIT 68398,grocery
+HOTSTAR 48269,entertainment
+RELIANCE DIGITAL PMTS 95807,electronics
+hotstar auto-debit 68662,entertainment
+RELIANCE DIGITAL 17-04-24 34781,ecommerce
+UPI MEDPLUS 06-04-25 14535,pharmacy
+IOC PETROL POS 33938,fuel
+credemipos 38082,electronics
+HOTSTAR AUTO-DEBIT 98419,entertainment
+mnmart online intl 61137,ecommerce
+IOC PETROL INV28224,fuel
+google pay auto-debit 88610,wallet
+AJIO 01-09-25 30420,ecommerce
+SPAR ONLINE 82308,grocery
+COFFEE BEAN AUTO-DEBIT 53126,coffee_shop
+AJIO MUMBAI 61578,ecommerce
+RELIANCE DIGITAL AUTO-DEBIT 9318,electronics
+LATTE HOUSE POS 37429,coffee_shop
+mnmart online lucknow 69003,ecommerce
+dmart pos pmts 15871,grocery
+BARISTA TRF 55504,dining
+CARD BSES EMI 29244,bills
+MNMART ONLINE POS 94464,ecommerce
+POS MYNTRA - 42398,ecommerce
+NATURAL BAZAR - 93104,grocery
+SAMSUNG STORE POS 39689,electronics
+PHARMACY AUTO-DEBIT 53938,pharmacy
+RELIANCE DIGITAL UPI 25217,electronics
+mnmartonl*inetrf3678,ecommerce
+METRO CARD JAIPUR 42899,transport
+CRED EMI AUTO-DEBIT 37837,electronics
+AJIO PMTS 61871,ecommerce
+FLIPKART INV74599,ecommerce
+OLA AUTO-DEBIT 77677,travel
+NATURAL BAZAR UPI 94091,grocery
+RTGS METRO CARD PMTS 32931,transport
+COFFEE DAY TRF 6333,coffee_shop
+AMAZON REFUND 16-04-24 587,refund
+CARD PHONEPE INTL 60181,wallet
+BUS TICKET PUNE 47417,transport
+POS MNMART ONLINE TRF 67220,ecommerce
+CRED EMI POS 50121,electronics
+BHIM UPI 7331,wallet
+CRD AMAZON MKTPLACE ONLINE 9635,ecommerce
+NATURAL BAZAR SWIPE 14810,grocery
+STARBUCKS TRF 68233,dining
+SAMSUNG STORE 24-05-23 44942,electronics
+FLIPKART - 94188,ecommerce
+FLIPKART - 21171,ecommerce
+HPCL PMTS 12150,fuel
+PHARMACY DELHI 60912,pharmacy
+PAYTM WALLET MUMBAI 69420,wallet
+IOC PETROL 14-04-23 56835,fuel
+DMART POS PMTS 3554,grocery
+NEFT PAYBACK REFUND ONLINE 91114,refund
+DMART POS INV64188,grocery
+AMAZON MKTPLACE UPI 67643,ecommerce
+LATTE HOUSE SWIPE 14779,coffee_shop
+IMPS BARISTA PMTS 23149,dining
+MCDONALDS INTL 85077,dining
+MNMART ONLINE INV40962,ecommerce
+POS CRED EMI 95634,electronics
+COFFEE DAY POS 6814,coffee_shop
+hotstar inv79431,entertainment
+AIRTEL BILLPAY INTL 98641,bills
+UPI ELECTRICITY BOARD ONLINE 869,bills
+AJIO EMI 85460,ecommerce
+INDIGO AIR INTL 38445,travel
+CRD GROCERIES ONLINE 97353,grocery
+PAYBACK REFUND ONLINE 78584,refund
+REFUND 48300,refund
+REFUND UPI 62338,refund
+MAKE MY TRIP PMTS 31801,travel
+UPI NATURAL BAZAR GOA 16070,grocery
+STARBUCKS PAYMENT 89515,dining
+MYNTRA LUCKNOW 5258,ecommerce
+PMTS DMART POS UPI 22461,grocery
+CRED EMI UPI 17828,electronics
+AMAZON REFUND TRF 88823,refund
+MNMART ONLINE - 77057,ecommerce
+INDANE FUEL SWIPE 82022,fuel
+BPCL 7974,fuel
+card ola 48365,travel
+PHARMA LANE INV92989,pharmacy
+CRED EMI INV2541,electronics
+POS REFUND ONLINE 72563,refund
+DBT AIR INDIA INV60195,travel
+GROCERIES ONLINE 20-08-25 22956,grocery
+card reliance digital - 28416,electronics
+MEDPLUS AUTO-DEBIT 37125,pharmacy
+UPI FLIPKART 12-11-25 32690,ecommerce
+PHARMACY 24-06-25 36654,pharmacy
+PMTS RELIANCE DIGITAL PAYMENT 16699,electronics
+MNMART ONLINE AUTO-DEBIT 69449,ecommerce
+CRD IRCTC ONLINE 36314,travel
+AMAZON MKTPLACE ONLINE 36774,ecommerce
+paytm mall 10-06-23 53333,ecommerce
+NEFT PAYTM MALL AUTO-DEBIT 47481,ecommerce
+DBT OLA PAYMENT 33149,travel
+AIR INDIA POS 94493,travel
+AJIO PMTS 22097,ecommerce
+GROCERIES ONLINE HYDERABAD 66378,grocery
+PETROL PUMP 69202,fuel
+APPLE ONLINE UPI 9761,electronics
+PHONEPE PAYMENT 99130,wallet
+swiggy kochi 8900,dining
+GOOGLE PAY BANGALORE 18037,wallet
+BUS TICKET 04-09-23 35432,transport
+HOTSTAR EMI 16828,entertainment
+DMART POS PAYMENT 55947,grocery
+CRD CRED EMI PMTS 84367,electronics
+BARISTA SWIPE 39166,dining
+AIR INDIA INV77637,travel
+MYNTRA POS 48722,ecommerce
+STARBUCKS POS 59356,dining
+SWP ZOMATO UPI 28809,dining
+RAILWAYS SWIPE 77809,transport
+PHARMACY SWIPE 80937,pharmacy
+JIO BILL 73931,bills
+BUS TICKET UPI 23080,transport
+UBER TRIP INV92056,travel
+POS AJIO EMI 36059,ecommerce
+AIR INDIA INV73243,travel
+RELIANCE DIGITAL 02-07-24 83873,electronics
+CARD OXFORD TAXI POS 5504,travel
+METRO CARD UPI 40700,transport
+BARISTA - 34545,dining
+dbt flipkart pmts 74521,ecommerce
+PAYTM WALLET PAYMENT 66562,wallet
+POS RELIANCE DIGITAL 38088,electronics
+COFFEE DAY TRF 61949,coffee_shop
+PHARMACY INV19551,pharmacy
+SWIGGY PAYMENT 43659,dining
+SWP ZOMATO INTL 92057,dining
+PMTS RELIANCE DIGITAL CHENNAI 98476,ecommerce
+METRO CARD 74979,transport
+MCDONALDS PAYMENT 30238,dining
+DMART POS INTL 46902,grocery
+AIRTEL BILLPAY ONLINE 74085,bills
+RTGS BSES 27588,bills
+BUS TICKET ONLINE 87638,transport
+MNMART ONLINE AUTO-DEBIT 61347,ecommerce
+MNMART ONLINE 15-09-25 44063,ecommerce
+SPOTIFY INTL 2446,entertainment
+IOC PETROL - 60162,fuel
+PMTS MCDONALDS PAYMENT 82809,dining
+BOOKMYSHOW SWIPE 39646,entertainment
+WATER BOARD 03-06-25 66466,bills
+UPI AIRTEL BILLPAY MUMBAI 11876,bills
+myntra emi 56159,ecommerce
+GOOGLE PAY 8804,wallet
+SQ * FLIPKART INTL 75285,ecommerce
+UBER TRIP UPI 960,travel
+NATURAL BAZAR ONLINE 81214,grocery
+FLIPKART - 6551,ecommerce
+HOTSTAR PMTS 19532,entertainment
+PHARMACY GOA 39440,pharmacy
+HPCL POS 34529,fuel
+INDANE FUEL ONLINE 491,fuel
+refund payment 98362,refund
+POS PAYBACK REFUND AUTO-DEBIT 78355,refund
+PAYTM MALL ONLINE 88854,ecommerce
+IMPS PHARMA LANE TRF 23401,pharmacy
+natural bazar auto-debit 55032,grocery
+COFFEE BEAN INV57721,coffee_shop
+BOOKMYSHOW AUTO-DEBIT 97526,entertainment
+DMART POS POS 74718,grocery
+NETFLIX UPI 50971,entertainment
+PAYTM MALL INV52384,ecommerce
+1MG AUTO-DEBIT 86004,pharmacy
+IMPS FLIPKART ONLINE 60167,ecommerce
+STARBUCKS PMTS 39500,dining
+SPOTIFY INV50114,entertainment
+IMPS INDANE FUEL POS 59049,fuel
+reliance digital pos 42316,electronics
+MEDPLUS TRF 13014,pharmacy
+ZOMATO LUCKNOW 75175,dining
+STARBUCKS TRF 14596,dining
+RTGS AJIO 02-08-25 61029,ecommerce
+AMAZON REFUND EMI 23580,refund
+ZOMATO UPI 41747,dining
+CRD CRED EMI UPI 15419,electronics
+SQ * RELIANCE DIGITAL TRF 62194,ecommerce
+card amazon mktplace emi 12115,ecommerce
+SPOTIFY TRF 89667,entertainment
+GROCERIES ONLINE POS 68432,grocery
+APPLE ONLINE PAYMENT 53350,electronics
+FLIPKART 78062,ecommerce
+POS SPAR GOA 90869,grocery
+SPOTIFY UPI 89510,entertainment
+RELIANCE DIGITAL TRF 62173,ecommerce
+AJIO DELHI 64968,ecommerce
